@@ -455,11 +455,15 @@ def _parse_rin_excel(filepath):
 @app.route("/")
 def index():
     """Serve the main dashboard."""
-    # Serve dashboard.html if it exists, otherwise fall back to index.html
     dashboard_path = os.path.join(PROJECT_DIR, "dashboard.html")
     if os.path.exists(dashboard_path):
-        from flask import send_from_directory
-        return send_from_directory(PROJECT_DIR, "dashboard.html")
+        from flask import make_response
+        with open(dashboard_path, "r", encoding="utf-8") as f:
+            content = f.read()
+        content = content.replace("IS_STANDALONE = true", "IS_STANDALONE = false")
+        resp = make_response(content)
+        resp.headers["Content-Type"] = "text/html; charset=utf-8"
+        return resp
     return render_template("index.html")
 
 

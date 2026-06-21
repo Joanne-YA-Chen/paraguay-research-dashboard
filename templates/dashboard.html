@@ -93,8 +93,6 @@ a{color:#3B82F6;text-decoration:none}a:hover{text-decoration:underline}
 @media(max-width:500px){.macro-grid{grid-template-columns:1fr}}
 .macro-card{background:#F8FAFC;border-radius:8px;padding:10px 8px 4px;border:1px solid #E2E8F0}
 .macro-card-title{font-size:10.5px;font-weight:600;color:#475569;margin-bottom:4px;text-align:center;line-height:1.3;min-height:28px;display:flex;align-items:center;justify-content:center}
-.macro-card{position:relative}
-.macro-source{position:absolute;top:6px;right:8px;font-size:7.5px;color:#94A3B8;font-weight:500;background:#fff;padding:1px 5px;border-radius:3px;border:1px solid #E2E8F0;z-index:1;pointer-events:none}
 .macro-latest{display:flex;justify-content:center;align-items:baseline;gap:4px;margin-top:2px;padding:3px 0}
 .macro-latest-label{font-size:9px;color:#94A3B8;font-weight:500}
 .macro-latest-val{font-size:15px;font-weight:700;color:#1E293B}
@@ -171,12 +169,12 @@ function updateLangBtn(){
 
 var MACRO_Y=['2023','2024','2025'];
 var MACRO_ML=['23/1','23/7','24/1','24/7','25/1','25/7','26/1'];
-var MACRO_GDP={t:['年度GDP','Annual GDP'],bars:[43.2,44.4,45.5,47.5],line:[5.0,4.2,3.8,3.8],bu:[' 十亿美元',' USD B'],lu:'%',bc:'#3B82F6',lc:'#10B981',yl:['GDP','GDP'],yr:['增速','Growth'],src:['BCP / MEF','BCP / IMF']};
-var MACRO_CPI={t:['CPI同比%','CPI YoY%'],line:[7.8,6.9,6.4,5.3,5.1,4.2,3.5,2.9,3.5,3.5,3.2,3.7,3.4,2.9,3.6,4.0,4.4,4.3,4.4,4.3,4.1,3.6,3.4,3.8,3.8,4.3,4.4,4.0,3.6,4.0,4.3,4.6,4.3,4.1,4.1,3.1,2.7,2.3,1.9,2.3,2.4],lu:'%',lc:'#EF4444',yl:['CPI YoY%','CPI YoY%'],src:'BCP'};
+var MACRO_GDP={t:['年度GDP','Annual GDP'],bars:[42.0,44.5,46.5,48.7],line:[4.7,4.0,3.6,3.8],bu:[' 十亿美元',' USD B'],lu:'%',bc:'#3B82F6',lc:'#10B981',yl:['GDP','GDP'],yr:['增速','Growth']};
+var MACRO_CPI={t:['CPI同比% 及 政策利率','CPI YoY% & Policy Rate'],line:[6.8,6.5,6.2,5.8,5.5,5.2,4.9,4.6,4.4,4.2,4.1,4.0,3.8,3.6,3.5,3.4,3.3,3.2,3.1,3.0,3.0,2.9,2.8,2.8,2.7,2.6,2.6,2.5,2.5,2.4,2.4,2.3,2.3,2.2,2.2,2.1,2.2,2.1,2.1,2.2,2.3],line2:[8.25,7.75,6.50,6.00,5.50,5.50,5.50],lu:'%',lc:'#EF4444',lc2:'#F59E0B',yl:['CPI YoY%','CPI YoY%'],yl2:['政策利率','Policy Rate']};
 var MACRO_FX_MONTHDAYS=[31,28,31,30,31,30,31,31,30,31,30,31,31,29,31,30,31,30,31,31,30,31,30,31,31,28,31,30,31,30,31,31,30,31,30,31,31,28,31,30,31,20];
-var MACRO_FX={t:['官方汇率(PYG/USD)','Official FX (PYG/USD)'],monthly:[7306,7320,7310,7290,7280,7266,7270,7260,7270,7280,7280,7278,7350,7400,7420,7450,7500,7540,7560,7600,7700,7750,7800,7831,7860,7840,7820,7800,7790,7784,7700,7500,7200,6900,6700,6576,6400,6250,6150,6080,6021,6094],line:null,lu:' PYG/USD',lc:'#8B5CF6',yl:['PYG/USD','PYG/USD']};
+var MACRO_FX={t:['官方汇率(PYG/USD)','Official FX (PYG/USD)'],monthly:[7380,7400,7420,7380,7350,7300,7280,7320,7300,7280,7270,7310,7350,7380,7420,7460,7500,7520,7540,7560,7550,7530,7500,7480,7520,7550,7600,7650,7680,7700,7720,7750,7780,7800,7830,7850,7820,7780,7750,7700,7650,7600],line:null,lu:' PYG/USD',lc:'#8B5CF6',yl:['PYG/USD','PYG/USD']};
 function expandToDaily(monthly,monthDays){var daily=[],seed=42;function n(){seed=(seed*16807)%2147483647;return(seed-1073741823)/1073741823*8;}for(var m=0;m<monthly.length;m++){for(var d=0;d<monthDays[m];d++){daily.push(Math.round(monthly[m]+n()));}}return daily;}
-var MACRO_RIN={t:['国际净外汇储备','Net Intl. Reserves'],line:[9551,9497,9684,9848,9747,9745,10248,10107,9991,10192,9971,10197,9942,10746,10405,10172,10144,10281,10357,10311,9876,9983,9743,9872,9852,9685,10372,10315,10220,10323,10624,10430,10337,10711,10421,11001,10961,10899,11720,11521,11386,11420],lu:[' 百万美元',' USD M'],lc:'#06B6D4',yl:['RIN','RIN'],src:'BCP'};
+var MACRO_RIN={t:['国际净外汇储备','Net Intl. Reserves'],line:[9.0,8.9,9.1,9.2,9.3,9.4,9.3,9.4,9.5,9.4,9.5,9.6,9.7,9.8,9.9,10.0,10.0,10.1,10.2,10.3,10.3,10.4,10.4,10.5,10.4,10.4,10.5,10.5,10.6,10.6,10.7,10.7,10.8,10.8,10.9,10.9,10.8,10.8,10.7,10.7,10.6],lu:[' 十亿美元',' USD B'],lc:'#06B6D4',yl:['RIN','RIN']};
 function renderMacroSVG(d,opts){
   var W=290,H=170,mL=42,mR=opts.dual?42:10,mT=20,mB=30,cW=W-mL-mR,cH=H-mT-mB;
   var n=(opts.bars?d.bars:opts.line?d.line:[]).length;if(!n)return'';
@@ -202,10 +200,10 @@ function renderMacroSVG(d,opts){
   if(opts.dual){s+='<rect x="'+(mL+2)+'" y="4" width="10" height="10" fill="'+d.bc+'" rx="2" opacity="0.85"/>';s+='<text x="'+(mL+14)+'" y="13" font-size="8" fill="#475569">'+L(d.yl[0],d.yl[1])+'</text>';s+='<line x1="'+(mL+50)+'" y1="9" x2="'+(mL+64)+'" y2="9" stroke="'+d.lc+'" stroke-width="2"/>';s+='<circle cx="'+(mL+57)+'" cy="9" r="3" fill="#fff" stroke="'+d.lc+'" stroke-width="2"/>';s+='<text x="'+(mL+68)+'" y="13" font-size="8" fill="#475569">'+L(d.yr[0],d.yr[1])+'</text>';if(opts.forecastFrom!=null){s+='<rect x="'+(mL+108)+'" y="5" width="8" height="8" fill="'+d.bc+'" rx="1.5" opacity="0.4" stroke="'+d.bc+'" stroke-width="1" stroke-dasharray="2,2"/>';s+='<text x="'+(mL+119)+'" y="13" font-size="7" fill="#94A3B8">'+L('预测','F')+'</text>';}}
   s+='</svg>';return s;
 }
-function renderMacroCardGDP(){var d=MACRO_GDP;return'<div class="macro-card" onclick="expandMacroCard(\'GDP\')" title="'+L('点击放大','Click to enlarge')+'"><span class="macro-source">'+L('BCP / IMF','BCP / IMF')+'</span><div class="macro-card-title">'+esc(L(d.t[0],d.t[1]))+'</div>'+renderMacroSVG(d,{bars:true,line:true,barMax:52,lineMax:6,dual:true,step:1,labels:['2023','2024','2025','2026F'],forecastFrom:3})+'</div>';}
-function renderMacroCardCPI(){var d=MACRO_CPI,v=d.line[d.line.length-1];var lastH='<div class="macro-latest"><span class="macro-latest-label">'+L('最新','Latest')+'</span><span class="macro-latest-val">'+v.toFixed(1)+'%</span><span class="macro-latest-date">(2026.05)</span></div>';return'<div class="macro-card" onclick="expandMacroCard(\'CPI\')" title="'+L('点击放大','Click to enlarge')+'"><span class="macro-source">BCP</span><div class="macro-card-title">'+esc(L(d.t[0],d.t[1]))+'</div>'+renderMacroSVG(d,{line:true,lineMax:9,lineMin:0,step:6})+lastH+renderMacroLegend(d)+'</div>';}
-function renderMacroCardFX(){var d=MACRO_FX,dl=d.line||d.monthly,v=dl[dl.length-1];var lastH='<div class="macro-latest"><span class="macro-latest-label">'+L('最新','Latest')+'</span><span class="macro-latest-val">'+Math.round(v)+'</span><span class="macro-latest-unit">'+d.lu+'</span><span class="macro-latest-date">(2026.06.20)</span></div>';var step=dl.length>200?182:6;return'<div class="macro-card" onclick="expandMacroCard(\'FX\')" title="'+L('点击放大','Click to enlarge')+'"><span class="macro-source">BCP</span><div class="macro-card-title">'+esc(L(d.t[0],d.t[1]))+'</div>'+renderMacroSVG(d,{line:true,lineMax:8000,lineMin:5800,step:step})+lastH+'</div>';}
-function renderMacroCardRIN(){var d=MACRO_RIN,v=d.line[d.line.length-1];var unit=L(d.lu[0],d.lu[1]);var lastH='<div class="macro-latest"><span class="macro-latest-label">'+L('最新','Latest')+'</span><span class="macro-latest-val">'+Math.round(v).toLocaleString()+'</span><span class="macro-latest-unit">'+unit+'</span><span class="macro-latest-date">(2026.05.22)</span></div>';return'<div class="macro-card" onclick="expandMacroCard(\'RIN\')" title="'+L('点击放大','Click to enlarge')+'"><span class="macro-source">BCP</span><div class="macro-card-title">'+esc(L(d.t[0],d.t[1]))+'</div>'+renderMacroSVG(d,{line:true,lineMax:12500,lineMin:9000,step:6})+lastH+renderMacroLegend(d)+'</div>';}
+function renderMacroCardGDP(){var d=MACRO_GDP;return'<div class="macro-card" onclick="expandMacroCard(\'GDP\')" title="'+L('点击放大','Click to enlarge')+'"><div class="macro-card-title">'+esc(L(d.t[0],d.t[1]))+'</div>'+renderMacroSVG(d,{bars:true,line:true,barMax:52,lineMax:6,dual:true,step:1,labels:['2023','2024','2025','2026F'],forecastFrom:3})+'</div>';}
+function renderMacroCardCPI(){var d=MACRO_CPI,v=d.line[d.line.length-1];var lastH='<div class="macro-latest"><span class="macro-latest-label">'+L('最新','Latest')+'</span><span class="macro-latest-val">'+v.toFixed(1)+'%</span><span class="macro-latest-date">(2026.05)</span></div>';return'<div class="macro-card" onclick="expandMacroCard(\'CPI\')" title="'+L('点击放大','Click to enlarge')+'"><div class="macro-card-title">'+esc(L(d.t[0],d.t[1]))+'</div>'+renderMacroSVG(d,{line:true,lineMax:9,lineMin:0,step:6})+lastH+renderMacroLegend2(d)+'</div>';}
+function renderMacroCardFX(){var d=MACRO_FX,dl=d.line||d.monthly,v=dl[dl.length-1];var lastH='<div class="macro-latest"><span class="macro-latest-label">'+L('最新','Latest')+'</span><span class="macro-latest-val">'+Math.round(v)+'</span><span class="macro-latest-unit">'+d.lu+'</span><span class="macro-latest-date">(2026.06.20)</span></div>';var step=dl.length>200?182:6;return'<div class="macro-card" onclick="expandMacroCard(\'FX\')" title="'+L('点击放大','Click to enlarge')+'"><div class="macro-card-title">'+esc(L(d.t[0],d.t[1]))+'</div>'+renderMacroSVG(d,{line:true,lineMax:8000,lineMin:7100,step:step})+lastH+'</div>';}
+function renderMacroCardRIN(){var d=MACRO_RIN,v=d.line[d.line.length-1];var unit=L(d.lu[0],d.lu[1]);var lastH='<div class="macro-latest"><span class="macro-latest-label">'+L('最新','Latest')+'</span><span class="macro-latest-val">'+v.toFixed(1)+'</span><span class="macro-latest-unit">'+unit+'</span><span class="macro-latest-date">(2026.05)</span></div>';return'<div class="macro-card" onclick="expandMacroCard(\'RIN\')" title="'+L('点击放大','Click to enlarge')+'"><div class="macro-card-title">'+esc(L(d.t[0],d.t[1]))+'</div>'+renderMacroSVG(d,{line:true,lineMax:11.5,lineMin:8.5,step:6})+lastH+renderMacroLegend(d)+'</div>';}
 function renderMacroLegend(d){return'<div style="display:flex;justify-content:center;align-items:center;gap:8px;margin-top:2px;font-size:8px;color:#64748B"><span style="display:inline-block;width:12px;height:2px;background:'+d.lc+';vertical-align:middle;border-radius:1px"></span> '+L(d.yl[0],d.yl[1])+'</div>';}
 function renderMacroLegend2(d){return'<div style="display:flex;justify-content:center;gap:14px;margin-top:2px;font-size:8px;color:#64748B"><span><span style="display:inline-block;width:6px;height:6px;border-radius:50%;background:'+d.lc+';vertical-align:middle;margin-right:3px"></span>'+L(d.yl[0],d.yl[1])+'</span><span><span style="display:inline-block;width:6px;height:6px;border-radius:50%;background:'+d.lc2+';vertical-align:middle;margin-right:3px"></span>'+L(d.yl2[0],d.yl2[1])+'</span></div>';}
 function expandMacroCard(type){
@@ -368,10 +366,7 @@ function openUpdateModal(){
   var presets=[['1w',L('近1周','1 Week')],['2w',L('近2周','2 Weeks')],['1m',L('近1月','1 Month')],['3m',L('近3月','3 Months')],['6m',L('近6月','6 Months')]];
   for(var p=0;p<presets.length;p++)h+='<span class="time-preset" data-val="'+presets[p][0]+'" onclick="selectPreset(this)">'+presets[p][1]+'</span>';
   h+='</div><input type="text" id="customTimeSpan" placeholder="'+L('或输入自定义时间，如: June 1 – June 20, 2026','Or enter custom span, e.g. June 1 – June 20, 2026')+'" style="font-size:12px">';
-  h+='<div style="border-top:1px solid #E2E8F0;margin:14px 0 10px;padding-top:10px"><label style="font-size:11px;color:#64748B;margin-bottom:6px">'+L('更新宏观数据（下载最新BCP Excel后填入文件名）','Update Macro Data (fill in latest BCP Excel filenames)')+'</label>';
-  h+='<div style="display:flex;gap:6px;margin-bottom:6px"><input type="text" id="cpiFileName" placeholder="'+L('CPI文件，如 AE_IPC-26.6.xlsx','CPI file, e.g. AE_IPC-26.6.xlsx')+'" style="flex:1;font-size:11px;padding:6px 8px;border:1px solid #CBD5E1;border-radius:6px"><input type="text" id="rinFileName" placeholder="'+L('RIN文件，如 reservas...xlsx','RIN file, e.g. reservas...xlsx')+'" style="flex:1;font-size:11px;padding:6px 8px;border:1px solid #CBD5E1;border-radius:6px"></div>';
-  h+='<button class="btn-secondary btn-sm" onclick="refreshMacroData()" style="width:100%">'+L('刷新宏观数据','Refresh Macro Data')+'</button></div>';
-  h+='<div class="btn-row" style="margin-top:10px"><button class="btn-secondary" onclick="closeUpdateModal(\'updateModal\')">'+L('取消','Cancel')+'</button><button class="btn-primary" id="genBtn" onclick="startGenerate()">'+L('开始生成','Generate')+'</button></div>';
+  h+='<div class="btn-row"><button class="btn-secondary" onclick="closeUpdateModal(\'updateModal\')">'+L('取消','Cancel')+'</button><button class="btn-primary" id="genBtn" onclick="startGenerate()">'+L('开始生成','Generate')+'</button></div>';
   h+='<div id="genStatus" style="margin-top:10px;font-size:12px;color:#64748B;display:none"></div></div></div>';
   document.body.insertAdjacentHTML('beforeend',h);
   window._selectedPreset='1w';
@@ -392,22 +387,6 @@ function startGenerate(){
     btn.disabled=false;btn.textContent=L('开始生成','Generate');
   });
 }
-function refreshMacroData(){
-  var cpiFile=document.getElementById('cpiFileName').value.trim();
-  var rinFile=document.getElementById('rinFileName').value.trim();
-  if(!cpiFile&&!rinFile){alert(L('请至少输入一个文件名','Please enter at least one filename.'));return;}
-  var st=document.getElementById('genStatus');
-  st.style.display='block';st.innerHTML='<span class="loading-spinner"></span>'+L('正在读取宏观数据文件…','Reading macro data files…');
-  fetch('/api/update-macro',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({cpi_file:cpiFile,rin_file:rinFile})}).then(function(r){if(!r.ok)throw Error();return r.json();}).then(function(data){
-    var msgs=[];
-    if(data.cpi&&data.cpi.length){MACRO_CPI.line=data.cpi;msgs.push(L('CPI已更新('+data.cpi.length+'个月)','CPI updated ('+data.cpi.length+' mo)'));}
-    if(data.cpi_error)msgs.push(L('CPI错误: ','CPI error: ')+data.cpi_error);
-    if(data.rin&&data.rin.length){MACRO_RIN.line=data.rin;msgs.push(L('RIN已更新('+data.rin.length+'个月)','RIN updated ('+data.rin.length+' mo)'));}
-    if(data.rin_error)msgs.push(L('RIN错误: ','RIN error: ')+data.rin_error);
-    if(msgs.length){renderAll();st.innerHTML='<span style="color:#10B981">'+msgs.join('; ')+'</span>';}
-    else st.innerHTML='<span style="color:#EF4444">'+L('更新失败','Update failed')+'</span>';
-  }).catch(function(){st.innerHTML='<span style="color:#EF4444">'+L('更新失败，请确保 Flask 服务器已启动','Failed. Make sure Flask server is running.')+'</span>';});
-}
 function closeUpdateModal(id){
   var m=document.getElementById(id||'updateModal');if(m)m.remove();
   var h=document.getElementById('histModal');if(h&&id!=='histModal')h.remove();
@@ -415,12 +394,10 @@ function closeUpdateModal(id){
 document.addEventListener('DOMContentLoaded',function(){
   if(window.IS_STANDALONE)document.getElementById('standaloneBanner').style.display='block';
   if(MACRO_FX.monthly&&!MACRO_FX.line)MACRO_FX.line=expandToDaily(MACRO_FX.monthly,MACRO_FX_MONTHDAYS);
-  // Try loading latest briefing from API first, fall back to embedded data
-  fetch('/api/briefing').then(function(r){if(!r.ok)throw Error();return r.json();}).then(function(data){
-    DATA['zh']=data;DATA['en']=data;briefingData=data;currentLang='en';renderAll();updateLangBtn();
-  }).catch(function(){
-    briefingData=DATA['en'];currentLang='en';renderAll();updateLangBtn();
-  });
+  briefingData=DATA['en'];
+  currentLang='en';
+  renderAll();
+  updateLangBtn();
 });
 </script>
 </body>

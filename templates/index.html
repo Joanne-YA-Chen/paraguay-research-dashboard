@@ -1,0 +1,979 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Paraguay Macro Research Briefing</title>
+<style>
+/* ====== Reset & Base ====== */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", sans-serif;
+  background: #F0F4FF; color: #1E293B; line-height: 1.6; min-height: 100vh;
+}
+a { color: #3B82F6; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* ====== Header ====== */
+.header {
+  background: #fff; color: #1E293B; padding: 20px 32px;
+  display: flex; align-items: center; justify-content: space-between;
+  flex-wrap: wrap; gap: 14px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06); position: sticky; top: 0; z-index: 100;
+  border-bottom: 3px solid #3B82F6;
+}
+.header-left { display: flex; align-items: center; gap: 14px; }
+.header-logo {
+  width: 42px; height: 42px; border-radius: 10px;
+  background: linear-gradient(135deg, #3B82F6, #6366F1);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 20px; color: #fff; font-weight: 700; flex-shrink: 0;
+}
+.header-left h1 { font-size: 20px; font-weight: 700; color: #1E293B; }
+.header-left .subtitle { font-size: 12px; color: #64748B; margin-top: 2px; }
+.header-right { display: flex; gap: 8px; align-items: center; }
+.btn {
+  display: inline-flex; align-items: center; gap: 6px; padding: 9px 18px;
+  border: none; border-radius: 8px; font-size: 13px; font-weight: 600;
+  cursor: pointer; transition: all 0.2s; white-space: nowrap;
+}
+.btn-primary { background: #3B82F6; color: #fff; }
+.btn-primary:hover { background: #2563EB; transform: translateY(-1px); box-shadow: 0 4px 12px rgba(59,130,246,0.35); }
+.btn-secondary { background: #F1F5F9; color: #475569; }
+.btn-secondary:hover { background: #E2E8F0; }
+.btn-outline { background: #fff; color: #3B82F6; border: 2px solid #3B82F6; }
+.btn-outline:hover { background: #EFF6FF; }
+.btn-lang {
+  background: #EEF2FF; color: #4F46E5; font-weight: 700; font-size: 12px;
+  padding: 8px 14px; border-radius: 20px; border: none; cursor: pointer;
+  transition: all 0.2s;
+}
+.btn-lang:hover { background: #E0E7FF; }
+
+/* ====== Standalone Banner ====== */
+.standalone-banner {
+  background: #FEF3C7; color: #92400E; text-align: center; padding: 6px 16px;
+  font-size: 12px; border-bottom: 1px solid #FDE68A;
+}
+.standalone-banner code { background: #FDE68A; padding: 1px 5px; border-radius: 3px; font-size: 11px; }
+
+/* ====== Stats Row ====== */
+.stats-row {
+  max-width: 1400px; margin: 0 auto; padding: 16px 32px;
+  display: flex; flex-direction: column; gap: 8px;
+}
+.stats-row-total {
+  display: flex; justify-content: center;
+}
+.stats-row-sections {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px;
+}
+@media (max-width: 768px) {
+  .stats-row-sections { grid-template-columns: repeat(2, 1fr); }
+}
+
+.stat-pill {
+  display: flex; align-items: center; gap: 8px; padding: 10px 16px; border-radius: 10px;
+  cursor: pointer; transition: all 0.2s;
+  border: 2px solid transparent; font-size: 13px; font-weight: 600;
+  user-select: none; min-width: 0;
+}
+.stat-pill:hover { transform: translateY(-1px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+.stat-pill:active { transform: scale(0.97); }
+.stat-pill .pill-dot {
+  width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0;
+}
+.stat-pill .pill-label {
+  font-size: 13px; font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.stat-pill .pill-count {
+  font-size: 14px; font-weight: 700; margin-left: auto; flex-shrink: 0;
+  background: rgba(255,255,255,0.5); padding: 1px 8px; border-radius: 10px;
+}
+
+/* Total pill */
+.stat-pill.pill-total { background: #1E293B; color: #fff; font-weight: 700; border-radius: 24px; display: inline-flex; }
+.stat-pill.pill-total .pill-count { background: rgba(255,255,255,0.2); }
+
+/* ====== Content ====== */
+.content { max-width: 1400px; margin: 0 auto; padding: 0 32px 60px; }
+
+/* Section */
+.section {
+  background: #fff; border-radius: 14px; margin-bottom: 18px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.05); overflow: hidden;
+  border-top: 4px solid #3B82F6;
+}
+.section.s-color-1 { border-top-color: #3B82F6; }  /* Macro - blue */
+.section.s-color-2 { border-top-color: #EF4444; }  /* Politics - red */
+.section.s-color-3 { border-top-color: #10B981; }  /* Social - green */
+.section.s-color-4 { border-top-color: #8B5CF6; }  /* International - purple */
+.section.s-color-5 { border-top-color: #06B6D4; }  /* Industry - cyan */
+.section.s-color-6 { border-top-color: #F59E0B; }  /* Clients - amber */
+.section.s-color-7 { border-top-color: #6366F1; }  /* Enterprise - indigo */
+.section.s-color-8 { border-top-color: #EC4899; }  /* China - pink */
+.section.tier-2 { background: #FAFBFC; }
+
+.section-header {
+  padding: 16px 22px 0; display: flex; align-items: center;
+  justify-content: space-between; gap: 12px; flex-wrap: wrap;
+}
+.section-header h2 { font-size: 16px; font-weight: 700; color: #1E293B; }
+.section-header .badge {
+  font-size: 11px; font-weight: 600; padding: 4px 12px; border-radius: 20px;
+  background: #F1F5F9; color: #64748B; white-space: nowrap;
+}
+.section-desc { padding: 4px 22px 10px; font-size: 12px; color: #94A3B8; }
+
+/* Events Grid */
+.events-grid {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+  gap: 10px; padding: 4px 22px 18px;
+}
+@media (max-width: 860px) { .events-grid { grid-template-columns: 1fr; } }
+
+/* Event Card */
+.event-card {
+  background: #fff; border: 1px solid #E2E8F0; border-radius: 10px;
+  overflow: hidden; transition: all 0.2s; display: flex; gap: 0;
+}
+.event-card:hover {
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08); transform: translateY(-1px);
+  border-color: #CBD5E1;
+}
+.event-card .event-img {
+  width: 160px; min-height: 140px; flex-shrink: 0; position: relative;
+  overflow: hidden;
+}
+.event-card .event-img img {
+  width: 100%; height: 100%; object-fit: cover; display: block;
+}
+.event-card .event-img .img-placeholder {
+  width: 100%; height: 100%; display: flex; align-items: center;
+  justify-content: center; font-size: 32px; color: #fff;
+}
+.event-card .event-body { padding: 12px 15px; flex: 1; min-width: 0; display: flex; flex-direction: column; }
+.event-card .event-meta { display: flex; gap: 5px; margin-bottom: 6px; flex-wrap: wrap; }
+.event-card .event-tag {
+  font-size: 10px; font-weight: 600; padding: 2px 8px; border-radius: 4px;
+}
+.event-tag.date { background: #F1F5F9; color: #64748B; }
+.event-tag.gov { background: #DCFCE7; color: #15803D; }
+.event-tag.auth { background: #DBEAFE; color: #1D4ED8; }
+.event-tag.source { background: #FEF3C7; color: #A16207; }
+.event-card .event-title { font-size: 13px; font-weight: 600; color: #1E293B; margin-bottom: 4px; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.event-card .event-summary { font-size: 12px; color: #64748B; line-height: 1.5; flex: 1; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.event-card .event-link { font-size: 11px; margin-top: 6px; color: #3B82F6; font-weight: 500; }
+
+/* Analysis (Tier 2) */
+.analysis-body { padding: 4px 22px 20px; font-size: 13px; line-height: 1.8; color: #334155; }
+.analysis-body h3 { font-size: 15px; font-weight: 700; margin: 14px 0 6px; color: #1E293B; }
+.analysis-body h4 { font-size: 13px; font-weight: 700; margin: 10px 0 4px; color: #334155; }
+.analysis-body ul { padding-left: 0; list-style: none; }
+.analysis-body li { padding: 2px 0 2px 18px; position: relative; }
+.analysis-body li::before { content: "•"; position: absolute; left: 2px; color: #3B82F6; font-weight: bold; }
+
+/* Tier divider */
+.tier-divider {
+  text-align: center; padding: 16px 0 8px; margin: 8px 0;
+}
+.tier-divider span {
+  background: linear-gradient(135deg, #3B82F6, #6366F1); color: #fff;
+  padding: 8px 28px; border-radius: 20px; font-size: 13px; font-weight: 600;
+  box-shadow: 0 2px 8px rgba(59,130,246,0.25);
+}
+
+/* Empty State */
+.empty-state {
+  text-align: center; padding: 80px 20px; color: #94A3B8;
+}
+.empty-state .empty-icon { font-size: 56px; margin-bottom: 16px; opacity: 0.7; }
+.empty-state h3 { font-size: 20px; margin-bottom: 8px; color: #475569; }
+.empty-state p { font-size: 14px; margin-bottom: 20px; }
+
+/* ====== Modal ====== */
+.modal-overlay {
+  display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+  background: rgba(15,23,42,0.5); z-index: 200; align-items: center; justify-content: center;
+  backdrop-filter: blur(2px);
+}
+.modal-overlay.active { display: flex; }
+.modal {
+  background: #fff; border-radius: 16px; padding: 28px 30px; width: 90%; max-width: 520px;
+  box-shadow: 0 25px 60px rgba(0,0,0,0.15); animation: modalIn 0.25s ease;
+}
+@keyframes modalIn { from { opacity: 0; transform: translateY(20px) scale(0.96); } to { opacity: 1; transform: translateY(0) scale(1); } }
+.modal h3 { font-size: 20px; font-weight: 700; color: #1E293B; margin-bottom: 6px; }
+.modal .modal-sub { font-size: 13px; color: #94A3B8; margin-bottom: 20px; }
+
+.preset-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-bottom: 18px; }
+.preset-btn {
+  padding: 12px 8px; border: 2px solid #E2E8F0; border-radius: 10px; background: #fff;
+  cursor: pointer; text-align: center; transition: all 0.2s; font-size: 13px;
+}
+.preset-btn:hover { border-color: #3B82F6; background: #F8FAFC; }
+.preset-btn.selected { border-color: #3B82F6; background: #EFF6FF; color: #2563EB; font-weight: 700; }
+.preset-btn .preset-label { font-weight: 600; font-size: 13px; }
+.preset-btn .preset-dates { font-size: 10px; color: #94A3B8; margin-top: 2px; }
+
+.custom-row { display: flex; gap: 10px; align-items: center; margin-bottom: 18px; }
+.custom-row input[type="date"] {
+  flex: 1; padding: 10px 12px; border: 2px solid #E2E8F0; border-radius: 8px; font-size: 13px;
+  font-family: inherit; color: #334155;
+}
+.custom-row input[type="date"]:focus { outline: none; border-color: #3B82F6; }
+.custom-row span { color: #94A3B8; font-size: 13px; }
+
+.topic-row { margin-bottom: 18px; }
+.topic-row label { display: block; font-size: 12px; font-weight: 600; color: #475569; margin-bottom: 4px; }
+.topic-row input[type="text"] {
+  width: 100%; padding: 10px 12px; border: 2px solid #E2E8F0; border-radius: 8px; font-size: 13px;
+}
+.topic-row input[type="text"]:focus { outline: none; border-color: #3B82F6; }
+
+.modal-actions { display: flex; gap: 10px; justify-content: flex-end; }
+
+/* ====== Loading Overlay ====== */
+.loading-overlay {
+  display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+  background: rgba(15,23,42,0.8); z-index: 300; flex-direction: column;
+  align-items: center; justify-content: center; gap: 16px;
+}
+.loading-overlay.active { display: flex; }
+.spinner {
+  width: 48px; height: 48px; border: 4px solid rgba(255,255,255,0.2);
+  border-top-color: #60A5FA; border-radius: 50%; animation: spin 0.8s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+.loading-text { color: #fff; font-size: 16px; font-weight: 600; }
+.loading-sub { color: #93C5FD; font-size: 13px; }
+
+/* ====== Toast ====== */
+.toast {
+  position: fixed; bottom: 24px; right: 24px; padding: 12px 20px; border-radius: 10px;
+  color: #fff; font-size: 13px; font-weight: 600; z-index: 400;
+  animation: toastIn 0.3s ease; box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+}
+@keyframes toastIn { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+.toast.success { background: #10B981; }
+.toast.error { background: #EF4444; }
+
+/* ====== Footer ====== */
+.footer {
+  text-align: center; padding: 20px 32px 40px; color: #94A3B8; font-size: 12px;
+  max-width: 1400px; margin: 0 auto;
+}
+
+/* ====== Responsive ====== */
+@media (max-width: 768px) {
+  .header { padding: 14px 16px; }
+  .header-left h1 { font-size: 16px; }
+  .stats-row { padding: 10px 14px; gap: 6px; }
+  .stats-row-sections { grid-template-columns: repeat(2, 1fr); }
+  .stat-pill { padding: 8px 12px; font-size: 12px; }
+  .stat-pill .pill-label { font-size: 11px; }
+  .content { padding: 0 12px 40px; }
+  .section-header { padding: 12px 14px 0; }
+  .events-grid { grid-template-columns: 1fr; padding: 4px 14px 14px; }
+  .event-card { flex-direction: column; }
+  .event-card .event-img { width: 100%; min-height: 120px; max-height: 180px; }
+  .preset-grid { grid-template-columns: repeat(2, 1fr); }
+  .modal { padding: 20px; }
+}
+</style>
+</head>
+<body>
+
+<!-- Standalone banner (hidden in server mode) -->
+<div class="standalone-banner" id="standaloneBanner" style="display:none;"></div>
+
+<!-- ====== Header ====== -->
+<header class="header">
+  <div class="header-left">
+    <div class="header-logo">PY</div>
+    <div>
+      <h1>巴拉圭简报</h1>
+      <div class="subtitle" id="headerSubtitle">加载中...</div>
+    </div>
+  </div>
+  <div class="header-right">
+    <button class="btn-lang" id="langBtn" onclick="switchLanguage()" title="切换语言">EN</button>
+    <button class="btn btn-secondary" onclick="switchBriefing()" title="切换已有简报">历史简报</button>
+    <button class="btn btn-primary" onclick="openModal()">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/><path d="M12 8v8M8 12h8"/></svg>
+      更新简报
+    </button>
+  </div>
+</header>
+
+<!-- ====== Stats Row ====== -->
+<div class="stats-row" id="statsRow"></div>
+
+<!-- ====== Content ====== -->
+<div class="content" id="contentArea">
+  <div class="empty-state" id="emptyState">
+    <div class="empty-icon">📋</div>
+    <h3>暂无简报数据</h3>
+    <p>点击右上角「更新简报」按钮生成最新调研报告</p>
+    <button class="btn btn-primary" onclick="openModal()">开始生成</button>
+  </div>
+</div>
+
+<!-- ====== Footer ====== -->
+<div class="footer">
+  Paraguay Macro Research Briefing Tool · Data sourced from public news and government websites
+</div>
+
+<!-- ====== Update Modal ====== -->
+<div class="modal-overlay" id="modalOverlay" onclick="closeModal(event)">
+  <div class="modal" onclick="event.stopPropagation()">
+    <h3>更新简报</h3>
+    <p class="modal-sub">选择时间跨度并开始搜索最新资讯</p>
+    <div class="preset-grid" id="presetGrid"></div>
+    <div class="custom-row">
+      <input type="date" id="customStart" onchange="onCustomDate()">
+      <span>—</span>
+      <input type="date" id="customEnd" onchange="onCustomDate()">
+    </div>
+    <div class="topic-row">
+      <label for="topicInput">${t('topicLabel')}</label>
+      <input type="text" id="topicInput" value="Paraguay Briefing">
+    </div>
+    <div class="modal-actions">
+      <button class="btn btn-outline" onclick="closeModal()">取消</button>
+      <button class="btn btn-primary" id="generateBtn" onclick="startGenerate()">开始生成简报</button>
+    </div>
+  </div>
+</div>
+
+<!-- ====== Loading Overlay ====== -->
+<div class="loading-overlay" id="loadingOverlay">
+  <div class="spinner"></div>
+  <div class="loading-text" id="loadingText">正在搜索资讯...</div>
+  <div class="loading-sub" id="loadingSub"></div>
+</div>
+
+<!-- ====== Switch Briefing Modal ====== -->
+<div class="modal-overlay" id="switchOverlay" onclick="closeSwitchModal(event)">
+  <div class="modal" onclick="event.stopPropagation()">
+    <h3>历史简报</h3>
+    <p class="modal-sub">选择已保存的简报查看</p>
+    <div id="briefingList" style="max-height:300px;overflow-y:auto;"></div>
+    <div class="modal-actions" style="margin-top:16px;">
+      <button class="btn btn-outline" onclick="closeSwitchModal()">关闭</button>
+    </div>
+  </div>
+</div>
+
+<!-- ====== Toast ====== -->
+<div id="toast"></div>
+
+<script>
+// ====== Translations ======
+const T = {
+  // Header & nav
+  'loading':           { zh: '加载中...', en: 'Loading...' },
+  'noBriefing':        { zh: '尚无简报', en: 'No briefing' },
+  'noBriefingTitle':   { zh: '暂无简报数据', en: 'No briefing data' },
+  'noBriefingDesc':    { zh: '点击右上角「更新简报」按钮生成最新调研报告', en: 'Click "Update" to generate a briefing' },
+  'startGenerate':     { zh: '开始生成', en: 'Start' },
+  'updateBriefing':    { zh: '更新简报', en: 'Update' },
+  'historyBriefing':   { zh: '历史简报', en: 'History' },
+  'allEvents':         { zh: '全部事件', en: 'All Events' },
+  'eventsSuffix':      { zh: '条事件', en: ' events' },
+  'noEvents':          { zh: '${t('noEvents')}', en: 'No events in this period' },
+  'tierDivider':       { zh: '形势分析与行动建议', en: 'Analysis & Recommendations' },
+  'offlineBanner':     { zh: '离线浏览模式 · 数据更新需运行 <code>python3 web_app.py</code> 启动在线服务', en: 'Offline mode · Run <code>python3 web_app.py</code> for live updates' },
+  'govSource':         { zh: '${t('govSource')}', en: 'Government' },
+  'authSource':        { zh: '${t('authSource')}', en: 'Authoritative' },
+  'readMore':          { zh: '${t('readMore')}', en: 'Read more →' },
+  // Modal
+  'updateModalTitle':  { zh: '更新简报', en: 'Update Briefing' },
+  'updateModalSub':    { zh: '选择时间跨度并开始搜索最新资讯', en: 'Select time span to search latest news' },
+  'cancel':            { zh: '取消', en: 'Cancel' },
+  'generateBtn':       { zh: '开始生成简报', en: 'Generate Briefing' },
+  'historyModalTitle': { zh: '历史简报', en: 'Saved Briefings' },
+  'historyModalSub':   { zh: '选择已保存的简报查看', en: 'Select a saved briefing' },
+  'close':             { zh: '关闭', en: 'Close' },
+  'noHistory':         { zh: '暂无历史简报', en: 'No saved briefings' },
+  'loadingBriefing':   { zh: '正在加载简报...', en: 'Loading briefing...' },
+  // Generate loading
+  'searchMacro':       { zh: '正在搜索巴拉圭宏观经济资讯...', en: 'Searching macroeconomic news...' },
+  'searchPolitics':    { zh: '正在搜索政治与政策动态...', en: 'Searching political developments...' },
+  'searchSocial':      { zh: '正在搜索社会与安全形势...', en: 'Searching social & security news...' },
+  'searchIntl':        { zh: '正在搜索国际关系动态...', en: 'Searching international relations...' },
+  'searchIndustry':    { zh: '正在搜索行业专题资讯...', en: 'Searching industry news...' },
+  'searchClients':     { zh: '正在搜索主要客户动向...', en: 'Searching client movements...' },
+  'compiling':         { zh: '正在编译分析报告...', en: 'Compiling analysis...' },
+  'compilingSub':      { zh: '整合数据并生成影响分析', en: 'Integrating data & generating analysis' },
+  'almostDone':        { zh: '即将完成...', en: 'Almost done...' },
+  'almostDoneSub':     { zh: '正在保存简报数据', en: 'Saving briefing data' },
+  // Toast
+  'switchedZh':        { zh: '已切换到中文', en: 'Switched to Chinese' },
+  'switchedEn':        { zh: 'Switched to English', en: 'Switched to English' },
+  'generateSuccess':   { zh: '简报生成成功！', en: 'Briefing generated!' },
+  'generateFailed':    { zh: '生成失败', en: 'Generation failed' },
+  'loadFailed':        { zh: '加载失败', en: 'Load failed' },
+  'offlineNoUpdate':   { zh: '离线模式下无法更新。请运行 python3 web_app.py 启动在线服务后使用。', en: 'Updates unavailable in offline mode. Run python3 web_app.py for live updates.' },
+  'zhVersion':         { zh: '中文版', en: 'Chinese' },
+  'enVersion':         { zh: 'English', en: 'English' },
+  'view':              { zh: '查看 →', en: 'View →' },
+  // Presets
+  'preset1w':          { zh: '最近一周', en: '1 Week' },
+  'preset2w':          { zh: '最近两周', en: '2 Weeks' },
+  'preset1m':          { zh: '最近1个月', en: '1 Month' },
+  'preset3m':          { zh: '最近3个月', en: '3 Months' },
+  'preset6m':          { zh: '最近6个月', en: '6 Months' },
+  'presetYtd':         { zh: '今年至今', en: 'YTD' },
+  'topicLabel':        { zh: '调研主题', en: 'Topic' },
+};
+
+function t(key) {
+  return (T[key] && T[key][currentLang]) ? T[key][currentLang] : key;
+}
+
+// ====== State ======
+let briefingData = null;
+const T = {
+  'loading':{zh:'加载中...',en:'Loading...'}, 'noBriefing':{zh:'尚无简报',en:'No briefing'},
+  'noBriefingTitle':{zh:'暂无简报数据',en:'No briefing data'},
+  'noBriefingDesc':{zh:'点击右上角「更新简报」按钮生成最新调研报告',en:'Click "Update" to generate a briefing'},
+  'startGenerate':{zh:'开始生成',en:'Start'}, 'updateBriefing':{zh:'更新简报',en:'Update'},
+  'historyBriefing':{zh:'历史简报',en:'History'}, 'allEvents':{zh:'全部事件',en:'All Events'},
+  'eventsSuffix':{zh:'条事件',en:' events'}, 'noEvents':{zh:'${t('noEvents')}',en:'No events in this period'},
+  'tierDivider':{zh:'形势分析与行动建议',en:'Analysis & Recommendations'},
+  'offlineBanner':{zh:'离线浏览模式 · 数据更新需运行 <code>python3 web_app.py</code> 启动在线服务',en:'Offline mode · Run <code>python3 web_app.py</code> for live updates'},
+  'govSource':{zh:'${t('govSource')}',en:'Government'}, 'authSource':{zh:'${t('authSource')}',en:'Authoritative'},
+  'readMore':{zh:'${t('readMore')}',en:'Read more →'},
+  'updateModalTitle':{zh:'更新简报',en:'Update Briefing'}, 'updateModalSub':{zh:'选择时间跨度并开始搜索最新资讯',en:'Select time span to search latest news'},
+  'cancel':{zh:'取消',en:'Cancel'}, 'generateBtn':{zh:'开始生成简报',en:'Generate Briefing'},
+  'historyModalTitle':{zh:'历史简报',en:'Saved Briefings'}, 'historyModalSub':{zh:'选择已保存的简报查看',en:'Select a saved briefing'},
+  'close':{zh:'关闭',en:'Close'}, 'noHistory':{zh:'暂无历史简报',en:'No saved briefings'},
+  'loadingBriefing':{zh:'正在加载简报...',en:'Loading briefing...'},
+  'searchMacro':{zh:'正在搜索巴拉圭宏观经济资讯...',en:'Searching macroeconomic news...'},
+  'searchPolitics':{zh:'正在搜索政治与政策动态...',en:'Searching political developments...'},
+  'searchSocial':{zh:'正在搜索社会与安全形势...',en:'Searching social & security news...'},
+  'searchIntl':{zh:'正在搜索国际关系动态...',en:'Searching international relations...'},
+  'searchIndustry':{zh:'正在搜索行业专题资讯...',en:'Searching industry news...'},
+  'searchClients':{zh:'正在搜索主要客户动向...',en:'Searching client movements...'},
+  'compiling':{zh:'正在编译分析报告...',en:'Compiling analysis...'},
+  'compilingSub':{zh:'整合数据并生成影响分析',en:'Integrating data & generating analysis'},
+  'almostDone':{zh:'即将完成...',en:'Almost done...'}, 'almostDoneSub':{zh:'正在保存简报数据',en:'Saving briefing data'},
+  'switchedZh':{zh:'已切换到中文',en:'Switched to Chinese'}, 'switchedEn':{zh:'Switched to English',en:'Switched to English'},
+  'generateSuccess':{zh:'简报生成成功！',en:'Briefing generated!'}, 'generateFailed':{zh:'生成失败',en:'Generation failed'},
+  'loadFailed':{zh:'加载失败',en:'Load failed'}, 'offlineNoUpdate':{zh:'离线模式下无法更新。请运行 python3 web_app.py 启动在线服务后使用。',en:'Updates unavailable in offline mode. Run python3 web_app.py for live updates.'},
+  'zhVersion':{zh:'中文版',en:'Chinese'}, 'enVersion':{zh:'English',en:'English'}, 'view':{zh:'查看 →',en:'View →'},
+  'preset1w':{zh:'最近一周',en:'1 Week'}, 'preset2w':{zh:'最近两周',en:'2 Weeks'},
+  'preset1m':{zh:'最近1个月',en:'1 Month'}, 'preset3m':{zh:'最近3个月',en:'3 Months'},
+  'preset6m':{zh:'最近6个月',en:'6 Months'}, 'presetYtd':{zh:'今年至今',en:'YTD'},
+  'topicLabel':{zh:'调研主题',en:'Topic'},
+};
+function t(key) { return (T[key] && T[key][currentLang]) ? T[key][currentLang] : key; }
+
+let currentLang = 'en';
+let selectedPreset = null;
+let customStartDate = null;
+let customEndDate = null;
+
+// Section accent gradients for image placeholders
+const SECTION_GRADIENTS = [
+  ['#3B82F6', '#2563EB'],  // Blue
+  ['#EF4444', '#DC2626'],  // Red
+  ['#10B981', '#059669'],  // Green
+  ['#8B5CF6', '#7C3AED'],  // Purple
+  ['#06B6D4', '#0891B2'],  // Cyan
+  ['#F59E0B', '#D97706'],  // Amber
+  ['#6366F1', '#4F46E5'],  // Indigo
+  ['#EC4899', '#DB2777'],  // Pink
+];
+
+// Icons for section image placeholders
+const SECTION_ICONS = ['📊', '🏛️', '👥', '🌐', '📡', '🏢', '📋', '🇨🇳'];
+
+// ====== Init ======
+document.addEventListener('DOMContentLoaded', () => {
+  if (window.IS_STANDALONE) {
+    document.getElementById('standaloneBanner').style.display = 'block'; document.getElementById('standaloneBanner').innerHTML = t('offlineBanner');
+    document.getElementById('langBtn').style.display = '';
+  }
+  loadBriefing();
+  buildPresetGrid();
+});
+
+// ====== Load Briefing ======
+async function loadBriefing() {
+  try {
+    if (window.IS_STANDALONE && window.EMBEDDED_BRIEFINGS) {
+      briefingData = window.EMBEDDED_BRIEFINGS['en'] || window.EMBEDDED_BRIEFINGS.zh;
+      currentLang = 'en';
+      updateLangButton();
+      renderAll();
+      return;
+    }
+    // Server mode: prefer English first
+    let resp = await fetch('/api/briefing/briefing_en.json');
+    if (!resp.ok) resp = await fetch('/api/briefing');
+    if (!resp.ok) {
+      showEmptyState();
+      return;
+    }
+    briefingData = await resp.json();
+    currentLang = 'en';
+    updateLangButton();
+    renderAll();
+  } catch (e) {
+    console.error('Failed to load briefing:', e);
+    showEmptyState();
+  }
+}
+
+function updateLangButton() {
+  const btn = document.getElementById('langBtn');
+  if (!briefingData) return;
+  const isZh = (briefingData.topic || '').includes('巴拉圭') || (briefingData.time_span || '').includes('年');
+  currentLang = isZh ? 'zh' : 'en';
+  btn.textContent = currentLang === 'zh' ? 'EN' : '中文';
+}
+
+function showEmptyState() {
+  document.getElementById('contentArea').innerHTML = `
+    <div class="empty-state">
+      <div class="empty-icon">📋</div>
+      <h3>暂无简报数据</h3>
+      <p>点击右上角「更新简报」按钮生成最新调研报告</p>
+      <button class="btn btn-primary" onclick="openModal()">开始生成</button>
+    </div>`;
+  document.getElementById('statsRow').innerHTML = '';
+  document.getElementById('headerSubtitle').textContent = t('noBriefing');
+}
+
+// ====== Language Switch ======
+async function switchLanguage() {
+  if (window.IS_STANDALONE && window.EMBEDDED_BRIEFINGS) {
+    currentLang = currentLang === 'zh' ? 'en' : 'zh';
+    briefingData = window.EMBEDDED_BRIEFINGS[currentLang] || window.EMBEDDED_BRIEFINGS.zh;
+    document.getElementById('langBtn').textContent = currentLang === 'zh' ? 'EN' : '中文'; updateUITexts();
+    renderAll();
+    showToast(t(currentLang === 'zh' ? 'switchedZh' : 'switchedEn'), 'success');
+    return;
+  }
+
+  // Server mode: try to load the opposite language file
+  const targetFile = currentLang === 'zh' ? 'briefing_en.json' : 'briefing.json';
+  try {
+    const resp = await fetch('/api/briefing/' + targetFile);
+    if (resp.ok) {
+      briefingData = await resp.json();
+      currentLang = currentLang === 'zh' ? 'en' : 'zh';
+      document.getElementById('langBtn').textContent = currentLang === 'zh' ? 'EN' : '中文'; updateUITexts();
+      renderAll();
+      showToast(t(currentLang === 'zh' ? 'switchedZh' : 'switchedEn'), 'success');
+    }
+  } catch (e) { console.error(e); }
+}
+
+// ====== Render ======
+function renderAll() {
+  if (!briefingData) return;
+  const d = briefingData;
+
+  // Header
+  document.getElementById('headerSubtitle').textContent =
+    `${d.topic || ''} · ${d.time_span || ''}`;
+
+  // Stats row: total + 2 rows of 3 section pills
+  const sections = d.sections || [];
+  const tier1 = sections.filter(s => s.tier === 1 || !s.tier);
+  const tier2 = sections.filter(s => s.tier === 2);
+  const totalEvents = tier1.reduce((sum, s) => sum + (s.events || []).length, 0);
+
+  const pillColors = [
+    { bg: '#EFF6FF', dot: '#3B82F6', text: '#2563EB' },
+    { bg: '#FEF2F2', dot: '#EF4444', text: '#DC2626' },
+    { bg: '#ECFDF5', dot: '#10B981', text: '#059669' },
+    { bg: '#F5F3FF', dot: '#8B5CF6', text: '#7C3AED' },
+    { bg: '#ECFEFF', dot: '#06B6D4', text: '#0891B2' },
+    { bg: '#FFFBEB', dot: '#F59E0B', text: '#D97706' },
+  ];
+
+  // Helper: strip number prefix from section title
+  const stripNum = (t) => t.replace(/^[一二三四五六七八]、\s*/, '').replace(/^\d+\.\s*/, '');
+
+  // Row 1: Total events (centered)
+  let pillsHtml = `<div class="stats-row-total">
+    <div class="stat-pill pill-total" onclick="scrollToSection(null)" title="查看全部事件">
+      <span class="pill-label">${t('allEvents')}</span><span class="pill-count">${totalEvents}</span>
+    </div>
+  </div>`;
+
+  // Row 2 + Row 3: 3 section pills each
+  for (let row = 0; row < 2; row++) {
+    pillsHtml += '<div class="stats-row-sections">';
+    for (let col = 0; col < 3; col++) {
+      const i = row * 3 + col;
+      if (i >= tier1.length) break;
+      const sec = tier1[i];
+      const c = pillColors[i % pillColors.length];
+      const cnt = (sec.events || []).length;
+      const fullTitle = stripNum(sec.title);
+      pillsHtml += `<div class="stat-pill" style="background:${c.bg};color:${c.text};"
+        onclick="scrollToSection(${i})" title="${sec.title} · ${cnt} 条事件">
+        <span class="pill-dot" style="background:${c.dot}"></span>
+        <span class="pill-label">${fullTitle}</span><span class="pill-count">${cnt}</span>
+      </div>`;
+    }
+    pillsHtml += '</div>';
+  }
+
+  document.getElementById('statsRow').innerHTML = pillsHtml;
+
+  document.getElementById('statsRow').innerHTML = pillsHtml;
+
+  // Content with anchor IDs
+  const contentArea = document.getElementById('contentArea');
+
+  let html = tier1.map((sec, idx) => renderSection(sec, idx)).join('');
+
+  if (tier2.length > 0 && tier1.length > 0) {
+    html += `<div class="tier-divider"><span>${t('tierDivider')}</span></div>`;
+  }
+
+  html += tier2.map((sec, idx) => renderSection(sec, tier1.length + idx)).join('');
+  contentArea.innerHTML = html;
+}
+
+function renderSection(sec, colorIdx) {
+  const events = sec.events || [];
+  const isTier2 = sec.tier === 2;
+  const colorClass = `s-color-${(colorIdx % 8) + 1}`;
+  const [phFrom, phTo] = SECTION_GRADIENTS[colorIdx % 8];
+  const icon = SECTION_ICONS[colorIdx % 8];
+
+  let bodyHtml = '';
+  if (isTier2 || events.length === 0) {
+    const analysis = sec.impact_analysis || '';
+    if (analysis) {
+      bodyHtml = `<div class="analysis-body">${formatAnalysis(analysis)}</div>`;
+    } else if (!isTier2) {
+      bodyHtml = `<div style="padding:4px 22px 16px;color:#94A3B8;font-size:13px;">${t('noEvents')}</div>`;
+    }
+  } else {
+    let cardsHtml = events.map((evt) => renderEventCard(evt, phFrom, phTo, icon)).join('');
+    bodyHtml = `<div class="events-grid">${cardsHtml}</div>`;
+  }
+
+  return `
+    <div class="section ${colorClass} ${isTier2 ? 'tier-2' : ''}" id="sec-${colorIdx}">
+      <div class="section-header">
+        <h2>${sec.title || ''}</h2>
+        ${events.length > 0 ? `<span class="badge">${events.length}${t('eventsSuffix')}</span>` : ''}
+      </div>
+      ${sec.description ? `<div class="section-desc">${sec.description}</div>` : ''}
+      ${bodyHtml}
+    </div>`;
+}
+
+function renderEventCard(evt, phFrom, phTo, icon) {
+  const imgUrl = evt.image_url || null;
+  const dateStr = evt.date || '';
+  const sourceName = evt.source_name || '';
+  const hasValidImg = imgUrl && imgUrl.startsWith('http');
+
+  let imgHtml = '';
+  if (hasValidImg) {
+    imgHtml = `<img src="${escapeHtml(imgUrl)}" alt="" loading="lazy"
+      onerror="this.style.display='none';this.nextElementSibling.style.display='flex';"
+      onload="this.nextElementSibling.style.display='none';">`;
+  }
+  // Always include a fallback placeholder (hidden if image loads)
+  const phDisplay = hasValidImg ? '' : 'display:flex';
+  imgHtml += `<div class="img-placeholder" style="background:linear-gradient(135deg,${phFrom},${phTo});${phDisplay};font-size:32px;color:#fff;">${icon}</div>`;
+
+  let tagsHtml = '';
+  if (dateStr) tagsHtml += `<span class="event-tag date">${escapeHtml(dateStr)}</span>`;
+  if (evt.is_gov_source) tagsHtml += `<span class="event-tag gov">${t('govSource')}</span>`;
+  if (evt.is_authoritative && !evt.is_gov_source) tagsHtml += `<span class="event-tag auth">${t('authSource')}</span>`;
+  if (sourceName) tagsHtml += `<span class="event-tag source">${escapeHtml(sourceName)}</span>`;
+
+  return `
+    <div class="event-card">
+      <div class="event-img">
+        ${imgHtml}
+      </div>
+      <div class="event-body">
+        <div class="event-meta">${tagsHtml}</div>
+        <div class="event-title">${escapeHtml(evt.title || '')}</div>
+        ${evt.summary ? `<div class="event-summary">${escapeHtml(evt.summary)}</div>` : ''}
+        ${evt.source_url ? `<a class="event-link" href="${escapeHtml(evt.source_url)}" target="_blank" rel="noopener">${t('readMore')}</a>` : ''}
+      </div>
+    </div>`;
+}
+
+function formatAnalysis(text) {
+  let html = escapeHtml(text);
+  html = html.replace(/^## (.+)$/gm, '<h3>$1</h3>');
+  html = html.replace(/^### (.+)$/gm, '<h4>$1</h4>');
+  html = html.replace(/^- (.+)$/gm, '<li>$1</li>');
+  html = html.replace(/((?:<li>.*<\/li>\n?)+)/g, '<ul>$1</ul>');
+  html = html.replace(/\n/g, '<br>');
+  return html;
+}
+
+function escapeHtml(str) {
+  const div = document.createElement('div');
+  div.textContent = str;
+  return div.innerHTML;
+}
+
+// ====== Modal ======
+function buildPresetGrid() {
+  const presets = [
+    { label: t('preset1w'), dates: dateRange(-7), span: dateRange(-7) },
+    { label: t('preset2w'), dates: dateRange(-14), span: dateRange(-14) },
+    { label: t('preset1m'), dates: dateRange(-30), span: dateRange(-30) },
+    { label: t('preset3m'), dates: dateRange(-90), span: dateRange(-90) },
+    { label: t('preset6m'), dates: dateRange(-180), span: dateRange(-180) },
+    { label: t('presetYtd'), dates: ytdRange(), span: ytdRange() },
+  ];
+
+  document.getElementById('presetGrid').innerHTML = presets.map((p, i) => `
+    <button class="preset-btn" data-idx="${i}" onclick="selectPreset(${i}, '${p.span}')">
+      <div class="preset-label">${p.label}</div>
+      <div class="preset-dates">${p.dates}</div>
+    </button>`).join('');
+
+  document.getElementById('customStart').value = toDateInput(new Date(Date.now() - 7*86400000));
+  document.getElementById('customEnd').value = toDateInput(new Date());
+}
+
+function dateRange(days) {
+  const end = new Date();
+  const start = new Date(Date.now() - Math.abs(days) * 86400000);
+  return `${start.getFullYear()}年${start.getMonth()+1}月${start.getDate()}日 — ${end.getFullYear()}年${end.getMonth()+1}月${end.getDate()}日`;
+}
+
+function ytdRange() {
+  const end = new Date();
+  return `${end.getFullYear()}年1月1日 — ${end.getFullYear()}年${end.getMonth()+1}月${end.getDate()}日`;
+}
+
+function toDateInput(d) {
+  return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+}
+
+function selectPreset(idx, span) {
+  selectedPreset = span;
+  customStartDate = null;
+  customEndDate = null;
+  document.querySelectorAll('.preset-btn').forEach(b => b.classList.remove('selected'));
+  document.querySelector(`.preset-btn[data-idx="${idx}"]`).classList.add('selected');
+}
+
+function onCustomDate() {
+  const s = document.getElementById('customStart').value;
+  const e = document.getElementById('customEnd').value;
+  if (s && e) {
+    selectedPreset = null;
+    customStartDate = s;
+    customEndDate = e;
+    document.querySelectorAll('.preset-btn').forEach(b => b.classList.remove('selected'));
+  }
+}
+
+function openModal() {
+  if (window.IS_STANDALONE) {
+    showToast(t('offlineNoUpdate'), 'error');
+    return;
+  }
+  document.getElementById('modalOverlay').classList.add('active');
+  if (!selectedPreset && !customStartDate) selectPreset(0, dateRange(-7));
+}
+
+function closeModal(e) {
+  if (e && e.target !== document.getElementById('modalOverlay')) return;
+  document.getElementById('modalOverlay').classList.remove('active');
+}
+
+function getSelectedTimeSpan() {
+  if (customStartDate && customEndDate) {
+    const s = new Date(customStartDate);
+    const e = new Date(customEndDate);
+    return `${s.getFullYear()}年${s.getMonth()+1}月${s.getDate()}日 — ${e.getFullYear()}年${e.getMonth()+1}月${e.getDate()}日`;
+  }
+  return selectedPreset || dateRange(-7);
+}
+
+// ====== Generate ======
+async function startGenerate() {
+  const timeSpan = getSelectedTimeSpan();
+  const topic = document.getElementById('topicInput').value.trim() || '巴拉圭宏观环境与行业动态调研';
+
+  document.getElementById('modalOverlay').classList.remove('active');
+  document.getElementById('loadingOverlay').classList.add('active');
+
+  const loadingMsgs = [
+    { text: t('searchMacro'), sub: 'Section 1/8', delay: 500 },
+    { text: t('searchPolitics'), sub: 'Section 2/8', delay: 3500 },
+    { text: t('searchSocial'), sub: 'Section 3/8', delay: 6500 },
+    { text: t('searchIntl'), sub: 'Section 4/8', delay: 9500 },
+    { text: t('searchIndustry'), sub: 'Section 5/8', delay: 12500 },
+    { text: t('searchClients'), sub: 'Section 6/8', delay: 15500 },
+    { text: t('compiling'), sub: t('compilingSub'), delay: 18500 },
+    { text: t('almostDone'), sub: t('almostDoneSub'), delay: 21000 },
+  ];
+
+  const loadingText = document.getElementById('loadingText');
+  const loadingSub = document.getElementById('loadingSub');
+  const timers = loadingMsgs.map(m =>
+    setTimeout(() => { loadingText.textContent = m.text; loadingSub.textContent = m.sub; }, m.delay)
+  );
+
+  try {
+    const resp = await fetch('/api/generate', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ topic, time_span: timeSpan }),
+    });
+    timers.forEach(clearTimeout);
+    if (!resp.ok) { const err = await resp.json(); throw new Error(err.error || t('generateFailed')); }
+    briefingData = await resp.json();
+    document.getElementById('loadingOverlay').classList.remove('active');
+    updateLangButton();
+    renderAll();
+    showToast(t('generateSuccess'), 'success');
+  } catch (e) {
+    timers.forEach(clearTimeout);
+    document.getElementById('loadingOverlay').classList.remove('active');
+    showToast(t('generateFailed') + ': ' + e.message, 'error');
+    console.error(e);
+  }
+}
+
+// ====== Switch Briefing ======
+async function switchBriefing() {
+  if (window.IS_STANDALONE) {
+    if (window.EMBEDDED_BRIEFINGS) {
+      const briefings = window.EMBEDDED_BRIEFINGS;
+      const list = document.getElementById('briefingList');
+      list.innerHTML = Object.entries(briefings).map(([lang, b]) => `
+        <div style="display:flex;align-items:center;justify-content:space-between;padding:10px 14px;border-bottom:1px solid #F1F5F9;cursor:pointer;border-radius:6px;"
+             onclick="currentLang='${lang}';briefingData=window.EMBEDDED_BRIEFINGS['${lang}'];closeSwitchModal();updateLangButton();renderAll();showToast(lang==='zh'?'已切换到中文':'Switched to English','success');"
+             onmouseover="this.style.background='#F8FAFC'" onmouseout="this.style.background=''">
+          <div>
+            <div style="font-weight:600;font-size:14px;">${escapeHtml(b.topic)}</div>
+            <div style="font-size:12px;color:#94A3B8;">${escapeHtml(b.time_span)} · ${sumEvents(b)} 条事件</div>
+          </div>
+          <span style="color:#64748B;font-size:11px;">${lang === 'zh' ? '中文版' : 'English'}</span>
+        </div>`).join('');
+    }
+    document.getElementById('switchOverlay').classList.add('active');
+    return;
+  }
+
+  document.getElementById('switchOverlay').classList.add('active');
+  try {
+    const resp = await fetch('/api/briefings');
+    const briefings = await resp.json();
+    const list = document.getElementById('briefingList');
+    if (briefings.length === 0) {
+      list.innerHTML = '<p style="color:#94A3B8;text-align:center;padding:20px;">' + t('noHistory') + '</p>';
+      return;
+    }
+    list.innerHTML = briefings.map(b => `
+      <div style="display:flex;align-items:center;justify-content:space-between;padding:10px 14px;border-bottom:1px solid #F1F5F9;cursor:pointer;border-radius:6px;"
+           onclick="loadBriefingFile('${escapeHtml(b.filename)}')"
+           onmouseover="this.style.background='#F8FAFC'" onmouseout="this.style.background=''">
+        <div>
+          <div style="font-weight:600;font-size:14px;">${escapeHtml(b.topic)}</div>
+          <div style="font-size:12px;color:#94A3B8;">${escapeHtml(b.time_span)} · ${b.event_count} 条事件</div>
+        </div>
+        <span style="color:#3B82F6;font-size:12px;">查看 →</span>
+      </div>`).join('');
+  } catch (e) { console.error(e); }
+}
+
+function sumEvents(b) { return (b.sections||[]).reduce((a,s) => a + (s.events||[]).length, 0); }
+
+function closeSwitchModal(e) {
+  if (e && e.target !== document.getElementById('switchOverlay')) return;
+  document.getElementById('switchOverlay').classList.remove('active');
+}
+
+async function loadBriefingFile(filename) {
+  document.getElementById('switchOverlay').classList.remove('active');
+  document.getElementById('loadingOverlay').classList.add('active');
+  document.getElementById('loadingText').textContent = t('loadingBriefing');
+  document.getElementById('loadingSub').textContent = filename;
+  try {
+    const resp = await fetch('/api/briefing/' + encodeURIComponent(filename));
+    if (resp.ok) {
+      briefingData = await resp.json();
+      updateLangButton();
+    } else {
+      const err = await resp.json();
+      throw new Error(err.error || t('loadFailed'));
+    }
+  } catch (e) { console.error(e); showToast(t('loadFailed') + ': ' + e.message, 'error'); }
+  document.getElementById('loadingOverlay').classList.remove('active');
+  renderAll();
+}
+
+// ====== Toast ======
+function showToast(msg, type) {
+  const toast = document.getElementById('toast');
+  toast.textContent = msg;
+  toast.className = `toast ${type}`;
+  setTimeout(() => { toast.className = ''; toast.textContent = ''; }, 3500);
+}
+
+// Navigate to section on pill click
+function scrollToSection(idx) {
+  // Clear all pill highlights
+  document.querySelectorAll('.stat-pill').forEach(p => { p.style.outline = ''; });
+
+  if (idx === null || idx === undefined) {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+    // Highlight total pill
+    const totalPill = document.querySelector('.pill-total');
+    if (totalPill) totalPill.style.outline = '2px solid #3B82F6';
+    return;
+  }
+  const el = document.getElementById('sec-' + idx);
+  if (!el) return;
+
+  el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+
+  // Highlight the clicked pill
+  document.querySelectorAll('.stat-pill').forEach(p => {
+    const oc = p.getAttribute('onclick') || '';
+    if (oc === 'scrollToSection(' + idx + ')') {
+      p.style.outline = '2px solid #3B82F6';
+      p.style.borderColor = '#3B82F6';
+    }
+  });
+
+  // Brief flash on target section
+  el.style.boxShadow = '0 0 0 3px #3B82F6';
+  setTimeout(() => { el.style.boxShadow = ''; }, 1500);
+}
+
+
+function updateUITexts() {
+  // Update static UI elements
+  const el = document.getElementById('historyBtn');
+  if (el) el.textContent = t('historyBriefing');
+  // Re-render to update all dynamic content
+  if (briefingData) renderAll();
+}
+
+// Close modals with Escape
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') {
+    document.getElementById('modalOverlay').classList.remove('active');
+    document.getElementById('switchOverlay').classList.remove('active');
+  }
+});
+</script>
+
+</body>
+</html>

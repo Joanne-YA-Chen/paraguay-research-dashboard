@@ -1,0 +1,115 @@
+{
+  "topic": "巴拉圭调研",
+  "time_span": "2026年6月6日 — 2026年6月13日",
+  "time_label": "最近一周",
+  "tiers": [
+    {
+      "name": "第一部分：主要资讯和动态",
+      "description": "巴拉圭宏观经济、政治政策、社会安全、国际关系、行业专题及主要客户最新动态"
+    },
+    {
+      "name": "第二部分：形势分析和行动建议",
+      "description": "综合外部宏观环境、行业态势及客户动向，提出企业影响评估与中资企业专项建议"
+    }
+  ],
+  "sections": [
+    {
+      "title": "一、宏观经济动态",
+      "description": "GDP增速、通货膨胀率、汇率波动、货币政策、财政状况、主要产业表现",
+      "tier": 1,
+      "search_queries": [
+        "Paraguay economía PIB inflación banco central junio 2026",
+        "Paraguay economic outlook GDP growth inflation exchange rate June 2026",
+        "Paraguay política monetaria tipo de cambio comercio exterior junio 2026",
+        "Paraguay fiscal deficit investment grade credit rating June 2026"
+      ],
+      "events": [],
+      "impact_analysis": "",
+      "user_notes": ""
+    },
+    {
+      "title": "二、政治与政策变化",
+      "description": "重大立法、政策调整、外资政策、税制改革、投资激励",
+      "tier": 1,
+      "search_queries": [
+        "Paraguay nuevas leyes inversión extranjera política fiscal 2026",
+        "Paraguay reforma tributaria legislación inversiones extranjeras 2026",
+        "Paraguay política inversión extranjera incentivos fiscales 2026"
+      ],
+      "events": [],
+      "impact_analysis": "",
+      "user_notes": ""
+    },
+    {
+      "title": "三、社会与安全形势",
+      "description": "劳工市场、社会稳定性、治安状况、就业数据",
+      "tier": 1,
+      "search_queries": [
+        "Paraguay seguridad ciudadana empleo mercado laboral junio 2026",
+        "Paraguay conflictividad social protestas huelgas junio 2026"
+      ],
+      "events": [],
+      "impact_analysis": "",
+      "user_notes": ""
+    },
+    {
+      "title": "四、国际关系与外交动态",
+      "description": "巴拉圭与主要国家关系、南共市动态、对华关系进展",
+      "tier": 1,
+      "search_queries": [
+        "Paraguay China Taiwan relaciones diplomacia junio 2026",
+        "Paraguay Mercosur Unión Europea acuerdo comercial 2026",
+        "Paraguay foreign relations diplomacy trade partners June 2026"
+      ],
+      "events": [],
+      "impact_analysis": "",
+      "user_notes": ""
+    },
+    {
+      "title": "五、行业专题：通讯、运营商、数字能源与AI",
+      "description": "5G频谱与商用进展、光纤基础设施、数字能源投资、AI数据中心建设、行业政策",
+      "tier": 1,
+      "search_queries": [
+        "Paraguay telecomunicaciones 5G fibra óptica CONATEL junio 2026",
+        "Paraguay Claro Tigo Personal operadores telecom junio 2026",
+        "Paraguay energía digital data center inteligencia artificial AI 2026",
+        "Paraguay telecom infrastructure investment 5G spectrum June 2026"
+      ],
+      "events": [],
+      "impact_analysis": "",
+      "user_notes": ""
+    },
+    {
+      "title": "六、主要客户动向",
+      "description": "跟踪巴拉圭主要客户的最新战略布局、投资计划、网络建设和技术选型",
+      "tier": 1,
+      "search_queries": [
+        "Paraguay Claro telecom inversión expansión 2026",
+        "Paraguay Tigo Millicom telecom inversión 2026",
+        "Paraguay Personal Núcleo telecom fibra óptica 2026",
+        "Paraguay Nubicom telecom 5G operador 2026"
+      ],
+      "events": [],
+      "impact_analysis": "",
+      "user_notes": ""
+    },
+    {
+      "title": "七、对企业经营的综合影响分析",
+      "description": "综合宏观环境、行业态势及客户动向，从成本、市场、合规维度分析企业影响",
+      "tier": 2,
+      "search_queries": [],
+      "events": [],
+      "impact_analysis": "",
+      "user_notes": ""
+    },
+    {
+      "title": "八、对中资企业的专项影响与建议",
+      "description": "针对中资企业的特殊风险与机遇分析，包括政策风险、外交风险、营商建议",
+      "tier": 2,
+      "search_queries": [],
+      "events": [],
+      "impact_analysis": "",
+      "user_notes": ""
+    }
+  ]
+}
