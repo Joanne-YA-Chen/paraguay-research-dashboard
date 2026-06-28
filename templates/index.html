@@ -161,8 +161,7 @@ a:hover { text-decoration: underline; }
 .event-tag.gov { background: #DCFCE7; color: #15803D; }
 .event-tag.auth { background: #DBEAFE; color: #1D4ED8; }
 .event-tag.source { background: #FEF3C7; color: #A16207; }
-.event-card .event-title { font-size: 13px; font-weight: 600; color: #1E293B; margin-bottom: 4px; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-.event-card .event-summary { font-size: 12px; color: #64748B; line-height: 1.5; flex: 1; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.event-card .event-preview { font-size: 13px; color: #334155; line-height: 1.6; flex: 1; overflow: visible; max-height: none; }
 .event-card .event-link { font-size: 11px; margin-top: 6px; color: #3B82F6; font-weight: 500; }
 
 /* Analysis (Tier 2) */
@@ -702,8 +701,7 @@ function renderEventCard(evt, phFrom, phTo, icon) {
       </div>
       <div class="event-body">
         <div class="event-meta">${tagsHtml}</div>
-        <div class="event-title">${escapeHtml(evt.title || '')}</div>
-        ${evt.summary ? `<div class="event-summary">${escapeHtml(evt.summary)}</div>` : ''}
+        <div class="event-preview">${escapeHtml(evt.summary || evt.title || '')}</div>
         ${evt.source_url ? `<a class="event-link" href="${escapeHtml(evt.source_url)}" target="_blank" rel="noopener">${t('readMore')}</a>` : ''}
       </div>
     </div>`;

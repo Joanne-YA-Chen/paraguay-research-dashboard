@@ -18,10 +18,10 @@
       "description": "GDP增速、通货膨胀率、汇率波动、货币政策、财政状况、主要产业表现",
       "tier": 1,
       "search_queries": [
-        "Paraguay economía PIB inflación banco central junio 2026",
-        "Paraguay economic outlook GDP growth inflation exchange rate June 2026",
-        "Paraguay política monetaria tipo de cambio comercio exterior junio 2026",
-        "Paraguay fiscal deficit investment grade credit rating June 2026"
+        "Paraguay PIB crecimiento económico inflación banco central junio 2026",
+        "Paraguay economic growth GDP inflation exchange rate monetary policy June 2026",
+        "Paraguay tipo de cambio guaraní dólar política monetaria comercio exterior junio 2026",
+        "Paraguay déficit fiscal balanza comercial calificación crediticia investment grade June 2026"
       ],
       "events": [],
       "impact_analysis": "",
@@ -32,9 +32,9 @@
       "description": "重大立法、政策调整、外资政策、税制改革、投资激励",
       "tier": 1,
       "search_queries": [
-        "Paraguay nuevas leyes inversión extranjera política fiscal 2026",
-        "Paraguay reforma tributaria legislación inversiones extranjeras 2026",
-        "Paraguay política inversión extranjera incentivos fiscales 2026"
+        "Paraguay inversión extranjera nueva legislación ley decreto 2026",
+        "Paraguay reforma tributaria impuestos incentivos fiscales inversión 2026",
+        "Paraguay política económica decreto presidencia extranjera junio 2026"
       ],
       "events": [],
       "impact_analysis": "",
@@ -45,8 +45,9 @@
       "description": "劳工市场、社会稳定性、治安状况、就业数据",
       "tier": 1,
       "search_queries": [
-        "Paraguay seguridad ciudadana empleo mercado laboral junio 2026",
-        "Paraguay conflictividad social protestas huelgas junio 2026"
+        "Paraguay empleo mercado laboral salario mínimo seguridad social junio 2026",
+        "Paraguay seguridad ciudadana criminalidad policía protestas junio 2026",
+        "Paraguay huelgas manifestaciones conflictividad social junio 2026"
       ],
       "events": [],
       "impact_analysis": "",
@@ -57,9 +58,11 @@
       "description": "巴拉圭与主要国家关系、南共市动态、对华关系进展",
       "tier": 1,
       "search_queries": [
-        "Paraguay China Taiwan relaciones diplomacia junio 2026",
-        "Paraguay Mercosur Unión Europea acuerdo comercial 2026",
-        "Paraguay foreign relations diplomacy trade partners June 2026"
+        "Paraguay China Taiwán relaciones diplomáticas cooperación 2026",
+        "Paraguay Mercosur Unión Europea acuerdo comercial negociación 2026",
+        "Paraguay Estados Unidos relaciones comercio cooperación bilateral 2026",
+        "Paraguay Rusia Reino Unido Francia relaciones diplomáticas comercio 2026",
+        "Paraguay foreign relations diplomacy UN OAS multilateral June 2026"
       ],
       "events": [],
       "impact_analysis": "",
@@ -70,10 +73,10 @@
       "description": "5G频谱与商用进展、光纤基础设施、数字能源投资、AI数据中心建设、行业政策",
       "tier": 1,
       "search_queries": [
-        "Paraguay telecomunicaciones 5G fibra óptica CONATEL junio 2026",
-        "Paraguay Claro Tigo Personal operadores telecom junio 2026",
-        "Paraguay energía digital data center inteligencia artificial AI 2026",
-        "Paraguay telecom infrastructure investment 5G spectrum June 2026"
+        "Paraguay 5G espectro licitación CONATEL telecomunicaciones junio 2026",
+        "Paraguay fibra óptica infraestructura digital internet banda ancha 2026",
+        "Paraguay data center inteligencia artificial energía digital inversión 2026",
+        "Paraguay Claro Tigo Personal operadores telecomunicaciones junio 2026"
       ],
       "events": [],
       "impact_analysis": "",
@@ -84,10 +87,10 @@
       "description": "跟踪巴拉圭主要客户的最新战略布局、投资计划、网络建设和技术选型",
       "tier": 1,
       "search_queries": [
-        "Paraguay Claro telecom inversión expansión 2026",
-        "Paraguay Tigo Millicom telecom inversión 2026",
-        "Paraguay Personal Núcleo telecom fibra óptica 2026",
-        "Paraguay Nubicom telecom 5G operador 2026"
+        "Claro Paraguay inversión expansión telecomunicaciones red 2026",
+        "Tigo Millicom Paraguay inversión telecomunicaciones 5G 2026",
+        "Personal Núcleo Paraguay telecom fibra óptica expansión 2026",
+        "Nubicom Paraguay 5G telecom operador inversión 2026"
       ],
       "events": [],
       "impact_analysis": "",

@@ -74,8 +74,8 @@ a{color:#3B82F6;text-decoration:none}a:hover{text-decoration:underline}
 .event-card .event-tag{font-size:10px;font-weight:600;padding:2px 8px;border-radius:4px}
 .event-tag.date{background:#F1F5F9;color:#64748B}.event-tag.gov{background:#DCFCE7;color:#15803D}
 .event-tag.auth{background:#DBEAFE;color:#1D4ED8}.event-tag.source{background:#FEF3C7;color:#A16207}
-.event-card .event-title{font-size:13px;font-weight:600;color:#1E293B;margin-bottom:4px;line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.event-card .event-summary{font-size:12px;color:#64748B;line-height:1.5;flex:1;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.event-tag.client{background:#FCE7F3;color:#BE185D}
+.event-card .event-preview{font-size:13px;color:#334155;line-height:1.6;flex:1;overflow:visible;max-height:none}
 .event-card .event-link{font-size:11px;margin-top:6px;color:#3B82F6;font-weight:500}
 .analysis-body{padding:4px 22px 20px;font-size:13px;line-height:1.8;color:#334155}
 .analysis-body h3{font-size:15px;font-weight:700;margin:14px 0 6px;color:#1E293B}
@@ -131,7 +131,7 @@ a{color:#3B82F6;text-decoration:none}a:hover{text-decoration:underline}
 
 <header class="header">
   <div class="header-left"><div class="header-logo">PY</div><div><h1>巴拉圭简报</h1><div class="subtitle" id="headerSubtitle"></div></div></div>
-  <div class="header-right"><button class="btn-secondary" id="btnHistory" onclick="showHistory()">History</button><button class="btn-primary" id="btnUpdate" onclick="openUpdateModal()">Update</button><button class="btn-lang" id="langBtn" onclick="switchLanguage()">中文</button></div>
+  <div class="header-right"><button class="btn-secondary" id="btnMacro" onclick="openMacroModal()" title="Update CPI/RIN">Macro</button><button class="btn-secondary" id="btnHistory" onclick="showHistory()">History</button><button class="btn-primary" id="btnUpdate" onclick="refreshBriefing()">Refresh</button><button class="btn-lang" id="langBtn" onclick="switchLanguage()">中文</button></div>
 </header>
 
 <div class="stats-row" id="statsRow"></div>
@@ -164,7 +164,8 @@ function switchLanguage(){
 function updateLangBtn(){
   document.getElementById('langBtn').textContent=currentLang==='zh'?'EN':'中文';
   var bh=document.getElementById('btnHistory');if(bh)bh.textContent=currentLang==='zh'?'历史简报':'History';
-  var bu=document.getElementById('btnUpdate');if(bu)bu.textContent=currentLang==='zh'?'更新简报':'Update';
+  var bu=document.getElementById('btnUpdate');if(bu)bu.textContent=currentLang==='zh'?'刷新简报':'Refresh';
+  var bm=document.getElementById('btnMacro');if(bm)bm.textContent='Macro';
 }
 
 var MACRO_Y=['2023','2024','2025'];
@@ -172,7 +173,7 @@ var MACRO_ML=['23/1','23/7','24/1','24/7','25/1','25/7','26/1'];
 var MACRO_GDP={t:['年度GDP','Annual GDP'],bars:[42.0,44.5,46.5,48.7],line:[4.7,4.0,3.6,3.8],bu:[' 十亿美元',' USD B'],lu:'%',bc:'#3B82F6',lc:'#10B981',yl:['GDP','GDP'],yr:['增速','Growth']};
 var MACRO_CPI={t:['CPI同比% 及 政策利率','CPI YoY% & Policy Rate'],line:[6.8,6.5,6.2,5.8,5.5,5.2,4.9,4.6,4.4,4.2,4.1,4.0,3.8,3.6,3.5,3.4,3.3,3.2,3.1,3.0,3.0,2.9,2.8,2.8,2.7,2.6,2.6,2.5,2.5,2.4,2.4,2.3,2.3,2.2,2.2,2.1,2.2,2.1,2.1,2.2,2.3],line2:[8.25,7.75,6.50,6.00,5.50,5.50,5.50],lu:'%',lc:'#EF4444',lc2:'#F59E0B',yl:['CPI YoY%','CPI YoY%'],yl2:['政策利率','Policy Rate']};
 var MACRO_FX_MONTHDAYS=[31,28,31,30,31,30,31,31,30,31,30,31,31,29,31,30,31,30,31,31,30,31,30,31,31,28,31,30,31,30,31,31,30,31,30,31,31,28,31,30,31,20];
-var MACRO_FX={t:['官方汇率(PYG/USD)','Official FX (PYG/USD)'],monthly:[7380,7400,7420,7380,7350,7300,7280,7320,7300,7280,7270,7310,7350,7380,7420,7460,7500,7520,7540,7560,7550,7530,7500,7480,7520,7550,7600,7650,7680,7700,7720,7750,7780,7800,7830,7850,7820,7780,7750,7700,7650,7600],line:null,lu:' PYG/USD',lc:'#8B5CF6',yl:['PYG/USD','PYG/USD']};
+var MACRO_FX={t:['官方汇率(PYG/USD)','Official FX (PYG/USD)'],monthly:[7306,7320,7310,7290,7280,7266,7270,7260,7270,7280,7280,7278,7350,7400,7420,7450,7500,7540,7560,7600,7700,7750,7800,7831,7860,7840,7820,7800,7790,7784,7700,7500,7200,6900,6700,6576,6400,6250,6150,6080,6021,6097],line:null,lu:' PYG/USD',lc:'#8B5CF6',yl:['PYG/USD','PYG/USD']};
 function expandToDaily(monthly,monthDays){var daily=[],seed=42;function n(){seed=(seed*16807)%2147483647;return(seed-1073741823)/1073741823*8;}for(var m=0;m<monthly.length;m++){for(var d=0;d<monthDays[m];d++){daily.push(Math.round(monthly[m]+n()));}}return daily;}
 var MACRO_RIN={t:['国际净外汇储备','Net Intl. Reserves'],line:[9.0,8.9,9.1,9.2,9.3,9.4,9.3,9.4,9.5,9.4,9.5,9.6,9.7,9.8,9.9,10.0,10.0,10.1,10.2,10.3,10.3,10.4,10.4,10.5,10.4,10.4,10.5,10.5,10.6,10.6,10.7,10.7,10.8,10.8,10.9,10.9,10.8,10.8,10.7,10.7,10.6],lu:[' 十亿美元',' USD B'],lc:'#06B6D4',yl:['RIN','RIN']};
 function renderMacroSVG(d,opts){
@@ -202,7 +203,7 @@ function renderMacroSVG(d,opts){
 }
 function renderMacroCardGDP(){var d=MACRO_GDP;return'<div class="macro-card" onclick="expandMacroCard(\'GDP\')" title="'+L('点击放大','Click to enlarge')+'"><div class="macro-card-title">'+esc(L(d.t[0],d.t[1]))+'</div>'+renderMacroSVG(d,{bars:true,line:true,barMax:52,lineMax:6,dual:true,step:1,labels:['2023','2024','2025','2026F'],forecastFrom:3})+'</div>';}
 function renderMacroCardCPI(){var d=MACRO_CPI,v=d.line[d.line.length-1];var lastH='<div class="macro-latest"><span class="macro-latest-label">'+L('最新','Latest')+'</span><span class="macro-latest-val">'+v.toFixed(1)+'%</span><span class="macro-latest-date">(2026.05)</span></div>';return'<div class="macro-card" onclick="expandMacroCard(\'CPI\')" title="'+L('点击放大','Click to enlarge')+'"><div class="macro-card-title">'+esc(L(d.t[0],d.t[1]))+'</div>'+renderMacroSVG(d,{line:true,lineMax:9,lineMin:0,step:6})+lastH+renderMacroLegend2(d)+'</div>';}
-function renderMacroCardFX(){var d=MACRO_FX,dl=d.line||d.monthly,v=dl[dl.length-1];var lastH='<div class="macro-latest"><span class="macro-latest-label">'+L('最新','Latest')+'</span><span class="macro-latest-val">'+Math.round(v)+'</span><span class="macro-latest-unit">'+d.lu+'</span><span class="macro-latest-date">(2026.06.20)</span></div>';var step=dl.length>200?182:6;return'<div class="macro-card" onclick="expandMacroCard(\'FX\')" title="'+L('点击放大','Click to enlarge')+'"><div class="macro-card-title">'+esc(L(d.t[0],d.t[1]))+'</div>'+renderMacroSVG(d,{line:true,lineMax:8000,lineMin:7100,step:step})+lastH+'</div>';}
+function renderMacroCardFX(){var d=MACRO_FX,dl=d.line||d.monthly,v=dl[dl.length-1];var dstr=window.MACRO_FX_DATE||'2026.06.26';var lastH='<div class="macro-latest"><span class="macro-latest-label">'+L('最新','Latest')+'</span><span class="macro-latest-val">'+Math.round(v)+'</span><span class="macro-latest-unit">'+d.lu+'</span><span class="macro-latest-date">('+dstr+')</span></div>';var step=dl.length>200?182:6;return'<div class="macro-card" onclick="expandMacroCard(\'FX\')" title="'+L('点击放大','Click to enlarge')+'"><div class="macro-card-title">'+esc(L(d.t[0],d.t[1]))+'</div>'+renderMacroSVG(d,{line:true,lineMax:8000,lineMin:7100,step:step})+lastH+'</div>';}
 function renderMacroCardRIN(){var d=MACRO_RIN,v=d.line[d.line.length-1];var unit=L(d.lu[0],d.lu[1]);var lastH='<div class="macro-latest"><span class="macro-latest-label">'+L('最新','Latest')+'</span><span class="macro-latest-val">'+v.toFixed(1)+'</span><span class="macro-latest-unit">'+unit+'</span><span class="macro-latest-date">(2026.05)</span></div>';return'<div class="macro-card" onclick="expandMacroCard(\'RIN\')" title="'+L('点击放大','Click to enlarge')+'"><div class="macro-card-title">'+esc(L(d.t[0],d.t[1]))+'</div>'+renderMacroSVG(d,{line:true,lineMax:11.5,lineMin:8.5,step:6})+lastH+renderMacroLegend(d)+'</div>';}
 function renderMacroLegend(d){return'<div style="display:flex;justify-content:center;align-items:center;gap:8px;margin-top:2px;font-size:8px;color:#64748B"><span style="display:inline-block;width:12px;height:2px;background:'+d.lc+';vertical-align:middle;border-radius:1px"></span> '+L(d.yl[0],d.yl[1])+'</div>';}
 function renderMacroLegend2(d){return'<div style="display:flex;justify-content:center;gap:14px;margin-top:2px;font-size:8px;color:#64748B"><span><span style="display:inline-block;width:6px;height:6px;border-radius:50%;background:'+d.lc+';vertical-align:middle;margin-right:3px"></span>'+L(d.yl[0],d.yl[1])+'</span><span><span style="display:inline-block;width:6px;height:6px;border-radius:50%;background:'+d.lc2+';vertical-align:middle;margin-right:3px"></span>'+L(d.yl2[0],d.yl2[1])+'</span></div>';}
@@ -316,12 +317,14 @@ function renderCard(evt,phFrom,phTo,icon){
 
   var tags='';
   if(evt.date)tags+='<span class="event-tag date">'+esc(evt.date)+'</span>';
+  if(evt.client_tag)tags+='<span class="event-tag client">'+esc(evt.client_tag)+'</span>';
   if(evt.is_gov_source)tags+='<span class="event-tag gov">'+L('政府官网','Government')+'</span>';
   else if(evt.is_authoritative)tags+='<span class="event-tag auth">'+L('权威媒体','Authoritative')+'</span>';
   if(evt.source_name)tags+='<span class="event-tag source">'+esc(evt.source_name)+'</span>';
 
   var link=evt.source_url?'<a class="event-link" href="'+esc(evt.source_url)+'" target="_blank" rel="noopener">'+L('查看原文 →','Read more →')+'</a>':'';
-  return '<div class="event-card"><div class="event-img">'+ih+'</div><div class="event-body"><div class="event-meta">'+tags+'</div><div class="event-title">'+esc(evt.title||'')+'</div>'+(evt.summary?'<div class="event-summary">'+esc(ss(evt.summary))+'</div>':'')+link+'</div></div>';
+  var preview=evt.summary||'';if(!preview&&evt.title)preview=evt.title;
+  return '<div class="event-card"><div class="event-img">'+ih+'</div><div class="event-body"><div class="event-meta">'+tags+'</div><div class="event-preview">'+esc(ss(preview))+'</div>'+link+'</div></div>';
 }
 
 function fmt(text){
@@ -360,32 +363,40 @@ function loadBriefing(filename){
     DATA['zh']=data;DATA['en']=data;briefingData=data;renderAll();closeUpdateModal('histModal');
   }).catch(function(){alert(L('加载失败','Failed to load briefing.'));});
 }
-function openUpdateModal(){
-  var h='<div class="update-modal-overlay" id="updateModal" onclick="closeUpdateModal(\'updateModal\')"><div class="update-modal" onclick="event.stopPropagation()"><h3>'+L('更新简报','Update Briefing')+'</h3>';
-  h+='<label>'+L('时间跨度','Time Span')+'</label><div class="time-presets" id="timePresets">';
-  var presets=[['1w',L('近1周','1 Week')],['2w',L('近2周','2 Weeks')],['1m',L('近1月','1 Month')],['3m',L('近3月','3 Months')],['6m',L('近6月','6 Months')]];
-  for(var p=0;p<presets.length;p++)h+='<span class="time-preset" data-val="'+presets[p][0]+'" onclick="selectPreset(this)">'+presets[p][1]+'</span>';
-  h+='</div><input type="text" id="customTimeSpan" placeholder="'+L('或输入自定义时间，如: June 1 – June 20, 2026','Or enter custom span, e.g. June 1 – June 20, 2026')+'" style="font-size:12px">';
-  h+='<div class="btn-row"><button class="btn-secondary" onclick="closeUpdateModal(\'updateModal\')">'+L('取消','Cancel')+'</button><button class="btn-primary" id="genBtn" onclick="startGenerate()">'+L('开始生成','Generate')+'</button></div>';
+function refreshBriefing(){
+  var btn=document.getElementById('btnUpdate');
+  btn.disabled=true;btn.textContent='...';
+  fetch('/api/briefing/briefing_en.json').then(function(r){if(!r.ok)throw Error();return r.json();}).then(function(data){
+    DATA['en']=data;briefingData=data;renderAll();
+    fetch('/api/briefing/briefing.json').then(function(r){if(r.ok)return r.json();}).then(function(zh){if(zh)DATA['zh']=zh;}).catch(function(){});
+  }).catch(function(){alert(L('刷新失败','Refresh failed'));}).finally(function(){
+    btn.disabled=false;btn.textContent=L('刷新简报','Refresh');
+  });
+}
+function openMacroModal(){
+  var h='<div class="update-modal-overlay" id="macroModal" onclick="closeUpdateModal(\'macroModal\')"><div class="update-modal" onclick="event.stopPropagation()"><h3>'+L('更新宏观数据','Update Macro Data')+'</h3>';
+  h+='<p style="font-size:11px;color:#94A3B8;margin-bottom:12px">'+L('下载最新 BCP Excel 后填入文件名','Fill in latest BCP Excel filenames')+'</p>';
+  h+='<input type="text" id="cpiFileName" placeholder="'+L('CPI文件，如 AE_IPC-26.6.xlsx','CPI file, e.g. AE_IPC-26.6.xlsx')+'" style="width:100%;font-size:12px;padding:8px 10px;border:1px solid #CBD5E1;border-radius:6px;margin-bottom:8px">';
+  h+='<input type="text" id="rinFileName" placeholder="'+L('RIN文件，如 reservas...xlsx','RIN file, e.g. reservas...xlsx')+'" style="width:100%;font-size:12px;padding:8px 10px;border:1px solid #CBD5E1;border-radius:6px;margin-bottom:12px">';
+  h+='<div class="btn-row"><button class="btn-secondary" onclick="closeUpdateModal(\'macroModal\')">'+L('取消','Cancel')+'</button><button class="btn-primary" onclick="refreshMacroData()">'+L('更新','Update')+'</button></div>';
   h+='<div id="genStatus" style="margin-top:10px;font-size:12px;color:#64748B;display:none"></div></div></div>';
   document.body.insertAdjacentHTML('beforeend',h);
-  window._selectedPreset='1w';
 }
-function selectPreset(el){
-  var p=document.getElementById('timePresets');if(p)for(var i=0;i<p.children.length;i++)p.children[i].classList.remove('active');
-  el.classList.add('active');window._selectedPreset=el.getAttribute('data-val');
-}
-function startGenerate(){
-  var ts=document.getElementById('customTimeSpan').value.trim()||window._selectedPreset||'1w';
-  var btn=document.getElementById('genBtn'),st=document.getElementById('genStatus');
-  btn.disabled=true;btn.textContent=L('生成中…','Generating…');
-  st.style.display='block';st.innerHTML='<span class="loading-spinner"></span>'+L('正在搜索最新资讯并编译简报，预计需要30-60秒…','Searching latest news and compiling briefing, ~30-60s…');
-  fetch('/api/generate',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({topic:L('巴拉圭简报','Paraguay Briefing'),time_span:ts})}).then(function(r){if(!r.ok)throw Error();return r.json();}).then(function(data){
-    DATA['zh']=data;DATA['en']=data;briefingData=data;renderAll();closeUpdateModal('updateModal');
-  }).catch(function(){
-    st.innerHTML='<span style="color:#EF4444">'+L('生成失败，请确保 Flask 服务器已启动 (python3 web_app.py)','Failed. Make sure Flask server is running: python3 web_app.py')+'</span>';
-    btn.disabled=false;btn.textContent=L('开始生成','Generate');
-  });
+function refreshMacroData(){
+  var cpiFile=document.getElementById('cpiFileName').value.trim();
+  var rinFile=document.getElementById('rinFileName').value.trim();
+  if(!cpiFile&&!rinFile){alert(L('请至少输入一个文件名','Please enter at least one filename.'));return;}
+  var st=document.getElementById('genStatus');
+  st.style.display='block';st.innerHTML='<span class="loading-spinner"></span>'+L('正在读取宏观数据文件…','Reading macro data files…');
+  fetch('/api/update-macro',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({cpi_file:cpiFile,rin_file:rinFile})}).then(function(r){if(!r.ok)throw Error();return r.json();}).then(function(data){
+    var msgs=[];
+    if(data.cpi&&data.cpi.length){MACRO_CPI.line=data.cpi;msgs.push(L('CPI已更新('+data.cpi.length+'个月)','CPI updated ('+data.cpi.length+' mo)'));}
+    if(data.cpi_error)msgs.push(L('CPI错误: ','CPI error: ')+data.cpi_error);
+    if(data.rin&&data.rin.length){MACRO_RIN.line=data.rin;msgs.push(L('RIN已更新('+data.rin.length+'个月)','RIN updated ('+data.rin.length+' mo)'));}
+    if(data.rin_error)msgs.push(L('RIN错误: ','RIN error: ')+data.rin_error);
+    if(msgs.length){renderAll();st.innerHTML='<span style=\"color:#10B981\">'+msgs.join('; ')+'</span>';}
+    else st.innerHTML='<span style=\"color:#EF4444\">'+L('更新失败','Update failed')+'</span>';
+  }).catch(function(){st.innerHTML='<span style=\"color:#EF4444\">'+L('更新失败，请确保 Flask 服务器已启动','Failed. Make sure Flask server is running.')+'</span>';});
 }
 function closeUpdateModal(id){
   var m=document.getElementById(id||'updateModal');if(m)m.remove();
@@ -398,7 +409,18 @@ document.addEventListener('DOMContentLoaded',function(){
   currentLang='en';
   renderAll();
   updateLangBtn();
+  if(!window.IS_STANDALONE)fetchLiveFX();
 });
+function fetchLiveFX(){
+  fetch('/api/macro/fx').then(function(r){if(!r.ok)return;return r.json();}).then(function(d){
+    if(!d||!d.rate)return;
+    var arr=MACRO_FX.monthly||MACRO_FX.line||[];
+    arr[arr.length-1]=d.rate;
+    window.MACRO_FX_DATE=(d.date||'').replace(/-/g,'.');
+    MACRO_FX.line=expandToDaily(MACRO_FX.monthly,MACRO_FX_MONTHDAYS);
+    renderAll();
+  }).catch(function(){});
+}
 </script>
 </body>
 </html>
