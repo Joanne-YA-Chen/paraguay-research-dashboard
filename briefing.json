@@ -1,6 +1,6 @@
 {
   "topic": "巴拉圭简报",
-  "time_span": "June 22 – June 28, 2026",
+  "time_span": "June 27 – July 4, 2026",
   "tiers": [
     {
       "name": "Part I: Key News & Developments",
@@ -18,42 +18,42 @@
       "tier": 1,
       "events": [
         {
-          "title": "巴拉圭2026年第一季度国内生产总值增长5.8%，领跑区域经济增长（2026年6月26日）",
-          "date": "2026-06-26",
-          "source_url": "https://www.infobae.com/america/agencias/2026/06/26/economia-paraguaya-crecio-un-58-en-el-primer-trimestre-de-2026-segun-el-banco-central/",
-          "source_name": "Infobae / EFE",
-          "summary": "巴拉圭2026年第一季度国内生产总值同比增长5.8%，为拉丁美洲最高增速，超过秘鲁（3.5%）、阿根廷（2.3%）、哥伦比亚（2.2%）、巴西（1.8%）、乌拉圭（0.9%）和智利（-0.5%）。剔除农业和两国共建水电项目后，经济增长率达6.0%，主要受服务业（+6.6%）、制造业（+6.0%）和建筑业（+5.6%）拉动。巴拉圭央行预计2026年全年经济增长4.2%。",
+          "title": "IMF完成第四条磋商访问：预测巴拉圭2026年经济增长4.4%，肯定通胀目标制的稳健性（2026年6月29日）",
+          "date": "2026-06-29",
+          "source_url": "https://www.imf.org/en/news/articles/2026/06/29/cs-062926-paraguay-imf-staff-concluding-statement-2026-aiv-consultation-mission",
+          "source_name": "IMF",
+          "summary": "国际货币基金组织于6月15日至26日完成对巴拉圭的第四条磋商访问。IMF预测2026年GDP增长4.4%，中期趋近3.8%。IMF高度评价巴拉圭的通胀目标制框架、灵活汇率机制和财政纪律，指出巴拉圭因100%可再生能源发电和良好的大豆生产/价格条件成功隔离了中东冲突影响。IMF认为存在进一步降息空间，但需取决于能源冲击的持续性。",
           "image_url": null,
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "巴拉圭央行连续第四个月维持政策利率在5.50%不变，通胀水平保持低位（2026年6月25日）",
-          "date": "2026-06-25",
-          "source_url": "https://www.lanacion.com.py/negocios/2026/06/25/bcp-mantiene-tasa-de-referencia-ante-dinamismo-economico-e-inflacion-bajo-control/",
-          "source_name": "La Nación",
-          "summary": "巴拉圭央行于6月25日一致决定将基准利率维持在5.50%不变，自2026年2月以来保持中性立场。2026年5月消费者物价指数同比涨幅为2.4%，远低于3.5%的目标水平。核心通胀率仅为1.21%。巴拉圭央行指出，油价下跌（美伊临时协议后跌破每桶80美元）是利好因素，同时将美国关税不确定性和地缘政治风险列为不利因素。",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/SXV6CQVMERCBLNMKKQLQG6R7EY.jpg?auth=27556d5160e4ec2845a6fdff5b83aa69481a9d89e156926568fb7fbc8dd3d7c3&width=1200&height=630&smart=true",
+          "title": "培尼亚总统发表第三份年度施政报告：2025年GDP增长6.6%为12年最高，失业率降至5.3%创历史新低（2026年7月1日）",
+          "date": "2026-07-01",
+          "source_url": "https://www.hoy.com.py/nacionales/2026/07/02/informe-de-pena-2025-vs-2026-crecimiento-economico-empleo-y-seguridad",
+          "source_name": "Diario HOY",
+          "summary": "培尼亚总统在国会发表第三次年度施政报告，披露关键经济指标：2025年GDP增长6.6%（为12年来最高，拉美第一），2026年Q1增长5.8%；2025年Q4失业率降至3.6%，2026年Q1为5.3%（历史最低Q1水平）；贫困率降至16%、极端贫困率降至2.4%（均创历史新低）；IPS正式就业人数842,023人创纪录；获穆迪和标普两个投资级评级。",
+          "image_url": null,
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "国际货币基金组织认可巴拉圭经济的韧性与实力——培尼亚总统（2026年6月26日）",
-          "date": "2026-06-26",
-          "source_url": "https://www.lanacion.com.py/negocios/2026/06/26/el-fmi-reconoce-la-fortaleza-de-la-economia-paraguaya-afirma-pena/",
-          "source_name": "La Nación",
-          "summary": "圣地亚哥·佩尼亚总统与国际货币基金组织官员会晤，对方认可巴拉圭的经济韧性。政府目标是在2035年前实现经济翻番。世界银行预测2026-2028年期间平均增长率为4.2%。巴拉圭已连续第二年保持穆迪授予的投资级评级，惠誉和标普的评级上调正在审议中。",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/PT53TKDR7VGZ7M7C7FAFCJO7TY.jpg?auth=21d930f66d271b23333705ab890d5295558a2c11a88764f11b46303fcdbdd49c&width=1200&height=630&smart=true",
+          "title": "巴拉圭央行连续第四个月维持政策利率在5.50%不变，6月CPI同比仅上涨2.09%（2026年7月2日）",
+          "date": "2026-07-02",
+          "source_url": "https://www.itau.com.br/itaubba-pt/analises-economicas/latam/paraguay-bcp-on-hold-again-at-5-50-as-expected",
+          "source_name": "Itaú BBA / BCP",
+          "summary": "BCP于6月会议一致决定将基准利率维持在5.50%不变，自2026年2月以来保持中性立场。根据最新CPI数据（AE_IPC-26.6），6月CPI环比下降0.28%，同比涨幅2.09%，远低于3.5%的目标水平。央行下次议息会议为7月23日，市场预期年内利率维持不变。央行将中东冲突和美国关税不确定性列为主要外部风险。",
+          "image_url": null,
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "巴拉圭央行报告：2026年第一季度私人消费增长4.8%（2026年6月27日）",
-          "date": "2026-06-27",
-          "source_url": "https://www.lanacion.com.py/negocios/2026/06/27/consumo-se-expandio-48-en-el-primer-trimestre-reporta-el-bcp/",
-          "source_name": "La Nación",
-          "summary": "2026年第一季度，国内消费同比增长4.8%，反映出在低通胀率（2.4%）和历史上强势的巴拉圭瓜拉尼支撑下，家庭需求强劲。总资本形成增长3.7%，表明投资势头持续。巴拉圭瓜拉尼被彭博社评为拉丁美洲最稳定的货币，2025年对美元升值约17%。",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/PMG5T43LPJEENNIQTDHPGWTR5E.jpeg?auth=0e53476508c67edde9d00e5e87060da1ba5abc7987e46411d9a8ed63f58a9ff3&width=1200&height=630&smart=true",
+          "title": "瓜拉尼大幅升值21.9%：USD/PYG从7,784降至6,082，冲击海关税收和边境贸易（2026年7月3日）",
+          "date": "2026-07-03",
+          "source_url": "https://prensamercosur.org/2026/07/02/paraguay-la-dnit-cierra-el-primer-semestre-de-2026-con-un-crecimiento-de-18-pero-junio-expone-la-fragilidad-del-modelo-aduanero/",
+          "source_name": "Prensa Mercosur / DNIT",
+          "summary": "瓜拉尼对美元同比升值21.9%，USD/PYG从去年6月的7,784降至今年6月的6,081.67。强势本币导致海关税收上半年同比下降11.6%（尽管进口量增长7%、进口额增长10%），“液化”了瓜拉尼税基。DNIT上半年总收入21.73万亿瓜拉尼，同比仅增1.8%。边境贸易遭受重创：Alberdi-Formosa口岸阿根廷买家日均从1,200人骤降至400-500人。",
+          "image_url": null,
           "is_gov_source": false,
           "is_authoritative": true
         }
@@ -67,33 +67,33 @@
       "tier": 1,
       "events": [
         {
-          "title": "巴拉圭推出\"投资者通行证\"——通过四条投资路径直接获得永久居留权（2026年6月22日）",
-          "date": "2026-06-22",
-          "source_url": "https://www.fragomen.com/insights/paraguay-new-investor-pass-expands-permanent-residence-options.html",
-          "source_name": "Fragomen / MIC",
-          "summary": "根据《工商部第0283/2026号决议》（2026年4月28日生效），外国投资者可通过以下四种途径直接获得永久居留权：（一）通过单一投资窗口进行生产性投资——最低投资额7万美元，创造5个本地就业岗位；（二）房地产投资——购买20万美元的创收型房产；（三）金融工具投资——持有20万美元金融资产两年以上；（四）旅游业投资——15万美元。居民股息税从15%降至8%。居住满三年即可申请入籍，且无需放弃原有国籍。",
-          "image_url": "https://www.fragomen.com/a/web/6neDND2DvH5cq9pLmAp2Ht/9PCium/open-graph-main-2025.jpg",
+          "title": "培尼亚施政报告：任内通过164部法律，推进历史性改革——涵盖税收激励、铁路开放、养老金改革（2026年7月1日）",
+          "date": "2026-07-01",
+          "source_url": "https://rcc.com.py/nacionales/pena-destaca-que-la-estabilidad-politica-permitio-aprobar-164-leyes-y-avanzar-en-reformas-historicas-para-el-paraguay/",
+          "source_name": "RCC / Presidencia",
+          "summary": "培尼亚总统在施政报告中强调，政治稳定为改革提供了基础。任内通过164部法律，包括：新的投资激励法（取代60/90法）、资本市场法（接近OECD标准）、数据保护法、养老金体系改革、铁路部门开放法（7665/2026）等。新投资激励法已通过国会，将现代化税收激励制度，面向国内外投资者。",
+          "image_url": null,
           "is_gov_source": true,
           "is_authoritative": true
         },
         {
-          "title": "移民局更新永久居留经济偿付能力要求——自7月6日起生效（2026年6月25日）",
-          "date": "2026-06-25",
-          "source_url": "https://www.ip.gov.py/ip/2026/06/25/migraciones-actualiza-requisitos-para-residencia-permanente-en-paraguay/",
-          "source_name": "Agencia IP",
-          "summary": "国家移民局第407/2026号决议规定了永久居留权经济偿付能力的12类证明，涵盖专业人士、数字游民、房产所有者、股东及退休人员等群体。关键变化在于：仅凭大学学历已不再符合要求——申请人必须证明其正在从事专业工作并拥有收入来源。该决议统一了第6984/2022号法律与《南方共同市场居留协定》的审核标准，自2026年7月6日起生效。",
-          "image_url": "https://www.ip.gov.py/ip/wp-content/uploads/2026/06/Gacetilla-774-960x560-1.jpg",
-          "is_gov_source": true,
-          "is_authoritative": true
-        },
-        {
-          "title": "关于维耶塔项目电价的总统令被取消并重新谈判（2026年6月10日）",
-          "date": "2026-06-10",
-          "source_url": "https://www.investegate.co.uk/announcement/rns/atome-energy--atom/villeta-project-update/9611990",
-          "source_name": "ATOME PLC / RNS",
-          "summary": "2026年1月，一项为ATOME公司维耶塔绿色化肥项目设定固定电价的总统令被撤销并替换。巴拉圭国家电力管理局（ANDE）受命重新谈判相关条款。该项目由国际金融公司（世界银行）、美洲开发银行投资部（IDB Invest）和欧洲投资银行（EIB）支持，将创造4000个建筑岗位和1300个运营岗位。这一政策逆转给巴拉圭能源密集型外国投资带来了政策不确定性。",
+          "title": "巴拉圭与智利签署双重征税协定，扩大国际税收协定网络（2026年7月初）",
+          "date": "2026-07-03",
+          "source_url": "https://www.adndigital.com.py/paraguay-y-chile-sellan-acuerdo-tributario-para-impulsar-inversiones-y-evitar-doble-imposicion/",
+          "source_name": "ADN Digital",
+          "summary": "巴拉圭与智利签署避免双重征税和防止逃避税协定，标志着巴拉圭国际税收协定网络进一步扩大，此前已与乌拉圭和阿联酋签署类似协定。协定降低跨境股息、利息和特许权使用费的预扣税率（可低至5-10%），有助于吸引外国直接投资并提升巴拉圭作为区域投资枢纽的竞争力。",
           "image_url": null,
           "is_gov_source": false,
+          "is_authoritative": true
+        },
+        {
+          "title": "巴拉圭开放铁路行业引入国际资本——Etihad Rail投资4.8亿美元建设亚松森通勤铁路（2026年6月10日生效）",
+          "date": "2026-06-10",
+          "source_url": "https://marcasur.com/en/noticia/paraguay-opens-its-railway-sector-to-international-capital&f=07-2026",
+          "source_name": "Marcasur / Congreso",
+          "summary": "第7665/2026号法律修改并扩展了通勤铁路法，引入G2G协议制度。Etihad Rail PJSC（阿联酋）将通过巴拉圭SPV（75%阿联酋/25%巴拉圭）承建第一阶段Asunción-Luque走廊（18公里/4.8亿美元）。法律包含不可撤销的美元延期支付义务（PDI）、AFD信托担保、国际仲裁条款以及广泛的税收和海关豁免。标志着巴拉圭基础设施融资模式的重大创新。",
+          "image_url": null,
+          "is_gov_source": true,
           "is_authoritative": true
         }
       ],
@@ -101,47 +101,37 @@
       "user_notes": ""
     },
     {
-      "title": "三、社会与劳动状况",
+      "title": "三、社会与安全形势",
       "description": "劳动力市场、社会稳定、公共安全、就业数据",
       "tier": 1,
       "events": [
         {
-          "title": "最低工资上调5%，自2026年7月1日起生效，调整为3,044,000巴拉圭瓜拉尼（2026年6月26日）",
-          "date": "2026-06-26",
-          "source_url": "https://www.lanacion.com.py/pais/2026/06/26/salario-minimo-nocturno-sube-a-g-3957200-y-rige-desde-julio-con-reajuste-del-5/",
-          "source_name": "La Nación",
-          "summary": "行政部门颁布法令，将最低工资上调5%。新的月最低工资标准为：日间工作304.4万瓜拉尼，夜间工作（含30%附加费）395.72万瓜拉尼。巴拉圭的最低工资调整与2026年拉丁美洲实际工资增长趋势保持一致，旨在弥补2021至2024年通胀期间损失的购买力。",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/55CET3CITNBK7KDUX7K4QQ7QDQ.jpg?auth=28d5963d75b01b2372b669a25a8f8341f41b281160157ecefdd95baf760552ba&width=1200&height=630&smart=true",
+          "title": "就业形势创纪录：失业率降至Q1历史最低5.3%，正式就业突破84.2万人，7/10新非农就业为正式岗位（2026年7月1日）",
+          "date": "2026-07-01",
+          "source_url": "https://www.hoy.com.py/nacionales/2026/07/01/pena-destaca-que-desempleo-baja-al-36-y-el-salario-minimo-logra-aumento-historico",
+          "source_name": "Diario HOY",
+          "summary": "培尼亚总统施政报告披露：2025年Q4失业率3.6%为历史最低，2026年Q1为5.3%（Q1历来数据偏高，仍为Q1历史最低）。IPS正式就业人数突破842,023人创纪录，自2023年8月以来新增134,000名参保人员。正式就业率首次突破40%。7/10的新非农就业岗位为正式岗位，标志着就业正规化取得显著进展。",
+          "image_url": null,
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "正式就业人数创历史新高——超过84.2万名劳动者在巴拉圭社会保险局登记（2026年6月27日）",
-          "date": "2026-06-27",
-          "source_url": "https://www.lanacion.com.py/politica/2026/06/27/latorre-destaca-el-fortalecimiento-macroeconomico-con-impacto-en-el-empleo-formal/",
-          "source_name": "La Nación",
-          "summary": "众议院议长劳尔·拉托雷强调，2026年5月社会保障学会（IPS）登记的正规就业人数超过84.2万人，创下历史峰值。这一增长归因于宏观经济强化、投资促进和产业扩张政策。进一步推动就业正规化工作仍被确认为持续优先事项。",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/CO3Y7G4Z6VFA3LKZNKNDSKG2KM.jpg?auth=6d6cf1fc72278807fd51c44e18fc4d1d2e5a582a17d44a4af86998a3e1e43f2b&width=1200&height=630&smart=true",
+          "title": "安全形势显著改善：抢劫车辆案下降39%、摩托车抢劫下降38%，万名新警力部署、Botón Lince快速响应系统上线（2026年7月2日）",
+          "date": "2026-07-02",
+          "source_url": "https://www.hoy.com.py/nacionales/2026/07/02/informe-de-pena-2025-vs-2026-crecimiento-economico-empleo-y-seguridad",
+          "source_name": "Diario HOY",
+          "summary": "施政报告安全数据显示：两年内新增10,000名警察（2025年5,000人+2026年5,000人），抢劫车辆案件同比下降39%，摩托车抢劫下降38%。推出“Botón Lince”应用程序，在关键区域实现4分钟以内警力响应。SENAD执行8,947次缉毒行动，对毒品贩运造成2.12亿美元经济损失。培尼亚称“巴拉圭不再被称为拉丁美洲的可卡因走廊”。",
+          "image_url": null,
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "劳动与社会保障部开通最低工资违规投诉WhatsApp渠道（2026年6月26日）",
-          "date": "2026-06-26",
-          "source_url": "https://www.lanacion.com.py/pais/2026/06/26/salario-minimo-nocturno-sube-a-g-3957200-y-rige-desde-julio-con-reajuste-del-5/",
-          "source_name": "La Nación / MTESS",
-          "summary": "劳动、就业与社会保障部（MTESS）开通了WhatsApp热线（0993-308-100），供劳动者举报未执行新最低工资标准的行为。该措施与7月1日工资上调同步实施，强化了劳动权益的执法力度。",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/55CET3CITNBK7KDUX7K4QQ7QDQ.jpg?auth=28d5963d75b01b2372b669a25a8f8341f41b281160157ecefdd95baf760552ba&width=1200&height=630&smart=true",
-          "is_gov_source": false,
-          "is_authoritative": true
-        },
-        {
-          "title": "居留申请激增——预计2026年将达8万份，主要由巴西公民推动（2026年6月25日）",
-          "date": "2026-06-25",
-          "source_url": "https://www.ip.gov.py/ip/2026/06/25/migraciones-actualiza-requisitos-para-residencia-permanente-en-paraguay/",
-          "source_name": "Agencia IP",
-          "summary": "巴拉圭的居留申请数量从2024年的28,000份激增至2025年的47,000份以上，预计2026年将达到80,000份，主要推动力来自巴西公民。这一涌入趋势反映出巴拉圭作为移民、投资者和数字游民目的地的吸引力日益增强，其驱动力源于该国属地税制及低廉的生活成本。",
-          "image_url": "https://www.ip.gov.py/ip/wp-content/uploads/2026/06/Gacetilla-774-960x560-1.jpg",
+          "title": "智利总统卡斯特访问巴拉圭，呼吁区域联合打击有组织犯罪，巴拉圭加入“圣地亚哥承诺”（2026年7月1日）",
+          "date": "2026-07-01",
+          "source_url": "https://efe.com/mundo/chile-jose-antonio-kast-visita-paraguay/",
+          "source_name": "EFE / Agencia IP",
+          "summary": "智利总统何塞·安东尼奥·卡斯特首次正式访问巴拉圭，与培尼亚总统会谈。卡斯特呼吁区域联合打击有组织犯罪，称'面对有组织犯罪，中立不作为不是选择'。巴拉圭加入了由智利推动的'圣地亚哥承诺'，阿根廷、玻利维亚、厄瓜多尔和秘鲁也参与其中，旨在加强跨国犯罪的信息共享和联合执法。",
+          "image_url": null,
           "is_gov_source": true,
           "is_authoritative": true
         }
@@ -150,58 +140,48 @@
       "user_notes": ""
     },
     {
-      "title": "四、国际关系与外交",
+      "title": "四、国际关系与外交动态",
       "description": "巴拉圭与大国关系、南方共同市场动态、两岸关系、多边参与",
       "tier": 1,
       "events": [
         {
-          "title": "亚松森南方共同市场峰会（6月29-30日）将决定欧盟配额分配——巴拉圭要求获得25%份额（2026年6月26日）",
-          "date": "2026-06-26",
-          "source_url": "https://efe.com/economia/2026-06-26/reparto-cuotas-acuerdo-comercial-union-europea-cumbre-mercosur/",
-          "source_name": "EFE",
-          "summary": "第67届南方共同市场峰会将于6月29日至30日在亚松森举行，欧盟贸易配额分配为核心议题。巴拉圭要求按产品类别固定分配25%的份额，而巴西、阿根廷和乌拉圭则倾向于依据历史出口平均值进行分配。欧盟-南方共同市场自由贸易协定已于2026年5月1日临时生效，尚待欧洲议会批准。乌拉圭将于6月30日接任轮值主席国。",
-          "image_url": "https://efe.com/wp-content/uploads/2026/06/Contenedores_Brasil_comercio.webp",
+          "title": "南共市峰会争议：巴拉圭要求25%欧盟出口配额，培尼亚称现行制度“不公平、不可接受”（2026年7月1日）",
+          "date": "2026-07-01",
+          "source_url": "https://misionesonline.net/2026/07/01/paraguay-se-quejo-por-las-exportaciones-a-la-ue/",
+          "source_name": "MisionesOnline / Agencia IP",
+          "summary": "在亚松森举行的南共市峰会上，巴拉圭对欧盟贸易协定的配额分配机制提出强烈异议。培尼亚总统称现行'先到先得'制度对巴拉圭'不公平、具有冒犯性且不可接受'。巴拉圭要求按产品类别固定25%配额，而巴西、阿根廷和乌拉圭倾向基于历史出口平均值分配。巴拉圭还将配额争议与FOCEM结构趋同基金挂钩，要求加大对内陆国家的基础设施补偿。欧盟-南共市FTA已于5月1日临时生效，乌拉圭将于7月起接任轮值主席国。",
+          "image_url": null,
+          "is_gov_source": true,
+          "is_authoritative": true
+        },
+        {
+          "title": "巴拉圭对华/对台政策：外长重申愿与中国大陆贸易但“不放弃台湾”，中国外交部回应“不能接受”（2026年7月1日）",
+          "date": "2026-07-01",
+          "source_url": "https://www.lanacion.com.py/politica/2026/07/01/mercosur-paraguay-ratifica-disposicion-a-negociar-con-china-pero-mantiene-como-limite-su-vinculo-con-taiwan/",
+          "source_name": "La Nación",
+          "summary": "南共市峰会期间，巴拉圭外长拉米雷斯·莱斯卡诺重申：巴拉圭愿在南共市框架下与中国大陆展开贸易谈判，但不会以放弃对台关系为条件。中国外交部回应称巴拉圭'站在历史的错误一边'，不接受'一边维持与台湾的关系一边与中国贸易'的做法。巴西总统卢拉推动南共市与中国展开贸易谈判，给巴拉圭带来额外压力——巴是南共市唯一未与中国建交的成员国。",
+          "image_url": null,
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "台湾副外长访问巴拉圭，探讨美台巴三方合作（2026年6月18日）",
-          "date": "2026-06-18",
-          "source_url": "https://www.taiwanplus.com/news/taiwan-news/diplomacy/260618010/taiwan-deputy-foreign-minister-visits-paraguay",
-          "source_name": "TaiwanPlus",
-          "summary": "台湾外交部次长陈明祺于6月16日至19日访问巴拉圭，与外交部长鲁本·拉米雷斯·莱斯卡诺会晤。双方回顾了2026年5月培尼亚总统对台湾进行国事访问后的进展，并讨论了美国-台湾-巴拉圭三方在人工智能、5G、智慧交通及网络安全领域的合作框架。双方正在筹备2027年建交70周年的纪念活动议程。",
-          "image_url": "https://prod-img.taiwanplus.com/img/resize/960x540/c3e8dcd9-04f1-43eb-ad23-90f4cd082718.jpg",
-          "is_gov_source": false,
+          "title": "巴拉圭当选联合国大会第81届会议副主席，与台湾筹备2027年建交70周年纪念活动（2026年6月底）",
+          "date": "2026-06-29",
+          "source_url": "https://www.ip.gov.py/ip/2026/06/17/paraguay-and-taiwan-strengthen-cooperation-and-strategic-partnership/",
+          "source_name": "Agencia IP",
+          "summary": "巴拉圭当选联合国大会第81届会议（2026-2027年度）副主席，台湾对此表示祝贺并感谢巴方持续支持台湾参与国际组织。6月中旬台湾副外长陈明祺访问亚松森，与拉米雷斯外长回顾了5月培尼亚访台成果，推进美-台-巴三方在AI、5G和网络安全领域合作，并筹备2027年建交70周年纪念议程。",
+          "image_url": null,
+          "is_gov_source": true,
           "is_authoritative": true
         },
         {
-          "title": "巴拉圭外长誓言维持与台湾的关系，抵制北京施压（2026年6月22日）",
-          "date": "2026-06-22",
-          "source_url": "https://newagebd.net/article/209927/paraguays-fm-vows-to-keep-taiwan-ties",
-          "source_name": "New Age / Agencia IP",
-          "summary": "外长拉米雷斯·莱斯卡诺重申，巴拉圭不会接受中国提出的与台湾断绝关系的条件。巴拉圭仍是南美洲唯一与台湾保持全面外交关系的国家（全球12个此类国家之一）。双方合作支柱包括：台湾-巴拉圭理工大学、已在1000多家医疗机构部署的HIS医疗系统，以及亚松森综合医院建设项目。",
-          "image_url": "https://outspoken.newagebd.com/files/img/https://www.newagebd.com/files/records/news/202308/209927_og.png",
-          "is_gov_source": false,
-          "is_authoritative": true
-        },
-        {
-          "title": "巴拉圭加强与美国协调——签署《部队地位协定》，参加“美洲之盾”峰会（2026年6月22日）",
-          "date": "2026-06-22",
-          "source_url": "https://aulablog.net/2026/06/02/china-taiwan-and-paraguay/",
-          "source_name": "AULA Blog / FLACSO",
-          "summary": "巴拉圭深化了与美国的战略协调，签署了《部队地位协定》并参加了“美洲之盾”峰会。分析人士指出，这种协调形成了台北-华盛顿-亚松森三角动态，若特朗普政府时期美国对台政策发生变化，可能使巴拉圭的长期外交战略复杂化。",
-          "image_url": "https://aulablog.net/wp-content/uploads/2026/06/secretary_rubio_meets_with_paraguayan_president_54281364349.jpg",
-          "is_gov_source": false,
-          "is_authoritative": true
-        },
-        {
-          "title": "欧盟-南方共同市场自贸协定自5月1日起临时生效——乌拉圭接任南方共同市场轮值主席国（2026年6月27日）",
-          "date": "2026-06-27",
-          "source_url": "https://www.ultimahora.com/acuerdo-ue-mercosur-esta-en-vigencia-transitoria-a-la-espera-del-beneplacito-del-parlamento-europeo",
-          "source_name": "Última Hora",
-          "summary": "欧盟-南方共同市场贸易协定于2026年5月1日临时生效，待欧洲法院作出兼容性裁决后，还需欧洲议会最终批准。阿根廷在数周内已用尽蜂蜜、鸡蛋和大米的优惠配额。巴西对欧盟的家禽出口在5月激增61.6%。巴拉圭已根据该协定启动基于配额的双边贸易。",
-          "image_url": "https://grupovierci.brightspotcdn.com/dims4/default/2a5bc29/2147483647/strip/true/crop/5472x3078+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffc%2F8c%2Fdb257d4b4491aca68260f694bf45%2F0e882f4c6d354af37733ebf0f56198785a665a7d.jpg",
-          "is_gov_source": false,
+          "title": "巴拉圭深化与美国合作：推进牛肉对美出口准入，国防合作全面升级（2026年6-7月）",
+          "date": "2026-07-01",
+          "source_url": "https://www.ip.gov.py/ip/2026/06/15/pena-discusses-investment-agenda-and-hemispheric-security-with-u-s-secretary-of-state/",
+          "source_name": "Agencia IP / USTR",
+          "summary": "巴拉圭继续深化对美战略合作。6月培尼亚与国务卿鲁比奥会晤讨论牛肉配额、直航航线、核能合作和数字基础设施等领域。5月外长在华盛顿与USTR就巴拉圭牛肉对美市场准入进行谈判，推动TIFA框架下配额落地。国防层面，SOFA协定已签署，马萨诸塞州国民警卫队SPP伙伴关系迎来25周年，Northrop Grumman雷达系统谈判加速推进。",
+          "image_url": null,
+          "is_gov_source": true,
           "is_authoritative": true
         }
       ],
@@ -214,43 +194,43 @@
       "tier": 1,
       "events": [
         {
-          "title": "国家电信委员会（CONATEL）启动2.3吉赫兹和3.5吉赫兹频谱招标公开咨询——对5G扩展至关重要（2026年6月22日）",
-          "date": "2026-06-22",
+          "title": "CONATEL完成2.3GHz/3.5GHz频谱招标公众咨询期，预计下半年发布最终招标文件（2026年7月）",
+          "date": "2026-07-01",
           "source_url": "https://www.gmalabs.com/post/paraguay-conatel-mobile-broadband-consultation-2026-opens-for-key-spectrum-bands",
           "source_name": "GMA Labs / CONATEL",
-          "summary": "巴拉圭国家电信委员会（CONATEL）发布了关于2300兆赫和3500兆赫频段（用于移动宽带和5G服务）招标条款的公开征求意见（第790/2026号决议，4月14日）。意见征集截止至5月15日。最终招标文件预计于2026年下半年发布。此外，CONATEL第3339/2025号决议将3700–3800兆赫频段重新指定用于国际移动通信（5G新空口）用途，为扩大5G部署铺平了道路。",
-          "image_url": "https://static.wixstatic.com/media/18a73d_12e73f0580e0484b86a18c41f47b2641~mv2.png/v1/fill/w_1024,h_563,al_c/18a73d_12e73f0580e0484b86a18c41f47b2641~mv2.png",
+          "summary": "国家电信委员会（CONATEL）第790/2026号决议启动了2,300MHz和3,500MHz频段移动宽带和5G服务招标条款的公开征求意见，意见征集于5月15日截止。同时，第3339/2025号决议已将3,700-3,800MHz频段重新指定用于IMT（5G NR），将3.3-3.8GHz配置为10×50MHz的TDD子频段。最终招标文件预计2026年下半年发布，将明确覆盖义务、服务质量和投资承诺等条件。",
+          "image_url": null,
           "is_gov_source": true,
           "is_authoritative": true
         },
         {
-          "title": "HIVE数字技术公司在巴拉圭推出人工智能BUZZ云平台——配备300兆瓦可再生能源的三级数据中心（2026年6月24日）",
+          "title": "HIVE Digital在巴拉圭推出BUZZ Cloud AI平台——Tier III级数据中心，300MW水电容量，计划再扩100MW（2026年6月）",
           "date": "2026-06-24",
           "source_url": "https://www.proactiveinvestors.com/companies/news/1085923/hive-digital-expands-into-paraguay-with-buzz-cloud-ai-platform-launch.html",
           "source_name": "Proactive Investors / HIVE (NASDAQ)",
-          "summary": "HIVE数字技术公司（纳斯达克：HIVE）在巴拉圭推出了首批专用人工智能云平台之一，该平台托管于亚松森的一座三级数据中心，由该国领先电信运营商合作运营。该平台利用巴拉圭国家暗光纤网络及300兆瓦剩余水电资源（伊泰普/亚西雷塔水电站），并计划于2026年扩容100兆瓦。其GPU集群将为南美洲客户提供人工智能训练、推理及数据密集型工作负载支持。",
-          "image_url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzAxXC83b2RkMjJNOFBoZ3hxVjRZYUhHZHRqR2YybGZza0lSdnNnM2cyQTZWLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
-          "is_gov_source": false,
-          "is_authoritative": true
-        },
-        {
-          "title": "努比康公司宣布投资2亿美元，用于在巴拉圭部署最大规模的5G网络（2026年6月23日）",
-          "date": "2026-06-23",
-          "source_url": "https://www.datacenterdynamics.com/en/news/?tag=nubicom",
-          "source_name": "DataCenterDynamics",
-          "summary": "阿根廷运营商努比通信宣布在巴拉圭投资2亿美元部署5G网络，这是该国最大规模的单笔5G投资。该公司在2025年8月国家电信委员会（CONATEL）的频谱拍卖中以200万美元许可费竞得3.3-3.5吉赫频段200兆赫带宽，作为此前仅提供阿根廷固网服务、无移动基础设施的运营商，正从零开始建设移动网络。商业运营目标定于2026年第一至第二季度启动，每100兆赫带宽至少部署100个基站。",
+          "summary": "HIVE Digital Technologies（纳斯达克：HIVE）在亚松森正式推出BUZZ Cloud AI云平台，托管于Tier III级数据中心，与巴拉圭领先电信运营商合作运营。平台利用巴拉圭国家暗光纤网络及现有300MW剩余水电（Itaipu/Yacyretá），计划2026年内再扩容100MW。GPU集群将为南美洲客户提供AI训练、推理及数据密集型工作负载。HIVE目前在巴拉圭拥有400MW总容量（全球540MW）。",
           "image_url": null,
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "克拉罗公司赢得3.5吉赫频段200兆赫频谱，将于大亚松森地区启动商用5G服务（2026年6月23日）",
-          "date": "2026-06-23",
-          "source_url": "https://www.bnamericas.com/en/news/paraguay-greenlights-claro-and-nubicom-to-ignite-5g-race",
-          "source_name": "BNamericas",
-          "summary": "克拉罗（美洲移动）在国家电信委员会（CONATEL）5G频谱拍卖中赢得3.5-3.7吉赫频段的200兆赫频谱，支付约200万美元。预计将于2026年第二季度在大亚松森地区启动商用5G服务，并需履行六个月的部署义务。克拉罗确认其移动核心网络已完成5G升级。蒂戈和佩尔索纳尔因对中国设备供应商（华为、中兴）的限制措施退出拍卖，此举获得美国大使馆公开支持。",
-          "image_url": "https://cdnimg.bnamericas.com/POjyKcsMosNhPZELKycnexVTCIJVYkuGWGwnoaKLyxfeXJXJIBUyjNZapDzARxCo.jpg",
-          "is_gov_source": false,
+          "title": "巴拉圭-台湾AI数据中心合资企业：一期10MW起步，三期目标1GW“全球最大AI中心”（2026年5月宣布，持续推进中）",
+          "date": "2026-07-01",
+          "source_url": "https://www.ip.gov.py/ip/2026/05/14/alliance-with-taiwan-positions-paraguay-in-the-global-race-for-ai-development-pena-highlights/",
+          "source_name": "Agencia IP",
+          "summary": "培尼亚总统在施政报告中特别强调与台湾的AI合作：双方50/50合资建设AI数据中心，一期10MW起步、二期扩展至100MW、三期目标约1GW——有望成为全球最大AI数据中心。巴拉圭依托100%可再生水电、Decreto 5306/2026（AI和云计算特别电价，美元计价15年合同期）和Decreto 5307/2026（Power-to-X），将能源优势转化为数字产业竞争力。BID提供1.3亿美元融资支持数字基础设施现代化。",
+          "image_url": null,
+          "is_gov_source": true,
+          "is_authoritative": true
+        },
+        {
+          "title": "MITIC数字转型报告：1.8万公里光纤、1,600个Starlink终端、3,234所学校接入互联网（2026年7月）",
+          "date": "2026-07-01",
+          "source_url": "https://dplnews.com/paraguay-tercer-informe-presidencial-destaca-al-mitic-como-actor-clave-en-la-transformacion-digital/",
+          "source_name": "DPL News / MITIC",
+          "summary": "培尼亚施政报告高度评价MITIC在数字转型中的关键作用。截至2026年6月：全国光纤网络达18,000公里，包括Ñeembucú省新增超1,000公里；与SpaceX合作部署1,600个Starlink终端服务于偏远学校和医疗中心；在全国400+公共场所提供免费WiFi，惠及超过130万市民；3,234所教育机构接入互联网，受益学生超100万；Villa Hayes国家Tier III数据中心和Innova科技园区在建中。",
+          "image_url": null,
+          "is_gov_source": true,
           "is_authoritative": true
         }
       ],
@@ -259,72 +239,71 @@
     },
     {
       "title": "六、主要客户动态",
-      "description": "追踪巴拉圭主要电信客户的战略动向、投资计划、网络部署及技术选择。",
+      "description": "追踪巴拉圭主要电信客户的战略动向、投资计划、网络部署及技术选型",
       "tier": 1,
       "events": [
         {
-          "title": "克拉罗公司——赢得5G频谱，准备在亚松森进行商用发布；核心网络已升级（2026年6月23日）",
-          "date": "2026-06-23",
+          "title": "Claro——5G商用启动在即，3,500万美元初期部署，核心网已完成5G改造（2026年7月）",
+          "date": "2026-07-01",
           "source_url": "https://www.bnamericas.com/en/news/paraguay-greenlights-claro-and-nubicom-to-ignite-5g-race",
           "source_name": "BNamericas",
-          "summary": "克拉罗（美洲移动）获得了200兆赫的3.5吉赫频谱，计划于2026年第二季度在大亚松森地区推出商用5G服务。其移动核心网已完成5G升级。部署要求：每100兆赫需建设100个基站，其中10%服务于政府机构。克拉罗有望成为巴拉圭首家提供5G服务的主要运营商。。",
-          "image_url": "https://cdnimg.bnamericas.com/POjyKcsMosNhPZELKycnexVTCIJVYkuGWGwnoaKLyxfeXJXJIBUyjNZapDzARxCo.jpg",
+          "summary": "Claro（América Móvil）在2025年8月拍卖中赢得3.5-3.7GHz频段200MHz频谱（许可费约200万美元），初期投资3,500万美元在12个重点都市区部署5G。根据6个月部署义务，商业服务预计2026年Q2在大亚松森地区率先开通。移动核心网已完成5G升级。每100MHz需部署100个基站，其中10%服务政府机构。Claro有望成为巴拉圭首家商用5G的主要运营商。",
+          "image_url": null,
           "is_gov_source": false,
           "is_authoritative": true,
-          "client_tag": "克拉罗"
+          "client_tag": "Claro"
         },
         {
-          "title": "Tigo——保持4G市场领先地位；仅在亚松森特定区域有限提供5G服务；退出5G频谱拍卖（2026年6月23日）",
-          "date": "2026-06-23",
-          "source_url": "https://www.bnamericas.com/en/news/paraguay-greenlights-claro-and-nubicom-to-ignite-5g-race",
-          "source_name": "BNamericas",
-          "summary": "Tigo（Millicom公司）仍是巴拉圭用户规模最大的移动运营商，拥有最快的4G LTE网络和最佳的农村覆盖。然而，由于对中国设备供应商的限制，Tigo退出了2025年8月的5G频谱拍卖。其当前5G覆盖范围仅限于亚松森部分区域，且使用现有频谱。该公司持续投资于4G基础设施及Tigo Money金融科技服务。。",
-          "image_url": "https://cdnimg.bnamericas.com/POjyKcsMosNhPZELKycnexVTCIJVYkuGWGwnoaKLyxfeXJXJIBUyjNZapDzARxCo.jpg",
+          "title": "Tigo——未参与5G频谱拍卖，专注4G/光纤扩建，获BID Invest+Proparco 1亿美元融资（2026年7月）",
+          "date": "2026-07-01",
+          "source_url": "https://idbinvest.org/en/news-media/idb-invest-and-proparco-partner-millicom-expand-digital-infrastructure-across-latin",
+          "source_name": "BID Invest / BNamericas",
+          "summary": "Tigo（Millicom）作为巴拉圭最大移动运营商（用户320万，市场份额47.3%），因中国供应商（华为/中兴）限制条款退出2025年8月5G频谱拍卖。公司当前聚焦：3G向4G迁移、光纤到户（FTTH）扩张、Tigo Money金融科技增长。2026年3月，BID Invest和Proparco联合向Millicom投资1亿美元（哥伦比亚比索私募债券），覆盖巴拉圭等7国4G/4.5G/5G和光纤网络扩展。2026年1月，Tigo巴拉圭完成7,700万美元瓜拉尼本币债券历史性发行。公司持续与政府就5G频谱替代方案进行谈判。",
+          "image_url": null,
           "is_gov_source": false,
           "is_authoritative": true,
           "client_tag": "Tigo"
         },
         {
-          "title": "个人业务——未宣布5G计划；专注于低成本细分市场；覆盖缺口持续存在（2026年6月23日）",
-          "date": "2026-06-23",
+          "title": "Personal——未参与5G拍卖，坚持低成本定位，面临被Nubicom取代第三大运营商的风险（2026年7月）",
+          "date": "2026-07-01",
           "source_url": "https://www.bnamericas.com/en/news/paraguay-greenlights-claro-and-nubicom-to-ignite-5g-race",
           "source_name": "BNamericas",
-          "summary": "阿根廷电信旗下品牌Personal选择不参与5G频谱拍卖，且未公布任何独立部署5G网络的计划。该运营商继续专注于低成本市场定位，网络覆盖集中于城市区域，在亚松森以外地区覆盖能力较弱。若未能升级网络，其可能被努比康公司取代，失去第三大移动运营商地位。。",
-          "image_url": "https://cdnimg.bnamericas.com/POjyKcsMosNhPZELKycnexVTCIJVYkuGWGwnoaKLyxfeXJXJIBUyjNZapDzARxCo.jpg",
+          "summary": "Personal（Telecom Argentina旗下）拥有约240万用户（市场份额35.5%），因中国设备供应商限制同样未参与5G频谱拍卖，且未公布独立5G部署计划。公司继续聚焦低成本细分市场，网络覆盖集中在城市区域，Asunción以外覆盖能力较弱。若无法升级网络，可能被Nubicom取代失去第三大移动运营商地位。未有显著的基础设施投资公告。",
+          "image_url": null,
           "is_gov_source": false,
           "is_authoritative": true,
           "client_tag": "Personal"
         },
         {
-          "title": "努比康公司——新市场进入者，投资2亿美元用于5G建设；从零开始构建移动网络（2026年6月23日）",
-          "date": "2026-06-23",
+          "title": "Nubicom——新进入者，宣布2亿美元5G建设投资，从零构建移动网络，预计2026年Q2启动商用（2026年7月）",
+          "date": "2026-07-01",
           "source_url": "https://www.datacenterdynamics.com/en/news/?tag=nubicom",
           "source_name": "DataCenterDynamics / BNamericas",
-          "summary": "来自阿根廷萨尔塔省的固定互联网提供商努比康公司（Nubicom）赢得200兆赫的3.5吉赫兹频谱，并计划在巴拉圭投资2亿美元建设全新的5G网络。该公司须在6周内成立本地子公司，从零开始建设移动基础设施，且每100兆赫频谱至少部署100个基站。这是巴拉圭迄今最大的一笔单次5G投资。。",
+          "summary": "Nubicom（阿根廷萨尔塔省固网运营商）在5G拍卖中赢得3.3-3.5GHz频段200MHz频谱（许可费约200万美元），宣布2亿美元投资建设巴拉圭迄今最大规模5G网络。公司须在6周内成立本地子公司，从零开始构建移动基础设施，每100MHz需部署至少100个基站。作为此前仅在阿根廷提供固网服务的运营商，从零建设移动网络面临巨大挑战，但也为设备供应商和基础设施合作伙伴提供了全新市场机会。",
           "image_url": null,
           "is_gov_source": false,
           "is_authoritative": true,
-          "client_tag": "努比康"
+          "client_tag": "Nubicom"
         }
       ],
       "impact_analysis": "",
       "user_notes": ""
     },
     {
-      "title": "七、企业综合影响分析",
-      "description": "综合宏观趋势、行业动态及客户动向，评估巴拉圭企业运营环境。",
+      "title": "七、对企业经营的综合影响分析",
+      "description": "综合宏观趋势、行业动态及客户动向，评估巴拉圭企业运营环境",
       "tier": 2,
       "events": [],
-      "impact_analysis": "## 一、成本维度 🟡\n\n基于本周数据对成本压力的综合评估：\n\n- **能源成本**：总统令取消比列塔项目电价政策，为能源密集型投资带来政策不确定性。但巴拉圭丰富的水电盈余（可用容量超300兆瓦）及海夫公司成功达成的300兆瓦数据中心项目，证实能源仍属结构性成本优势。\n- **汇率成本**：瓜拉尼保持拉丁美洲最稳定货币地位（彭博社数据），2025年对美元升值约17%。6月28日自由市场汇率约为6124瓜拉尼兑1美元。进口密集型行业受益于本币走强，出口企业面临利润空间压缩。\n- **劳动力成本**：最低工资上调5%（自7月1日起调整为304.4万瓜拉尼）幅度温和，符合区域趋势。正规就业人数创历史新高，超过84.2万人，表明劳动力市场趋紧但仍具可负担性。\n\n## 二、市场维度 🟢\n\n巴拉圭市场机遇在数字基础设施领域显著扩大：\n\n- **5G与电信**：国家电信委员会新频谱招标（2.3/3.5吉赫频段）及克拉罗/努比康公司5G商用部署，为电信设备、服务和应用程序供应商创造机遇。美国支持的设备限制政策利好非中国供应商。\n- **人工智能与数据中心**：海夫公司人工智能云平台上线，依托可再生能源和暗光纤网络，将巴拉圭定位为南美新兴人工智能基础设施枢纽。由此催生数据中心建设、冷却系统、电源管理及专业信息技术人才需求。\n- **欧盟市场准入**：《欧盟-南方共同市场自由贸易协定》（5月1日起临时生效）为牛肉、禽肉、糖等产品开放优惠配额。巴拉圭争取25%配额份额的诉求，彰显其抢占出口增长的雄心。\n\n## 三、合规维度 🔴\n\n合规风险需主动监控：\n\n- **外资政策**：《投资者通行证》（工商部第0283/2026号决议）及更新版国家移民局第407/2026号决议大幅优化居留通道，但新增文件要求（需提供主动收入证明）。2026年预计8万份的申请激增可能超出处理能力。\n- **能源监管**：比列塔法令逆转表明能源密集型项目不能假定电价稳定。国家电力局重新谈判带来执行时间表风险。\n- **劳动合规**：劳动、就业和社会保障部开通WhatsApp投诉渠道，显示最低工资和劳动标准执法力度加强。企业应在7月1日工资调整前完成薪酬合规审计。\n\n## 综合评估\n\n本周监测的22项事件（其中7项来自政府渠道）呈现以下图景：强劲的宏观经济势头（国内生产总值增长5.8%，就业创纪录）与能源及外资监管领域的政策波动并存。近期关键决策节点为6月29-30日南方共同市场峰会关于欧盟配额分配的成果，这将决定巴拉圭未来数年的出口竞争力。",
+      "impact_analysis": "## 一、成本维度 🟡\n\n基于本周数据对成本压力的综合评估：\n\n- **汇率成本**：瓜拉尼同比升值21.9%（USD/PYG从7,784降至6,082），是区域升值幅度最大的货币之一。以瓜拉尼计价的运营成本（本地薪资、服务采购）折算美元后大幅上升，压缩出口导向型企业的利润空间。但进口设备和原材料成本显著降低，利好依赖进口的电信、数据中心等行业。\n- **劳动力成本**：最低工资5%的温和上调（自7月1日起生效）符合通胀水平（6月CPI同比仅2.09%），实际单位劳动成本基本可控。正式就业率突破40%，IPS参保人数突破84.2万，劳动力市场趋紧但工资压力温和。\n- **能源成本**：Decreto 5306/2026和5307/2026提供美元计价、最长15年固定期限的特别电价，为数据中心和AI企业创造了全球最具竞争力的能源成本结构之一。HIVE Digital和X8 Cloud的落地验证了这一优势。但Villeta项目电价政策逆转（1月总统令被6月撤销）提醒企业：能源成本仍取决于政策连续性。\n- **税收成本**：强势瓜拉尼导致海关税收同比下降11.6%（尽管进口量+7%），DNIT上半年总收入仅增1.8%，远低于全年13.4%的增收目标。这可能引发下半年出台新的税收征管措施或调整部分税收政策以弥补财政缺口。\n\n## 二、市场维度 🟢\n\n巴拉圭市场机遇在数字基础设施和投资便利化领域显著扩大：\n\n- **5G与电信设备市场**：CONATEL新一轮2.3/3.5GHz频谱招标即将在下半年启动，为电信设备和基础设施供应商创造新一轮采购机会。Claro和Nubicom的5G部署义务（各100个基站/100MHz）意味着短期内至少200个5G基站的设备和工程服务需求。美国支持的设备排除政策利好非中国供应商。\n- **AI与数据中心产业链**：HIVE BUZZ Cloud平台上线、台巴AI数据中心合资项目（一期10MW→三期1GW）和X8 Cloud项目（长期500亿美元）将拉动数据中心建设相关需求：电力设备、冷却系统、光纤连接、网络安全、专业IT服务。IDB 1.3亿美元数字基础设施融资提供了额外资金支持。\n- **基础设施与物流**：铁路开放法（7665/2026）引入Etihad Rail的4.8亿美元通勤铁路项目，创造了轨交设备、工程和运营服务的市场机会。G2G模式下的不可撤销美元支付安排为供应商提供了付款保障。\n- **欧盟市场准入**：EU-Mercosur FTA自5月1日临时生效，但配额分配争议悬而未决。若巴拉圭成功争取25%配额，牛肉、禽肉、糖等产品的出口将大幅增长。反之，如果'先到先得'维持现状，阿根廷和巴西将继续占据大部分配额。\n\n## 三、合规维度 🟡\n\n合规环境总体向好，但需关注政策波动：\n\n- **投资便利化**：投资者通行证（Decreto 0283/2026）和更新版移民局要求已生效，四条投资路径（最低7万美元/10个就业→永久居留）清晰可行，股息税率从15%降至8%为投资者带来实质性收益。\n- **税收协定**：智利双重征税协定的签署标志着巴拉圭税务合规框架进一步国际化，面向跨境投资者的预扣税率降低将改善投资回报。\n- **劳动合规**：WhatsApp最低工资投诉热线开通表明执法力度加强，在7月1日工资调整后企业应及时完成薪酬合规审查。\n- **财政风险**：IMF第四条磋商指出，2026年赤字可能因供应商欠款清理（建筑商2.2亿美元+药企约5亿美元）超出目标。虽然短期无碍投资级评级，但需关注潜在的税收政策调整以弥补缺口。\n\n## 综合评估\n\n本周监测的24项事件（其中8项来自政府渠道）呈现以下图景：巴拉圭宏观经济持续强劲（IMF预测2026年GDP增长4.4%，通胀2.09%远低于目标），但在强势瓜拉尼冲击税收和边境贸易、EU-Mercosur配额争议白热化、能源政策偶发逆转的背景下，企业需保持风险管理敏感度。数字基础设施和AI领域的投资浪潮是本周期最突出的结构性和机遇。",
       "user_notes": ""
     },
     {
-      "title": "八、涉华企业风险与机遇分析",
-      "description": "为中国企业在巴拉圭经营或考虑进入巴拉圭市场量身定制的分析，涵盖外交风险、政策风险及战略建议。",
+      "title": "八、对中资企业的专项影响与建议",
+      "description": "为中国企业在巴拉圭经营或考虑进入巴拉圭市场量身定制的分析，涵盖外交风险、政策风险及战略建议",
       "tier": 2,
       "events": [],
-      "impact_analysis": "## 一、风险预警\n\n🔴 **高优先级：**\n\n- **外交壁垒**：巴拉圭是台湾地区在南美洲唯一的所谓\"外交盟友\"。外长拉米雷斯·莱斯卡诺公开重申拒绝将承认转向北京。与美国签署的《部队地位协定》以及美台巴三方合作（人工智能、5G、网络安全）进一步巩固了这一立场。中国企业在项目审批中面临更高的政治审查，并可能遭遇非正式壁垒。\n- **设备供应商排除**：巴拉圭国家电信委员会以安全为由，在美国大使馆明确背书下，通过5G频谱拍卖规则实质上禁止中国电信设备供应商（华为、中兴）参与。此先例可能扩展至其他关键基础设施领域，限制中国技术产品的市场准入。\n\n🟡 **中等优先级：**\n\n- **竞争替代**：美洲移动旗下的克拉罗公司和努比康公司（投资2亿美元）在中国供应商被排除的情况下，正抢占5G市场先发优势。作为华为/中兴用户的蒂戈公司和佩尔索纳尔公司，在网络升级方面面临战略挑战。\n- **汇率风险**：强势瓜拉尼（2025年升值约17%）降低了已在巴拉圭的中国投资者以瓜拉尼计价的利润兑换人民币的价值。\n\n## 二、机遇分析\n\n🟢 **可操作机遇：**\n\n- **数字基础设施缺口**：尽管存在设备供应商限制，但蜂巢人工智能数据中心项目表明数字基础设施合作需求旺盛。中国企业可探索非设备角色：工程总承包、可再生能源整合、冷却系统及数据中心运营。\n- **农业技术**：巴拉圭大豆和牛肉出口繁荣（GDP增长5.8%，农业增长8.2%）催生了对精准农业、物联网传感器和供应链数字化的需求——这些领域中国农业科技企业可在不引发安全担忧的情况下参与竞争。\n- **南方共同市场门户**：已在巴西或阿根廷运营的中国企业可利用欧盟-南方共同市场自贸协定框架获取区域市场准入。6月29-30日南方共同市场峰会关于欧盟配额的结果可能创造新的出口渠道机遇。\n\n## 三、战略建议\n\n**立即行动：**\n- 对照新推出的投资者通行证和2026年第407号国家移民局决议的居留要求，梳理所有现有巴拉圭投资以确保合规。\n- 评估任何涉及中国产设备的电信或关键基础设施项目是否可能受到国家电信委员会供应商限制的影响。\n\n**短期（1-3个月）：**\n- 探索通过第三方国家合作模式（如通过欧洲或巴西子公司）参与5G、数据中心和数字基础设施项目，以降低政治敏感性。\n- 建立本地政策监测机制，跟踪国家电信委员会频谱招标、国家电力管理局能源电价谈判及工商部投资监管变化。\n\n**中期（3-12个月）：**\n- 监测美台巴三方合作框架演变及其对中国企业准入的影响。\n- 评估农业技术和可再生能源作为进入巴拉圭市场的低政治风险切入点。",
-      "user_notes": ""
+      "impact_analysis": "## 一、风险预警\n\n🔴 **高优先级：**\n\n- **外交壁垒持续强化**：南共市峰会期间，巴拉圭外长公开重申\"愿与中国贸易但不放弃台湾\"的立场，中方已明确表示\"不能接受\"。巴西（卢拉）推动南共市对华谈判给巴拉圭带来额外压力，但短期内巴拉圭不会改变对台关系。中国企业仍面临项目审批的非正式壁垒和更高的政治审查风险。\n- **电信设备供应商排除制度化**：CONATEL通过5G频谱拍卖规则（\"贸易互惠\"条款）实质性排除华为/中兴，该先例已通过Claro和Nubicom的频谱授予正式执行。新的2.3/3.5GHz招标预计将维持相同规则。这一排除机制可能通过\"网络安全\"和\"供应链安全\"话语扩展至其他关键基础设施领域（如数据中心、智慧城市项目）。\n\n🟡 **中等优先级：**\n\n- **美国-台湾-巴拉圭三角深化**：巴拉圭加入美国主导的\"圣地亚哥承诺\"、签署SOFA协定、推进Northrop Grumman雷达采购、美台巴三方AI/5G/网络安全合作框架的落地，进一步巩固了排除中国企业的地缘政治架构。在巴拉圭参与的敏感基础设施项目中，中国企业面临的不仅是商业竞争，更是体系性准入壁垒。\n- **汇率风险**：瓜拉尼同比升值21.9%，已是拉美最强势货币。已在巴拉圭投资的中资企业以瓜拉尼计价的利润折算人民币后大幅缩水，需评估汇率对冲策略。\n- **财政调整风险**：DNIT上半年税收仅增1.8%，远低于全年13.4%目标。下半年可能出台新的税收征管措施（如强化转让定价审查、进口估值调整），影响中资贸易和投资企业的税务合规成本。\n\n## 二、机遇分析\n\n🟢 **可操作机遇：**\n\n- **数字基础设施非设备角色**：尽管电信设备准入受限，但HIVE、台巴AI数据中心、X8 Cloud等项目的落地表明数据中心建设、可再生能源整合、冷却系统、光纤布线、电力设备和工程总承包（EPC）需求旺盛。中国企业可以探索不涉及电信核心设备的配套角色：电气设备供应（变压器、UPS、配电柜）、冷却解决方案、太阳能+储能配套、数据中心建筑工程。\n- **农业科技与绿色转型**：巴拉圭以大豆和牛肉出口为经济支柱（GDP增长6.6%主要由农业驱动），对精准农业、IoT传感器、供应链数字化、冷链物流技术有强劲需求。中国农业科技企业可在不触发安全审查的领域竞争。\n- **南共市间接通道**：已在巴西或阿根廷布局的中资企业可利用EU-Mercosur FTA框架获取对欧出口优惠。巴拉圭的配额争议实际上为中资企业提供了观察和影响南共市内部贸易治理的窗口期。\n- **新能源与Power-to-X**：Decreto 5307/2026为绿氢、氨、甲醇和合成燃料提供美元计价特别电价和长期合同。巴拉圭过剩的水电资源（Itaipu 14,000MW + Yacyretá）为电解水制氢和绿色燃料生产提供了全球最具成本竞争力的能源基础。中国在电解槽制造和绿色甲醇领域的技术积累可在此找到应用场景。\n\n## 三、战略建议\n\n**立即行动：**\n- 对照7月1日生效的新最低工资标准和移民局第407/2026号决议更新劳动合规和居留文件，确保现有派驻人员和新投资项目符合最新要求。\n- 评估因瓜拉尼升值21.9%对现有巴拉圭业务以美元/人民币计价的财务影响，考虑是否需要建立汇率对冲机制。\n\n**短期（1-3个月）：**\n- 密切跟踪CONATEL新一轮2.3/3.5GHz频谱招标进展，尽管设备直接准入受限，但关注是否有通过第三方（如欧洲子公司）参与投标或提供配套设备和服务的路径。\n- 主动对接HIVE Digital、X8 Cloud和台巴AI数据中心项目的基础设施配套需求（电力、冷却、建筑），以非敏感供应商身份参与供应链。\n- 安排在亚松森的现场政策调研，与MIC（工商部）、AND（国家电力管理局）、MITIC建立直接沟通渠道，及时获取投资政策和电价变动信息。\n\n**中期（3-12个月）：**\n- 研究通过南共市其他国家（巴西/阿根廷）的间接准入策略，利用EU-Mercosur FTA框架实现巴拉圭市场的\"曲线进入\"。\n- 评估在绿色氢能和Power-to-X领域的投资可行性，利用Decreto 5307/2026的政策窗口和巴拉圭的能源成本优势。\n- 持续监测巴拉圭外交政策走向——若未来出现对华关系调整，将为中国企业开辟全新的市场准入格局。建议每季度进行一次巴拉圭宏观政治风险评估更新。"
     }
   ]
 }
