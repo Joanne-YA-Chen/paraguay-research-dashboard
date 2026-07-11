@@ -1,6 +1,6 @@
 {
   "topic": "Paraguay Briefing",
-  "time_span": "June 27 – July 4, 2026",
+  "time_span": "July 4 – July 11, 2026",
   "tiers": [
     {
       "name": "Part I: Key News & Developments",
@@ -14,45 +14,55 @@
   "sections": [
     {
       "title": "I. Macroeconomic Developments",
-      "description": "GDP growth, inflation, exchange rate, monetary policy, fiscal position, key sector performance",
+      "description": "GDP growth, inflation, exchange rate, monetary policy, fiscal position, key industry performance",
       "tier": 1,
       "events": [
         {
-          "title": "IMF Concludes Article IV Consultation: Projects Paraguay 2026 GDP Growth at 4.4%, Praises Inflation Targeting Framework (2026-06-29)",
-          "date": "2026-06-29",
-          "source_url": "https://www.imf.org/en/news/articles/2026/06/29/cs-062926-paraguay-imf-staff-concluding-statement-2026-aiv-consultation-mission",
-          "source_name": "IMF",
-          "summary": "The IMF completed its Article IV consultation mission to Paraguay (June 15-26). Key projections: 2026 GDP growth of 4.4%, converging to 3.8% medium-term. The IMF praised Paraguay's inflation targeting regime, flexible exchange rate, and fiscal discipline. Paraguay was largely insulated from the Middle East conflict due to 100% renewable electricity generation and favorable soybean production/prices. The IMF sees scope for gradual further rate easing if energy shocks prove temporary.",
-          "image_url": null,
+          "title": "IMF projects Paraguay GDP growth at 4.4% for 2026, nearly double the regional average (2026-07-09)",
+          "date": "2026-07-09",
+          "source_url": "https://www.lanacion.com.py/negocios/2026/07/09/pese-a-menor-expansion-de-la-economia-mundial-paraguay-crecera-casi-el-doble-segun-el-fmi/",
+          "source_name": "La Nación / IMF",
+          "summary": "The IMF's July 2026 World Economic Outlook update projects Paraguay's GDP growth at 4.4% for 2026, nearly double the Latin America and Caribbean average of 2.4%. The IMF highlights Paraguay's 100% renewable energy matrix, strong soybean production, and prudent macroeconomic management as key drivers. Growth is supported by resilient private consumption, expanding credit, and large-scale FDI projects.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/3X37YKS6FNBOLFINO2ZR6BG4TQ.jpg?auth=295b5b432110ac99f0ebbacc3b1cb1f8ca120d2ab9fda06584fe452761f140f9&width=1200&height=630&smart=true",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "President Peña Delivers Third Annual Report: 2025 GDP Growth at 6.6% (12-Year High), Unemployment Falls to 5.3% Historic Q1 Low (2026-07-01)",
-          "date": "2026-07-01",
-          "source_url": "https://www.hoy.com.py/nacionales/2026/07/02/informe-de-pena-2025-vs-2026-crecimiento-economico-empleo-y-seguridad",
-          "source_name": "Diario HOY",
-          "summary": "President Santiago Peña presented his third annual management report to Congress. Key metrics: 2025 GDP growth of 6.6% (highest in 12 years, #1 in Latin America); Q1 2026 growth of 5.8%; Q4 2025 unemployment at 3.6% (historic low); poverty at 16% and extreme poverty at 2.4% (both historic lows); IPS formal employment at a record 842,023; two investment-grade ratings obtained (Moody's and S&P).",
-          "image_url": null,
-          "is_gov_source": false,
-          "is_authoritative": true
-        },
-        {
-          "title": "BCP Holds Policy Rate at 5.50% for Fourth Consecutive Month; June CPI at Just 2.09% YoY (2026-07-02)",
-          "date": "2026-07-02",
+          "title": "BCP holds policy rate at 5.50% for fourth consecutive month; next meeting set for July 23 (2026-07-10)",
+          "date": "2026-07-10",
           "source_url": "https://www.itau.com.br/itaubba-pt/analises-economicas/latam/paraguay-bcp-on-hold-again-at-5-50-as-expected",
-          "source_name": "Itau BBA / BCP",
-          "summary": "The BCP unanimously held the benchmark rate at 5.50% in June, maintaining a neutral stance since February 2026. Latest CPI data (AE_IPC-26.6) shows June CPI fell 0.28% MoM with annual inflation at just 2.09%, well below the 3.5% target. Next policy meeting is July 23; markets expect rates to remain unchanged through year-end. The BCP flagged Middle East conflict and US tariff uncertainty as key external risks.",
+          "source_name": "Itaú BBA / BCP",
+          "summary": "The Central Bank of Paraguay (BCP) maintained the benchmark interest rate at 5.50%, marking the fourth consecutive hold since February 2026. June CPI fell 0.28% month-on-month with annual inflation at just 2.09%, well below the 3.5% target. The BCP's next monetary policy meeting is scheduled for July 23. Market consensus expects rates to remain at 5.50% through year-end, with the real ex-ante rate (2.0%) within the neutral range.",
           "image_url": null,
+          "is_gov_source": true,
+          "is_authoritative": true
+        },
+        {
+          "title": "Guaraní maintains strong position: USD/PYG at 6,060–6,200, down 8.56% YTD against the dollar (2026-07-10)",
+          "date": "2026-07-10",
+          "source_url": "https://www.latribuna.com.py/negocios/economia/2026/07/09/el-guarani-sigue-fuerte-ante-el-dolar-y-tendencia-se-mantiene-hasta-fin-de-ano/",
+          "source_name": "La Tribuna / Clarín",
+          "summary": "The guaraní continues its strengthening trend against the dollar, trading at PYG 6,060–6,200 per USD on July 10. Year-to-date the dollar has fallen 8.56% against the guaraní (from PYG 6,628 at end-2025). The BCP's Survey of Economic Variable Expectations (EVE) projects year-end exchange rate at PYG 6,475. Key drivers include robust agro-export and energy foreign currency inflows, adequate financial system liquidity, and global dollar weakness. Analysts advise against artificial BCP intervention.",
+          "image_url": "https://www.latribuna.com.py/resizer/v2/NZK24PDXVZAQPHI7GCM5GSYI3U.JPG?smart=true&auth=aa956079a7b1885f0324ed080589125adacf737b318e87b2c552897be8b36b53&width=1200&height=630",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "Guarani Appreciates 21.9% YoY: USD/PYG Falls from 7,784 to 6,082, Hitting Customs Revenue and Border Trade (2026-07-03)",
-          "date": "2026-07-03",
-          "source_url": "https://prensamercosur.org/2026/07/02/paraguay-la-dnit-cierra-el-primer-semestre-de-2026-con-un-crecimiento-de-18-pero-junio-expone-la-fragilidad-del-modelo-aduanero/",
-          "source_name": "Prensa Mercosur / DNIT",
-          "summary": "The Guarani appreciated 21.9% year-on-year against the USD, from PYG 7,784 to PYG 6,081.67. Customs revenue fell 11.6% in H1 2026 despite import volumes rising 7% and import values rising 10% - the strong currency 'liquefied' the Guarani tax base. Total DNIT revenue reached PYG 21.73 trillion, up only 1.8% YoY. Border trade was severely affected: daily Argentine shoppers at Alberdi-Formosa plummeted from 1,200 to 400-500.",
+          "title": "MEF projects 4.2% GDP growth for 2026, fourth consecutive year above 4%, but fiscal deficit to exceed target (2026-07-10)",
+          "date": "2026-07-10",
+          "source_url": "https://www.ultimahora.com/el-fmi-pidio-cuentas-completas",
+          "source_name": "Última Hora / MEF / IMF",
+          "summary": "Economy Minister Óscar Lovera ratified the 4.2% GDP growth projection for 2026, which would mark the fourth consecutive year above 4%. However, the IMF's Article IV consultation (June 29) warned the fiscal deficit will exceed the 1.5% target due to regularization of accumulated domestic arrears (USD 220M to construction firms, ~USD 1B to pharmaceutical sector). The IMF projects convergence to 1.5% deficit only by 2028 and called for full transparency in public accounts. DNIT tax revenue grew only 2.1% in H1 vs. the 9% budgeted target; President Peña ordered intensified collection efforts for H2.",
+          "image_url": "https://grupovierci.brightspotcdn.com/dims4/default/bfe1bc3/2147483647/strip/true/crop/3108x3108+0+0/resize/100x100!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F28%2F30%2Fcdd7e90c4b54abaecbdf925eded0%2Frodrigo-ibarrola.JPG",
+          "is_gov_source": false,
+          "is_authoritative": true
+        },
+        {
+          "title": "Imports grow nearly 10% in H1 2026 driven by strong guaraní and World Cup consumption boost (2026-07-10)",
+          "date": "2026-07-10",
+          "source_url": "https://infonegocios.com.py/amp/y-ademas/importadores-cierran-primer-semestre-con-un-crecimiento-cercano-al-10-estiman-incremento-igual-o-superior-para-la-segunda-mitad-del-ano",
+          "source_name": "InfoNegocios",
+          "summary": "Paraguay's import sector (excluding fuels) reported nearly 10% growth in consumer goods during H1 2026, driven by exchange rate stability, a strong guaraní, and the FIFA World Cup-driven consumption surge in June. Electronics, appliances, automobiles, and mass consumer goods were key growth categories. The sector expects similar or stronger growth in H2, fueled by year-end restocking. April trade data showed imports of USD 1,589.9M (+13.7% YoY) against exports of USD 1,592.6M (+20.5% YoY), yielding a slim trade surplus of USD 2.7M.",
           "image_url": null,
           "is_gov_source": false,
           "is_authoritative": true
@@ -67,33 +77,33 @@
       "tier": 1,
       "events": [
         {
-          "title": "Pena Administration Passes 164 Laws: Historic Reforms in Tax Incentives, Railway Liberalization, Pension Reform (2026-07-01)",
-          "date": "2026-07-01",
-          "source_url": "https://rcc.com.py/nacionales/pena-destaca-que-la-estabilidad-politica-permitio-aprobar-164-leyes-y-avanzar-en-reformas-historicas-para-el-paraguay/",
-          "source_name": "RCC / Presidencia",
-          "summary": "President Pena highlighted political stability as the foundation for reform in his annual report. The administration passed 164 laws, including: a new Investment Incentives Law (replacing Law 60/90), Capital Markets Law (approaching OECD standards), Data Protection Law, pension system reform, and Railway Sector Liberalization Law (7665/2026). The new investment incentives framework modernizes tax benefits for both domestic and foreign investors.",
-          "image_url": null,
+          "title": "Government modifies Hambre Cero decree: redistributes school feeding procurement to 7% direct producer / 3% processed goods (2026-07-10)",
+          "date": "2026-07-10",
+          "source_url": "https://www.hoy.com.py/nacionales/2026/07/09/medicos-anuncian-huelga-en-agosto-salud-blindara-servicios-criticos",
+          "source_name": "Ministerio de Desarrollo Social",
+          "summary": "Social Development Minister Tadeo Rojas announced changes to the Hambre Cero (Zero Hunger) school feeding program executive decree. The reform maintains the 10% minimum procurement from family agriculture and MSMEs, but redistributes it: 7% for direct purchase from primary producers and 3% for processed products. The changes aim to strengthen transparency and traceability in invoicing while supporting smallholder farmers.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/PDWKSZCPUNDXLDDT5XCG5VAL6A.jpg?auth=1512391132b72a2e61d7d035edccfab4bccdb1a3eee03a245941350a70e489df&width=1200&height=630&smart=true",
           "is_gov_source": true,
           "is_authoritative": true
         },
         {
-          "title": "Paraguay and Chile Sign Double Taxation Agreement, Expanding International Tax Treaty Network (2026-07 Early)",
-          "date": "2026-07-03",
-          "source_url": "https://www.adndigital.com.py/paraguay-y-chile-sellan-acuerdo-tributario-para-impulsar-inversiones-y-evitar-doble-imposicion/",
-          "source_name": "ADN Digital",
-          "summary": "Paraguay and Chile signed a Double Taxation Avoidance Agreement, further expanding Paraguay's international tax treaty network following agreements with Uruguay and UAE. The agreement reduces withholding tax rates on cross-border dividends, interest, and royalties (as low as 5-10%), enhancing Paraguay's competitiveness as a regional investment hub.",
-          "image_url": null,
+          "title": "Brazilian manufacturers accelerate relocation to Paraguay, drawn by low labor costs and tax breaks (2026-07-10)",
+          "date": "2026-07-10",
+          "source_url": "https://valorinternational.globo.com/business/news/2026/07/10/brazilian-manufacturers-eye-paraguays-low-labor-costs-and-tax-breaks.ghtml",
+          "source_name": "Valor International",
+          "summary": "Brazilian manufacturers are increasingly relocating production to Paraguay, attracted by labor costs 30-50% lower than Brazil, the 'Triple 10' tax system (10% corporate tax, 10% VAT, 10% personal income tax), and electricity costs up to 2.8x cheaper thanks to Itaipú and Yacyretá surpluses. The Maquila regime (Law 1064/97) offers special 1% taxation on value added in Paraguay, with over 363 companies operating under it. Foreign residency applications surged 85% YoY in Q1 2026, projected at 80,000 for the full year (64% Brazilian).",
+          "image_url": "https://s2-valorinternational.glbimg.com/72ldTsXHsGrFf7WMJyH6258YMLI=/1153x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/Z/m/ON2ADbTOufoHuHh76Oqg/foto10emp-101-paraguai-b1.jpg",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "Paraguay Opens Railway Sector to International Capital: Etihad Rail Invests USD 480M in Asuncion Commuter Rail (Effective 2026-06-10)",
-          "date": "2026-06-10",
-          "source_url": "https://marcasur.com/en/noticia/paraguay-opens-its-railway-sector-to-international-capital&f=07-2026",
-          "source_name": "Marcasur / Congreso",
-          "summary": "Law 7665/2026 expands the Commuter Rail Law and introduces a Government-to-Government (G2G) agreement regime. Etihad Rail PJSC (UAE) will construct Phase I (Asuncion-Luque, 18km, USD 480M) through a Paraguayan SPV (75% UAE / 25% Paraguay). Key features: irrevocable USD deferred payment obligations, AFD trust guarantee, international arbitration, and comprehensive tax/customs exemptions - a major innovation in Paraguay's infrastructure financing model.",
-          "image_url": null,
-          "is_gov_source": true,
+          "title": "Atome green hydrogen project in limbo after President Peña annuls Decreto 5307 power purchase agreement (2026-07-08)",
+          "date": "2026-07-08",
+          "source_url": "https://www.hydrogeninsight.com/production/atome-shares-suspended-as-flagship-145mw-green-hydrogen-project-in-paraguay-remains-in-limbo/2-1-2012405",
+          "source_name": "Hydrogen Insight",
+          "summary": "Atome's flagship 145MW green hydrogen project in Villeta (USD 665M investment) remains suspended after President Peña unilaterally annulled Decreto 5307, which had established a fixed-price power purchase agreement (PPA). The ANDE labor union opposed the PPA, arguing the tariff was too low and represented an implicit subsidy. Atome shares were suspended on the London Stock Exchange. The episode highlights the political sensitivity of energy pricing policy and the influence of state-owned enterprise unions over industrial energy policy.",
+          "image_url": "https://image.dngroup.com/global/nhst/binary/9f6b0b850babd5e56458c99be3a4d306?crop=1538%2C769%2Cx0%2Cy50%2Csafe&width=1200&format=webp&quality=80",
+          "is_gov_source": false,
           "is_authoritative": true
         }
       ],
@@ -106,33 +116,53 @@
       "tier": 1,
       "events": [
         {
-          "title": "Record Employment: Q1 Unemployment at Historic Low of 5.3%, Formal Employment Exceeds 842,000; 7 of 10 New Non-Agricultural Jobs Are Formal (2026-07-01)",
-          "date": "2026-07-01",
-          "source_url": "https://www.hoy.com.py/nacionales/2026/07/01/pena-destaca-que-desempleo-baja-al-36-y-el-salario-minimo-logra-aumento-historico",
-          "source_name": "Diario HOY",
-          "summary": "President Pena's report disclosed: Q4 2025 unemployment at 3.6% (historic low), Q1 2026 at 5.3% (lowest Q1 on record). IPS formal employment exceeded 842,023 - a new record - with 134,000 new contributors since August 2023. The formalization rate surpassed 40% for the first time. Seven out of ten new non-agricultural jobs created in the past year were formal, signaling significant progress in labor formalization.",
-          "image_url": null,
-          "is_gov_source": false,
-          "is_authoritative": true
-        },
-        {
-          "title": "Security Situation Improves Significantly: Vehicle Robbery Down 39%, Motorcycle Robbery Down 38%; 10,000 New Police, Boton Lince Rapid Response System Launched (2026-07-02)",
-          "date": "2026-07-02",
-          "source_url": "https://www.hoy.com.py/nacionales/2026/07/02/informe-de-pena-2025-vs-2026-crecimiento-economico-empleo-y-seguridad",
-          "source_name": "Diario HOY",
-          "summary": "Security metrics from the presidential report: 10,000 new police officers added in two years (5,000 each in 2025 and 2026); aggravated vehicle robbery down 39%; motorcycle robbery down 38%. 'Boton Lince' mobile app rolled out, achieving sub-4-minute police response in critical zones. SENAD executed 8,947 anti-drug operations, inflicting USD 212 million in losses on narcotrafficking. Pena declared: 'Paraguay has ceased to be known as Latin America's cocaine corridor.'",
-          "image_url": null,
-          "is_gov_source": false,
-          "is_authoritative": true
-        },
-        {
-          "title": "Chilean President Kast Visits Paraguay, Calls for Regional Unity Against Organized Crime; Paraguay Joins 'Santiago Commitment' (2026-07-01)",
-          "date": "2026-07-01",
-          "source_url": "https://efe.com/mundo/chile-jose-antonio-kast-visita-paraguay/",
-          "source_name": "EFE / Agencia IP",
-          "summary": "Chilean President Jose Antonio Kast made his first official visit to Paraguay, meeting with President Pena. Kast called for regional unity against organized crime, stating 'neutrality is not an option in the face of organized crime.' Paraguay joined the 'Santiago Commitment' promoted by Chile, alongside Argentina, Bolivia, Ecuador, and Peru, strengthening information sharing and joint law enforcement against transnational crime.",
-          "image_url": null,
+          "title": "MTESS formalizes 5% minimum wage increase to Gs. 3,044,000 effective July 1; new hourly and sectoral rates published (2026-07-09)",
+          "date": "2026-07-09",
+          "source_url": "https://www.ip.gov.py/ip/2026/07/09/mtess-reglamenta-reajuste-de-salarios-para-trabajadores-del-sector-privado-y-rige-desde-el-1-de-julio/",
+          "source_name": "Agencia IP / MTESS",
+          "summary": "The Ministry of Labor (MTESS) issued Resolution No. 670/2026, formalizing the 5% minimum wage increase under Decree No. 6225. The new monthly minimum wage is Gs. 3,044,000 (net Gs. 2,770,040 after 9% IPS contribution). The daily minimum is Gs. 117,077. The family bonus per child also increased to Gs. 152,200. Sector-specific minimum wages were also updated. Employers face fines of 10–30 daily minimum wages per affected worker for non-compliance.",
+          "image_url": "https://www.ip.gov.py/ip/wp-content/uploads/2025/01/obreros-mujeres-fabrica-trabajadores-trabajo-empleo.jpeg",
           "is_gov_source": true,
+          "is_authoritative": true
+        },
+        {
+          "title": "Doctors' union announces national strike for August 24–28 demanding 74.8% salary increase; Health Ministry to protect critical services (2026-07-09)",
+          "date": "2026-07-09",
+          "source_url": "https://www.hoy.com.py/nacionales/2026/07/09/medicos-anuncian-huelga-en-agosto-salud-blindara-servicios-criticos",
+          "source_name": "Diario HOY",
+          "summary": "The National Doctors' Union (Sinamed) voted near-unanimously to hold a national strike from August 24 to 28, 2026, demanding a 74.8% salary increase to be included in the 2027 National Budget. The union argues the base salary of Gs. 5,000,000 (~USD 650) has become 'intolerable' after losing significant purchasing power since 2012 relative to the minimum wage. The Health and Economy Ministers cited lack of financial availability. The Health Ministry pledged to protect critical services (emergency rooms, ICUs, emergency surgeries, ambulances).",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/PDWKSZCPUNDXLDDT5XCG5VAL6A.jpg?auth=1512391132b72a2e61d7d035edccfab4bccdb1a3eee03a245941350a70e489df&width=1200&height=630&smart=true",
+          "is_gov_source": false,
+          "is_authoritative": true
+        },
+        {
+          "title": "Frigorífico Concepción workers protest at Labor Ministry: working only 5–6 hours/week, earning as little as Gs. 500,000/month (2026-07-10)",
+          "date": "2026-07-10",
+          "source_url": "https://conexionparaguay.com/nota/8216/crisis-en-frigorifico-concepcion",
+          "source_name": "Conexión Paraguay",
+          "summary": "Approximately 200 workers from Frigorífico Concepción protested outside the Ministry of Labor in Asunción, denouncing drastic reduction of work hours (5–6 hours/week) and incomes as low as Gs. 500,000/month (~USD 65), far below the minimum wage. The company had promised to guarantee minimum wage payments during the low-productivity period but failed to deliver. The meatpacking plant is experiencing a deep financial crisis with significantly reduced slaughter activity.",
+          "image_url": "https://conexionparaguay.com/uploads/noticias/2/2026/07/20260710081017_images.jpg",
+          "is_gov_source": false,
+          "is_authoritative": true
+        },
+        {
+          "title": "Barge explosion on Paraguay River kills 5 workers; company reportedly 2–3 months behind on salary payments (2026-07-08)",
+          "date": "2026-07-08",
+          "source_url": "https://www.hoy.com.py/nacionales/2026/07/08/explosion-de-barcaza-empresa-arrastra-atraso-en-pago-de-salarios-denuncian",
+          "source_name": "Diario HOY",
+          "summary": "A barge belonging to Grupo Líneas Panchita G S.A. suffered an explosion on the Paraguay River at Costanera Sur, Asunción, killing five workers performing cleaning tasks. Family members reported the company was 2–3 months behind on salary payments, and outsourced workers also reported non-payment and precarious working conditions. Several employees said they were forced to resign as they could not feed their families.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/TWWSFNYM2JFIJBBNYLMJ336Y2A.jpeg?auth=bcb1a08da8f12972b56bc5da5b482c5bc01757039723625bf0a5049ce076a15c&width=1200&height=630&smart=true",
+          "is_gov_source": false,
+          "is_authoritative": true
+        },
+        {
+          "title": "Security reinforcement: 911 Emergency Center launched in Pilar; Barrio Obrero patrols intensified; police officer shot in Caazapá (2026-07-10)",
+          "date": "2026-07-10",
+          "source_url": "https://www.ultimahora.com/ministerio-del-interior-implementa-centro-de-seguridad-y-emergencias-911-en-pilar-tras-hechos-delictivos",
+          "source_name": "Última Hora / Frontera Seca News",
+          "summary": "The Interior Ministry established a new 911 Security and Emergency Center in Pilar (Ñeembucú) following a violent attempted robbery in Alberdi where seven armed men simulated a police raid. Alberdi has only four police officers per shift. Patrols were reinforced in Barrio Obrero, Asunción, with positive community response. A police officer was shot in the elbow during an operation in San Juan Nepomuceno (Caazapá); two suspects with criminal records were arrested.",
+          "image_url": "https://grupovierci.brightspotcdn.com/dims4/default/6cca5c4/2147483647/strip/true/crop/1440x810+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F59%2F64%2F980a248a4000914b5f2ad1d156d3%2F741948356-3030696707139795-9114224492124918491-n.jpg",
+          "is_gov_source": false,
           "is_authoritative": true
         }
       ],
@@ -140,47 +170,57 @@
       "user_notes": ""
     },
     {
-      "title": "IV. International Relations & Diplomacy",
+      "title": "IV. International Relations & Foreign Affairs",
       "description": "Paraguay's relations with major powers, Mercosur dynamics, cross-strait relations, multilateral engagement",
       "tier": 1,
       "events": [
         {
-          "title": "Mercosur Summit Controversy: Paraguay Demands 25% EU Export Quota Share; Pena Calls Current System 'Unfair, Unacceptable' (2026-07-01)",
-          "date": "2026-07-01",
-          "source_url": "https://misionesonline.net/2026/07/01/paraguay-se-quejo-por-las-exportaciones-a-la-ue/",
-          "source_name": "MisionesOnline / Agencia IP",
-          "summary": "At the Mercosur Summit in Asuncion, Paraguay lodged a strong protest against EU trade agreement quota distribution. President Pena called the current 'first-come, first-served' system 'unfair, offensive, and unacceptable' for Paraguay. Paraguay demands a fixed 25% allocation by product category, while Brazil, Argentina, and Uruguay favor allocation based on historical export averages. Paraguay linked the quota debate to strengthening FOCEM structural convergence funds, demanding greater compensation for landlocked countries' logistics costs. The EU-Mercosur FTA provisionally entered force on May 1; Uruguay assumes the rotating presidency from July.",
-          "image_url": null,
-          "is_gov_source": true,
+          "title": "Paraguay completes historic first poultry meat export to Taiwan: 150 tons shipped, targeting 500 tons/month (2026-07-08)",
+          "date": "2026-07-08",
+          "source_url": "https://www.latribuna.com.py/negocios/economia/2026/07/08/paraguay-concreta-el-primer-envio-de-carne-aviar-a-taiwan/",
+          "source_name": "La Tribuna",
+          "summary": "Paraguay completed its first-ever poultry meat export to Taiwan: 150 tons of chicken from Granja Avícola La Blanca S.A., with projections of 500 tons/month. President Peña hailed it as a 'historic milestone' and a reflection of 'great friendship' between the two nations. Taiwan's ambassador noted that Taiwan imports over 250,000 tons of chicken annually. This export marks a new chapter in Paraguay-Taiwan economic cooperation ahead of the 70th anniversary of diplomatic relations in 2027.",
+          "image_url": "https://www.latribuna.com.py/resizer/v2/ZODQOBMZIJBDPI4DOQDIGV6IXY.jpeg?smart=true&auth=b5d17f5ebfbbf24976699d834e130ae42ff9997a43f1c78084459abffceac984&width=1200&height=630",
+          "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "Paraguay's China/Taiwan Policy: FM Reaffirms Willingness to Trade with China but 'Won't Abandon Taiwan'; China Says 'Unacceptable' (2026-07-01)",
-          "date": "2026-07-01",
-          "source_url": "https://www.lanacion.com.py/politica/2026/07/01/mercosur-paraguay-ratifica-disposicion-a-negociar-con-china-pero-mantiene-como-limite-su-vinculo-con-taiwan/",
-          "source_name": "La Nacion",
-          "summary": "During the Mercosur Summit, FM Ramirez Lezcano reiterated that Paraguay is willing to negotiate trade with China within the Mercosur framework, but will not condition this on abandoning relations with Taiwan. China's Foreign Ministry responded that Paraguay is 'on the wrong side of history' and cannot 'maintain Taiwan ties while trading with China.' Brazil's President Lula is pushing Mercosur to initiate trade talks with China, adding pressure on Paraguay - the only bloc member without diplomatic relations with Beijing.",
+          "title": "EU-Mercosur quota dispute escalates: Paraguay demands 25% fixed allocation, Peña calls current system 'unfair and unacceptable' (2026-07-06)",
+          "date": "2026-07-06",
+          "source_url": "https://www.euractiv.com/news/eu-trade-deal-sparks-quota-tug-of-war-inside-mercosur-bloc/",
+          "source_name": "Euractiv / BSS News",
+          "summary": "The EU-Mercosur FTA quota distribution dispute continues to escalate. Paraguay demands a fixed 25% allocation by product category, insisting the current 'first-come, first-served' system favors Brazil and Argentina. President Peña described the deal as 'bitter taste' for Paraguay, arguing that landlocked countries face higher logistics costs. Uruguay used 60%+ of its rice quota in under a month; Argentina took 80% of honey quota in Q1. Paraguay links the quota issue to FOCEM structural convergence funds, demanding greater infrastructure compensation.",
           "image_url": null,
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "Paraguay Elected Vice President of 81st UN General Assembly; Preparing 70th Anniversary of Taiwan Diplomatic Relations in 2027 (2026-06-29)",
-          "date": "2026-06-29",
-          "source_url": "https://www.ip.gov.py/ip/2026/06/17/paraguay-and-taiwan-strengthen-cooperation-and-strategic-partnership/",
-          "source_name": "Agencia IP",
-          "summary": "Paraguay was elected Vice President of the 81st UN General Assembly session (2026-2027). Taiwan congratulated Paraguay and expressed appreciation for its continued support for Taiwan's participation in international organizations. In mid-June, Taiwan's Deputy FM Chen Ming-chi visited Asuncion, reviewing progress since Pena's May visit to Taiwan and advancing US-Taiwan-Paraguay trilateral cooperation in AI, 5G, and cybersecurity. Both sides are preparing a commemorative agenda for the 70th anniversary of diplomatic relations in 2027.",
-          "image_url": null,
-          "is_gov_source": true,
+          "title": "Paraguay Senate reiterates request for SOFA details from Foreign Ministry; opposition raises constitutional concerns over US military immunities (2026-07-09)",
+          "date": "2026-07-09",
+          "source_url": "https://www.ultimahora.com/senado-reitera-pedido-al-mre-sobre-detalles-del-acuerdo-sofa",
+          "source_name": "Última Hora",
+          "summary": "The Paraguayan Senate reiterated its request for detailed information from the Foreign Ministry on the Status of Forces Agreement (SOFA) signed with the United States. Senator José Oviedo (opposition) pushed the motion after the initial May 8 response was deemed 'insufficient.' Key concerns include immunity for US military personnel without reciprocal guarantees, tax exemptions, use of radio spectrum, and potential conflicts with Articles 30, 137, 141, and 144 of the Constitution. The Foreign Ministry has 10 days to respond.",
+          "image_url": "https://grupovierci.brightspotcdn.com/dims4/default/a810375/2147483647/strip/true/crop/2944x1656+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdc%2Fb3%2F0bb9cc7f47c895773f44185441c1%2Frvr-3665-68339335.JPG",
+          "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "Paraguay Deepens US Cooperation: Advancing Beef Market Access, Comprehensive Defense Cooperation Upgrade (2026-06 to 07)",
-          "date": "2026-07-01",
-          "source_url": "https://www.ip.gov.py/ip/2026/06/15/pena-discusses-investment-agenda-and-hemispheric-security-with-u-s-secretary-of-state/",
-          "source_name": "Agencia IP / USTR",
-          "summary": "Paraguay continues to deepen strategic cooperation with the US. In June, Pena met with Secretary of State Rubio to discuss beef quotas, direct flight routes, nuclear energy cooperation, and digital infrastructure. In May, the FM met with USTR Deputy Representative in Washington to advance Paraguayan beef market access under the TIFA framework. On defense: SOFA agreement signed, Massachusetts National Guard SPP partnership marks 25 years, and Northrop Grumman radar system negotiations are accelerating.",
-          "image_url": null,
+          "title": "Mercosur summit launches trade negotiations with Japan, signals future talks with China; Paraguay reinforces 'trade yes, sever Taiwan no' stance (2026-07-06)",
+          "date": "2026-07-06",
+          "source_url": "https://www.tribuneindia.com/news/world/mercosur-leaders-defend-unity-amid-global-tensions-launch-new-trade-talks/",
+          "source_name": "Tribune India / BSS News",
+          "summary": "At the July 1 Mercosur Summit in Luque, the bloc launched formal trade negotiations with Japan and signaled future talks with China. Uruguay assumed the rotating presidency. Foreign Minister Rubén Ramírez reiterated Paraguay's openness to trade with China 'as long as no conditions are imposed regarding diplomatic relations with Taiwan.' Brazilian President Lula urged Mercosur to negotiate with China, increasing pressure on Paraguay — the only South American nation without Beijing ties. Germany's Foreign Minister acknowledged 'issues to resolve' before full EU-Mercosur ratification.",
+          "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTg2ZGY3OGIwLTc2MTEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+          "is_gov_source": false,
+          "is_authoritative": true
+        },
+        {
+          "title": "US-Taiwan-Paraguay trilateral virtual mission explores renewable energy, EV, and smart grid opportunities (2026-07-02)",
+          "date": "2026-07-02",
+          "source_url": "https://hk.crntt.com/doc/1060/7/8/9/106078940_2.html",
+          "source_name": "CRNTT / MIC Paraguay",
+          "summary": "A virtual business opportunity mission on July 2 brought together representatives from the US, Taiwan, and Paraguay's Ministry of Industry and Commerce (MIC) to explore trilateral investment opportunities in renewable energy (green hydrogen, solar), electric vehicles and components, and smart electricity distribution and storage systems. The mission is part of the deepening US-Taiwan-Paraguay trilateral cooperation framework in AI, 5G, and cybersecurity.",
+          "image_url": "http://hkpic.crntt.com/upload/202105/7/106078942.jpg",
           "is_gov_source": true,
           "is_authoritative": true
         }
@@ -190,46 +230,46 @@
     },
     {
       "title": "V. Industry Focus: Telecom, Digital Energy & AI",
-      "description": "5G spectrum & commercial deployment, fiber infrastructure, digital energy investment, AI data center development, industry regulation",
+      "description": "5G spectrum and commercial deployment, fiber infrastructure, digital energy investment, AI data center development, industry regulation",
       "tier": 1,
       "events": [
         {
-          "title": "CONATEL Completes Public Consultation on 2.3GHz/3.5GHz Spectrum Tender; Final Bidding Documents Expected H2 2026 (2026-07)",
-          "date": "2026-07-01",
-          "source_url": "https://www.gmalabs.com/post/paraguay-conatel-mobile-broadband-consultation-2026-opens-for-key-spectrum-bands",
-          "source_name": "GMA Labs / CONATEL",
-          "summary": "CONATEL Resolution 790/2026 launched public consultation on tender terms for 2,300MHz and 3,500MHz bands for mobile broadband and 5G services; submissions closed May 15. Resolution 3339/2025 had already redesignated 3,700-3,800MHz for IMT (5G NR), configuring 3.3-3.8GHz as 10x50MHz TDD sub-bands. Final bidding documents expected H2 2026, specifying coverage obligations, QoS standards, and investment commitments.",
-          "image_url": null,
+          "title": "Paraguay's second 5G auction opens: Tigo and Personal submit bids for 2.3GHz/3.7GHz spectrum, minimum investment $40M (2026-07-10)",
+          "date": "2026-07-10",
+          "source_url": "https://www.telesemana.com/blog/2026/07/10/paraguay-avanza-con-la-segunda-subasta-5g-y-tigo-y-personal-aceptan-las-reglas-contra-equipos-de-origen-chino/",
+          "source_name": "TeleSemana / BNamericas / DPL News",
+          "summary": "CONATEL opened bids for Public Tender 01/2026, Paraguay's second 5G spectrum auction. Tigo (Millicom) and Personal (Telecom Argentina) submitted proposals — both had boycotted the 2025 auction over Chinese equipment restrictions. Spectrum on offer: 2.3GHz band (USD 1.6M base per 100MHz block) and 3.7GHz band (USD 1.0M base). Minimum investment commitment of USD 40M in secure network infrastructure from trusted vendors, compatible with 5G NR Release 15+. CONATEL will announce pre-qualified bidders next week. Chinese vendor restrictions (Huawei/ZTE) remain in force.",
+          "image_url": "https://www.telesemana.com/wp-content/uploads/2024/12/5G-Paraguay-1-e1733258458809.jpg",
           "is_gov_source": true,
           "is_authoritative": true
         },
         {
-          "title": "HIVE Digital Launches BUZZ Cloud AI Platform in Paraguay: Tier III Data Center, 300MW Hydro Capacity, 100MW Expansion Planned (2026-06)",
-          "date": "2026-06-24",
-          "source_url": "https://www.proactiveinvestors.com/companies/news/1085923/hive-digital-expands-into-paraguay-with-buzz-cloud-ai-platform-launch.html",
-          "source_name": "Proactive Investors / HIVE (NASDAQ)",
-          "summary": "HIVE Digital Technologies (NASDAQ: HIVE) officially launched its BUZZ Cloud AI platform in Asuncion, hosted in a Tier III data center in partnership with Paraguay's leading telecom operator. The platform leverages Paraguay's national dark fiber network and 300MW of surplus hydroelectric capacity (Itaipu/Yacyreta), with a further 100MW expansion planned in 2026. GPU clusters will serve AI training, inference, and data-intensive workloads for South American clients. HIVE total Paraguay capacity now at 400MW (540MW globally).",
-          "image_url": null,
+          "title": "Paraguay's digital infrastructure reaches 18,000km fiber, 1,600 Starlink kits deployed, 404 free WiFi points nationwide (2026-07-09)",
+          "date": "2026-07-09",
+          "source_url": "https://www.lanacion.com.py/negocios/2026/07/09/el-crecimiento-economico-de-paraguay-impulsara-la-transformacion-del-sector-digital-en-2026/",
+          "source_name": "La Nación / MITIC / DPL News",
+          "summary": "MITIC reported key digital infrastructure metrics: national fiber optic network (RNFO) reaches 18,000km; Copaco and MITIC are deploying 1,600 Starlink satellite kits for rural schools and health centers, with Copaco targeting expansion to 8,000 schools; nationwide free WiFi covers 404 public spaces across all municipalities; a new Tier III state data center is under construction. Internet penetration reached 68% of households by end-2025 (up from 52% in 2023), with ISPs investing USD 180M+ in infrastructure over 2024–2025. Government cloud NubePy serves 113 public institutions.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/FYOMPWF2EJHI7IA6NHQDHP4ZVY.jpg?auth=c38325e14e60cdcdb27ac0afed212a7c5594e9a15eefff026ee1b11188bee43e&width=1200&height=630&smart=true",
+          "is_gov_source": true,
+          "is_authoritative": true
+        },
+        {
+          "title": "HIVE Digital targets 35 EH/s in 2026 with new 100MW hydroelectric expansion in Paraguay and 5x growth in HPC/AI operations (2026-07-08)",
+          "date": "2026-07-08",
+          "source_url": "https://www.hivedigitaltechnologies.com/news/hive-digital-technologies-targets-35-ehs-in-2026-with-newly-signed-100-mw-hydroelectric-expansion-in-paraguay-and-a-5x-growth-in-hpc-and-ai-operations-through-strategic-partnerships-with-bell-canada/",
+          "source_name": "HIVE Digital Technologies (NASDAQ)",
+          "summary": "HIVE Digital Technologies (NASDAQ: HIVE) announced a new 100MW hydroelectric expansion in Paraguay as part of its target to reach 35 EH/s Bitcoin mining capacity in 2026, alongside 5x growth in HPC and AI operations through a strategic partnership with Bell Canada. The company already operates ~300MW across Tier I data centers in Paraguay, with BUZZ Cloud AI platform (Tier III, Asunción) launched in Q1 2026, and the 400MW Yguazú Phase 3 site near Itaipú expected online by Q3 2026.",
+          "image_url": "https://www.hivedigitaltechnologies.com/static/hivesite/images/banner.webp",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "Paraguay-Taiwan AI Data Center JV: Phase 1 at 10MW, Phase 3 Targeting ~1GW as 'World's Largest AI Center' (Announced May 2026, Ongoing)",
-          "date": "2026-07-01",
-          "source_url": "https://www.ip.gov.py/ip/2026/05/14/alliance-with-taiwan-positions-paraguay-in-the-global-race-for-ai-development-pena-highlights/",
-          "source_name": "Agencia IP",
-          "summary": "President Pena highlighted Taiwan AI cooperation in his annual report: a 50/50 JV for AI data center construction - Phase 1 at 10MW, Phase 2 scaling to 100MW, and Phase 3 targeting approximately 1GW, potentially the world's largest AI data center. Paraguay leverages 100% renewable hydropower, Decreto 5306/2026 (special USD-denominated AI/cloud tariffs with 15-year contracts), and Decreto 5307/2026 (Power-to-X). The IDB is providing USD 130 million to support digital infrastructure modernization.",
-          "image_url": null,
-          "is_gov_source": true,
-          "is_authoritative": true
-        },
-        {
-          "title": "MITIC Digital Transformation Report: 18,000km Fiber, 1,600 Starlink Terminals, 3,234 Schools Connected (2026-07)",
-          "date": "2026-07-01",
-          "source_url": "https://dplnews.com/paraguay-tercer-informe-presidencial-destaca-al-mitic-como-actor-clave-en-la-transformacion-digital/",
-          "source_name": "DPL News / MITIC",
-          "summary": "President Pena's report highlighted MITIC's role in digital transformation. As of June 2026: national fiber optic network reaches 18,000km, including 1,000+ km newly activated in Neembucu department; 1,600 Starlink satellite terminals deployed with SpaceX for remote schools and health centers; 400+ free public WiFi points nationwide serving 1.3M+ citizens; 3,234 educational institutions connected to internet, benefiting 1M+ students; Villa Hayes National Tier III Data Center and Innova Technology Park under construction.",
-          "image_url": null,
+          "title": "Paraguay-Taiwan AI data center JV progresses: Phase 1 (10MW) advancing, Phase 3 targets 1GW as 'world's largest AI center' (2026-07-09)",
+          "date": "2026-07-09",
+          "source_url": "https://www.ferrere.com/en/news/paraguay-strengthens-its-positioning-for-data-centers-ai-and-advanced-energy/",
+          "source_name": "Ferrere / Agencia IP",
+          "summary": "Paraguay continues to advance its positioning as a regional AI infrastructure hub. The 50/50 Paraguay-Taiwan AI data center joint venture progresses with Phase 1 (10MW), scaling to Phase 2 (100MW) and ultimately Phase 3 (~1GW). Decreto 5306/2026 provides USD-denominated special electricity tariffs with 15-year contract terms for AI and cloud computing. X8 Cloud's massive project (estimated USD 10–50B over 30 years) would be South America's largest AI data center complex. IDB is financing USD 130M for digital infrastructure modernization.",
+          "image_url": "https://www.ferrere.com/public/html/img/share.png",
           "is_gov_source": true,
           "is_authoritative": true
         }
@@ -239,49 +279,49 @@
     },
     {
       "title": "VI. Key Client Movements",
-      "description": "Tracking strategic moves, investment plans, network deployment, and technology choices of major Paraguayan telecom clients",
+      "description": "Tracking strategic moves, investment plans, network deployment, and technology choices of Paraguay's major telecom clients",
       "tier": 1,
       "events": [
         {
-          "title": "Claro - 5G Commercial Launch Imminent; USD 35M Initial Deployment; Mobile Core 5G-Upgraded (2026-07)",
-          "date": "2026-07-01",
+          "title": "Claro — First to commercial 5G, $35M initial investment, expanding coverage beyond Asunción in 2026 with Nokia infrastructure (2026-07-10)",
+          "date": "2026-07-10",
           "source_url": "https://www.bnamericas.com/en/news/paraguay-greenlights-claro-and-nubicom-to-ignite-5g-race",
-          "source_name": "BNamericas",
-          "summary": "Claro (America Movil) won 200MHz in the 3.5-3.7GHz band (license fee ~USD 2M) in the August 2025 auction, deploying an initial USD 35M for 5G across 12 key metropolitan areas. Under the 6-month deployment obligation, commercial services expected in Q2 2026, starting in Greater Asuncion. Mobile core network upgraded for 5G. Requirements: 100 base stations per 100MHz, 10% serving government entities. Claro poised to become Paraguay's first major commercial 5G operator.",
-          "image_url": null,
+          "source_name": "BNamericas / SAMENA",
+          "summary": "Claro (América Móvil) activated Paraguay's first commercial 5G network in December 2025, investing USD 35M initially with Nokia as exclusive equipment provider. Current coverage includes Greater Asunción, Ciudad del Este, Encarnación, Coronel Oviedo, and Pedro Juan Caballero. General Manager Alfredo Alcaraz confirmed continued 2026 expansion to additional territories. Claro won 200MHz in the 3.5GHz band (USD 2M license fee) at the August 2025 auction and must deploy 100 base stations per 100MHz, with 10% serving government agencies. Claro holds third position in Paraguay's mobile market with ~947,000 internet users.",
+          "image_url": "https://cdnimg.bnamericas.com/POjyKcsMosNhPZELKycnexVTCIJVYkuGWGwnoaKLyxfeXJXJIBUyjNZapDzARxCo.jpg",
           "is_gov_source": false,
           "is_authoritative": true,
           "client_tag": "Claro"
         },
         {
-          "title": "Tigo - Did Not Participate in 5G Auction; Focused on 4G/Fiber Expansion; Secured USD 100M BID Invest+Proparco Financing (2026-07)",
-          "date": "2026-07-01",
-          "source_url": "https://idbinvest.org/en/news-media/idb-invest-and-proparco-partner-millicom-expand-digital-infrastructure-across-latin",
-          "source_name": "BID Invest / BNamericas",
-          "summary": "Tigo (Millicom), Paraguay's largest mobile operator (3.2M users, 47.3% share), withdrew from the August 2025 5G auction due to Chinese vendor (Huawei/ZTE) restrictions. Current focus: 3G-to-4G migration, FTTH expansion, Tigo Money fintech growth. In March 2026, BID Invest and Proparco invested USD 100M in Millicom bonds covering network modernization in 7 countries including Paraguay. In January 2026, Tigo Paraguay completed a historic USD 77M Guarani bond issuance. The company continues alternative 5G spectrum negotiations with the government.",
-          "image_url": null,
+          "title": "Tigo — Bids in second 5G auction after boycotting 2025 round; backed by $100M IDB Invest+Proparco financing and $77M local bond (2026-07-10)",
+          "date": "2026-07-10",
+          "source_url": "https://www.telesemana.com/blog/2026/07/10/paraguay-avanza-con-la-segunda-subasta-5g-y-tigo-y-personal-aceptan-las-reglas-contra-equipos-de-origen-chino/",
+          "source_name": "TeleSemana / BNamericas / BID Invest",
+          "summary": "Tigo (Millicom, market leader with 3.16M users, 47.3% share) submitted a bid in Paraguay's second 5G auction on July 10 — a major strategic reversal after boycotting the 2025 round over Chinese equipment restrictions. Tigo is backed by a USD 100M IDB Invest+Proparco private bond (March 2026) for 4G/4.5G/5G and fiber expansion across 7 countries including Paraguay, and a historic USD 77M guaraní-denominated local bond issuance (January 2026). Tigo continues FTTH expansion and 3G-to-4G migration. Millicom Q1 2026 results showed 4.9% organic service revenue growth with 43.2% adjusted EBITDA margin.",
+          "image_url": "https://www.telesemana.com/wp-content/uploads/2024/12/5G-Paraguay-1-e1733258458809.jpg",
           "is_gov_source": false,
           "is_authoritative": true,
           "client_tag": "Tigo"
         },
         {
-          "title": "Personal - Did Not Bid in 5G Auction; Maintains Low-Cost Positioning; Risks Losing Third-Operator Status to Nubicom (2026-07)",
-          "date": "2026-07-01",
-          "source_url": "https://www.bnamericas.com/en/news/paraguay-greenlights-claro-and-nubicom-to-ignite-5g-race",
-          "source_name": "BNamericas",
-          "summary": "Personal (Telecom Argentina), with ~2.4M users (35.5% share), also did not participate in the 5G auction due to Chinese vendor restrictions and has announced no independent 5G deployment plans. The company continues to focus on the low-cost segment, with coverage concentrated in urban areas and weak outside Asuncion. Without network upgrades, Personal risks losing third-operator status to Nubicom. No significant infrastructure investment announcements.",
-          "image_url": null,
+          "title": "Personal — Enters second 5G auction, maintains low-cost positioning while ramping up fiber-to-the-home expansion (2026-07-10)",
+          "date": "2026-07-10",
+          "source_url": "https://dplnews.com/tigo-personal-se-postulan-segunda-licitacion-5g-paraguay/",
+          "source_name": "DPL News / BNamericas",
+          "summary": "Personal (Núcleo S.A., Telecom Argentina subsidiary, 1.66M users, 35.5% market share) also entered the second 5G auction after abstaining in 2025. The operator is actively expanding FTTH networks alongside Tigo to support Asunción's growing tech startup ecosystem (fintech, agritech, logistics). Personal focuses on the low-cost market segment, with coverage concentrated in urban areas and weaker presence outside Asunción. Participation in the 5G auction signals recognition that staying out of 5G would risk losing its second-place market position, especially as Nubicom's 5G deployment remains stalled.",
+          "image_url": "https://dplnews.com/wp-content/uploads/2026/06/Gemini_Generated_Image_2s4av12s4av12s4a-1024x572.png",
           "is_gov_source": false,
           "is_authoritative": true,
           "client_tag": "Personal"
         },
         {
-          "title": "Nubicom - New Entrant, USD 200M 5G Build-from-Scratch Investment; Commercial Launch Expected Q2 2026 (2026-07)",
-          "date": "2026-07-01",
-          "source_url": "https://www.datacenterdynamics.com/en/news/?tag=nubicom",
-          "source_name": "DataCenterDynamics / BNamericas",
-          "summary": "Nubicom (fixed internet provider from Salta, Argentina) won 200MHz in the 3.3-3.5GHz band (license fee ~USD 2M) and announced a USD 200M investment - Paraguay's largest single 5G deployment. Must establish local subsidiary within 6 weeks and build mobile infrastructure from scratch, with at least 100 base stations per 100MHz. As an operator with no prior mobile infrastructure, building a new network presents challenges but also creates a major market opportunity for equipment vendors and infrastructure partners.",
-          "image_url": null,
+          "title": "Nubicom — 5G license under investigation; zero reported deployment progress since winning 200MHz spectrum in August 2025 (2026-07-10)",
+          "date": "2026-07-10",
+          "source_url": "https://www.bnamericas.com/en/news/tigo-personal-bid-for-5g-spectrum-in-paraguay-auction",
+          "source_name": "BNamericas",
+          "summary": "Nubicom (Argentine fixed-line operator from Salta) won 200MHz of 3.5GHz spectrum in the August 2025 auction, announcing a USD 200M investment to build Paraguay's largest 5G network from scratch. However, ten months later, the company has reported zero deployment progress and faces an investigation by the Comptroller General (CGR) for potential non-compliance with participation requirements. Nubicom was required to establish a local subsidiary within six weeks — unclear if this occurred. With no prior mobile infrastructure and no reported network construction, Nubicom's ability to execute its 5G commitment is increasingly questioned.",
+          "image_url": "https://cdnimg.bnamericas.com/bkdIGnUmfDWaddMMzYYwvGPHJhRMldDnODwuZJAsHSMHGKhPYJrVJhLHEQoEhbrb.jpg",
           "is_gov_source": false,
           "is_authoritative": true,
           "client_tag": "Nubicom"
@@ -292,19 +332,17 @@
     },
     {
       "title": "VII. Comprehensive Enterprise Impact Analysis",
-      "description": "Integrating macro trends, industry dynamics, and client movements to assess Paraguay's enterprise operating environment",
+      "description": "Assessing Paraguay's enterprise operating environment through cost, market, and compliance dimensions",
       "tier": 2,
       "events": [],
-      "impact_analysis": "## I. Cost Dimension \n\nComprehensive assessment of cost pressures based on this week's data:\n\n- **Exchange Rate Costs**: The Guarani appreciated 21.9% YoY (USD/PYG from 7,784 to 6,082), among the strongest currencies in the region. USD-denominated operating costs (local salaries, service procurement) rise significantly, squeezing export margins. However, imported equipment and raw material costs are significantly lower, benefiting import-dependent sectors such as telecom and data centers.\n- **Labor Costs**: The 5% minimum wage increase (effective July 1) is moderate and aligns with inflation (June CPI just 2.09% YoY). Real unit labor costs remain manageable. Formal employment rate exceeding 40% and IPS contributors at 842,023 signal a tightening but still affordable labor market.\n- **Energy Costs**: Decreto 5306/2026 and 5307/2026 offer USD-denominated special tariffs with up to 15-year fixed terms, creating among the world's most competitive energy cost structures for data centers and AI enterprises. HIVE Digital and X8 Cloud validate this advantage. However, the Villeta tariff policy reversal reminds that energy costs depend on policy continuity.\n- **Tax Costs**: The strong Guarani caused customs revenue to fall 11.6% in H1 2026 (despite import volumes +7%). DNIT total revenue grew only 1.8%, far below the 13.4% annual target. This may trigger new tax enforcement measures or policy adjustments in H2 2026.\n\n## II. Market Dimension \n\nParaguay's market opportunities are expanding significantly in digital infrastructure and investment facilitation:\n\n- **5G & Telecom Equipment Market**: CONATEL's new 2.3/3.5GHz spectrum tender expected in H2 2026, creating procurement opportunities for equipment and infrastructure vendors. Claro and Nubicom's deployment obligations (100 base stations each per 100MHz) mean at least 200 5G base stations' worth of demand in the near term. US-backed equipment exclusion policies favor non-Chinese suppliers.\n- **AI & Data Center Supply Chain**: HIVE BUZZ Cloud launch, Paraguay-Taiwan AI data center JV (Phase 1: 10MW to Phase 3: ~1GW), and X8 Cloud (up to USD 50B) will drive demand for: power equipment, cooling systems, fiber connectivity, cybersecurity, professional IT services. IDB's USD 130M digital facility provides additional funding.\n- **Infrastructure & Logistics**: Railway Law 7665/2026 brings Etihad Rail's USD 480M commuter rail project, creating opportunities in rail equipment, engineering, and operations. G2G model's irrevocable USD payments provide supplier payment security.\n- **EU Market Access**: EU-Mercosur FTA provisionally effective since May 1, but quota allocation unresolved. If Paraguay secures 25% quota, beef, poultry, sugar exports surge. If 'first-come, first-served' persists, Argentina and Brazil will continue capturing most quotas.\n\n## III. Compliance Dimension \n\nThe compliance environment is generally improving but requires monitoring of policy volatility:\n\n- **Investment Facilitation**: Investor Pass (Decreto 0283/2026) and updated immigration requirements in effect with four investment pathways (min USD 70K/5 jobs to permanent residency). Dividend tax cut from 15% to 8% provides substantial benefits.\n- **Tax Treaties**: Chile DTA signing marks further internationalization of Paraguay's tax compliance framework. Lower withholding rates improve investment returns.\n- **Labor Compliance**: WhatsApp minimum wage complaint hotline signals increased enforcement. Companies should complete payroll compliance audits following July 1 wage adjustment.\n- **Fiscal Risk**: IMF Article IV noted 2026 deficit may overshoot targets due to supplier arrears (USD 220M construction + ~USD 500M pharmaceuticals). Monitor potential tax adjustments to close the gap.\n\n## Overall Assessment\n\nThe 24 monitored events this week (8 from government sources) paint a picture of sustained macroeconomic strength (IMF projects 2026 GDP growth 4.4%, inflation just 2.09%). However, enterprises must maintain risk sensitivity amid strong Guarani impacts, heated EU-Mercosur quota disputes, and occasional energy policy reversals. The wave of investment in digital infrastructure and AI represents this cycle's most prominent structural opportunity.",
-      "user_notes": ""
+      "impact_analysis": "## I. Cost Dimension 🟡\n\nCost pressures remain mixed, with exchange rate dynamics creating divergent impacts across sectors:\n\n- **Exchange Rate Impact**: The guaraní continues to strengthen, trading at PYG 6,060–6,200/USD (down 8.56% YTD). For enterprises with guaraní-denominated costs (local salaries, services) and dollar-denominated revenues, profit margins continue to compress. Import-dependent sectors (telecom equipment, electronics, data center hardware) benefit from cheaper imported inputs, partially offsetting other cost pressures.\n- **Labor Costs**: The 5% minimum wage increase (Gs. 3,044,000/month effective July 1) is broadly aligned with inflation (June CPI at 2.09% YoY), keeping real unit labor costs stable. However, the doctors' union demand for 74.8% increase signals latent wage pressure in the public sector that could spill over. Sector-specific minima were also updated, requiring compliance review.\n- **Energy Costs**: The annulment of Decreto 5307 (Atome PPA) introduces uncertainty into the special electricity tariff framework established by Decretos 5306/2026. While AI/data center tariffs remain in place for now, the ANDE union's successful veto demonstrates that energy pricing for large industrial users is politically contestable. Enterprises relying on long-term fixed-price USD electricity contracts should model policy reversal risk.\n- **Tax & Fiscal Pressure**: DNIT revenue grew only 2.1% in H1 vs. the 9% budgeted target. President Peña has ordered intensified collection efforts for H2. With the fiscal deficit exceeding the 1.5% target (IMF projects convergence only by 2028), enterprises should prepare for potential new tax enforcement measures, including strengthened transfer pricing reviews and import valuation adjustments.\n\n## II. Market Dimension 🟢\n\nParaguay's market opportunities are expanding significantly, particularly in digital infrastructure and manufacturing:\n\n- **5G Equipment & Services Market**: The second CONATEL 5G auction (July 10, 2026) with Tigo and Personal participating opens a new procurement cycle. Minimum USD 40M investment commitment per operator, with combined potential of USD 80M+ in network equipment and services. Both operators must use non-Chinese vendors (Nokia, Ericsson, Samsung as likely beneficiaries). This creates opportunities for equipment suppliers, tower companies, fiber backhaul providers, and system integrators.\n- **Brazilian Manufacturing Relocation**: The accelerated relocation of Brazilian manufacturers to Paraguay (labor costs 30–50% lower, energy 2.8x cheaper) creates demand for industrial park development, logistics infrastructure, and B2B services. The Maquila regime (1% tax on value added) now hosts 363+ companies, with 64% of 80,000 projected 2026 residency applicants being Brazilian.\n- **AI & Data Center Supply Chain**: HIVE's 100MW expansion, the Taiwan-Paraguay AI JV (10MW→1GW), and X8 Cloud's megaproject continue to drive demand for: electrical equipment (transformers, UPS, switchgear), cooling solutions, fiber optic connectivity, cybersecurity services, and data center construction/EPC. IDB's USD 130M digital infrastructure financing provides additional procurement opportunities.\n- **EU Market Access Uncertainty**: The EU-Mercosur FTA quota dispute is unresolved. Paraguay's demand for 25% fixed allocation vs. the 'first-come, first-served' system creates both risk (if Paraguay loses quota share) and opportunity (if reform succeeds). Export-oriented agribusiness and food processing enterprises should monitor the quota negotiation outcome.\n\n## III. Compliance Dimension 🟡\n\nThe compliance environment shows both progress and emerging friction:\n\n- **Labor Compliance**: The MTESS has formalized the new minimum wage with explicit enforcement mechanisms (WhatsApp complaint line, fines of 10–30 daily minimum wages per affected worker). The Frigorífico Concepción protest and barge explosion labor violations suggest intensified labor inspections in H2. Enterprises should complete payroll compliance reviews immediately.\n- **Investment Facilitation**: The Investor Pass (Res. MIC 0283/2026) and updated immigration requirements continue to streamline foreign investment entry. Four clear pathways (productive investment from USD 70K, financial instruments from USD 200K, real estate from USD 200K, tourism from USD 150K) with CIE issuance in 5 business days. The surge in applications (85% YoY Q1 growth) validates the program's attractiveness.\n- **Policy Reversal Risk**: The Decreto 5307 annulment (Atome PPA) represents a significant precedent: a presidential decree providing long-term energy price certainty was reversed under union pressure. This raises the risk premium for capital-intensive projects dependent on special regulatory treatment. Enterprises should incorporate political risk clauses in project agreements and diversify advocacy beyond the executive branch.\n- **SOFA & Defense Compliance**: The Senate's reiterated request for SOFA details and constitutional concerns (immunities, tax exemptions, spectrum usage) signals growing legislative activism on foreign military cooperation. Enterprises in defense-adjacent sectors should monitor the SOFA ratification process.\n\n## Overall Assessment\n\nThis week's monitoring of 24 events (7 from government sources, 10 from authoritative media) paints a picture of Paraguay at an inflection point: macroeconomic fundamentals remain strong (IMF 4.4% growth, 2.09% inflation, investment grade from Moody's and S&P), but three tensions are intensifying — (1) the fiscal deficit transparency gap flagged by the IMF, (2) the policy reversal precedent set by the Atome decree annulment, and (3) the EU-Mercosur quota allocation conflict that tests Paraguay's influence within the bloc. The most consequential development for the telecom/digital sector is Tigo and Personal's entry into the second 5G auction, which transforms Paraguay's mobile landscape from a two-player 5G market (Claro + stalled Nubicom) to a genuinely competitive three- or four-operator race."
     },
     {
-      "title": "VIII. China-Specific Enterprise Risk & Opportunity Analysis",
-      "description": "Tailored analysis for Chinese enterprises operating in or considering entry into Paraguay, covering diplomatic risks, policy risks, and strategic recommendations",
+      "title": "VIII. China-Specific Enterprise Impact & Recommendations",
+      "description": "Tailored analysis for Chinese enterprises operating in or considering entry to the Paraguayan market",
       "tier": 2,
       "events": [],
-      "impact_analysis": "## I. Risk Warnings\n\nHigh Priority:\n\n- **Diplomatic Barriers Continually Strengthening**: At the Mercosur Summit, Paraguay's FM publicly reiterated 'willing to trade with China but won't abandon Taiwan.' China explicitly stated this is 'unacceptable.' Brazil (Lula) pushing Mercosur toward China talks adds pressure, but no near-term policy shift expected. Chinese enterprises face informal barriers in project approvals and heightened political scrutiny.\n- **Telecom Equipment Supplier Exclusion Institutionalized**: CONATEL substantively excluded Huawei/ZTE through 5G auction rules ('trade reciprocity' clause), now formally executed via Claro and Nubicom spectrum awards. New 2.3/3.5GHz tender expected to maintain identical rules. Exclusion may extend to other critical infrastructure sectors (data centers, smart city projects) through 'cybersecurity' and 'supply chain security' narratives.\n\nMedium Priority:\n\n- **US-Taiwan-Paraguay Triangle Deepening**: Paraguay's accession to the 'Santiago Commitment,' SOFA agreement, Northrop Grumman radar procurement, and US-Taiwan-Paraguay trilateral AI/5G/cybersecurity cooperation further entrench the architecture excluding Chinese enterprises. In sensitive infrastructure projects, Chinese firms face systemic access barriers, not just commercial competition.\n- **Exchange Rate Risk**: Guarani's 21.9% YoY appreciation makes it Latin America's strongest currency. RMB-equivalent profits for Chinese enterprises already in Paraguay have significantly shrunk. Hedging strategies require evaluation.\n- **Fiscal Adjustment Risk**: DNIT H1 2026 revenue grew only 1.8%, far below 13.4% annual target. H2 2026 may see new tax enforcement measures (strengthened transfer pricing reviews, import valuation adjustments), affecting Chinese enterprises' tax compliance costs.\n\n## II. Opportunity Analysis\n\nActionable Opportunities:\n\n- **Non-Equipment Roles in Digital Infrastructure**: Despite telecom equipment access restrictions, HIVE, Paraguay-Taiwan AI data center, and X8 Cloud projects demonstrate strong demand for data center construction, renewable energy integration, cooling systems, fiber cabling, power equipment, and EPC services. Chinese enterprises can explore complementary roles: electrical equipment (transformers, UPS, power distribution), cooling solutions, solar-plus-storage, data center construction engineering.\n- **Agri-Tech & Green Transformation**: Paraguay's economy is anchored by soybean and beef exports (GDP growth 6.6% largely agriculture-driven). Strong demand for precision agriculture, IoT sensors, supply chain digitization, and cold chain logistics. Chinese agri-tech enterprises can compete in areas not triggering security reviews.\n- **Mercosur Indirect Channel**: Chinese enterprises already in Brazil or Argentina can leverage the EU-Mercosur FTA for preferential EU export access. Paraguay's quota dispute provides a window to observe and influence Mercosur trade governance.\n- **New Energy & Power-to-X**: Decreto 5307/2026 offers USD-denominated tariffs and long-term contracts for green hydrogen, ammonia, methanol, and synthetic fuels. Paraguay's surplus hydroelectric resources provide globally competitive energy costs. China's electrolyzer and green methanol technology finds potential application here.\n\n## III. Strategic Recommendations\n\n**Immediate Actions:**\n- Update labor compliance and residency documentation against July 1 new minimum wage and Immigration Resolution 407/2026 requirements.\n- Assess financial impact of 21.9% Guarani appreciation on existing Paraguay operations in USD/RMB terms. Evaluate FX hedging needs.\n\n**Short-Term (1-3 Months):**\n- Closely monitor CONATEL's new 2.3/3.5GHz spectrum tender progress. Explore pathways for participation through third-country subsidiaries (e.g., European entities) for complementary equipment and services.\n- Proactively engage HIVE Digital, X8 Cloud, and Paraguay-Taiwan AI data center projects for infrastructure ancillary demands (power, cooling, construction) as non-sensitive suppliers.\n- Arrange on-the-ground policy research in Asuncion, establishing direct channels with MIC, ANDE, and MITIC for timely policy updates.\n\n**Medium-Term (3-12 Months):**\n- Study indirect market access strategies through other Mercosur countries (Brazil/Argentina), leveraging EU-Mercosur FTA for 'curved entry' into Paraguay.\n- Evaluate investment feasibility in green hydrogen and Power-to-X, capitalizing on Decreto 5307/2026 policy window and Paraguay's energy cost advantages.\n- Continuously monitor Paraguay's foreign policy trajectory - any future adjustment in China relations would open new market access dynamics. Recommend quarterly Paraguay macro-political risk assessment updates.",
-      "user_notes": ""
+      "impact_analysis": "## I. Risk Warnings\n\n🔴 **High Priority:**\n\n- **5G Equipment Exclusion Institutionalized in Second Auction**: Tigo and Personal's acceptance of non-Chinese equipment rules in the July 10 second 5G auction marks a decisive moment. Both operators previously boycotted the 2025 auction precisely because of these restrictions, but now 'have no choice' — confirming that Huawei/ZTE exclusion is now structurally embedded in Paraguay's telecom regulatory framework. With all four operators (Claro, Tigo, Personal, and the stalled Nubicom) operating under these rules, the Chinese vendor exclusion has moved from a one-time auction condition to a de facto permanent industry standard. The USD 80M+ combined minimum investment from Tigo and Personal represents a market opportunity entirely closed to Chinese equipment suppliers.\n- **US-Taiwan-Paraguay Trilateral Architecture Deepening**: The July 2 virtual business mission (US-Taiwan-Paraguay) on renewable energy, EVs, and smart grids, combined with the SOFA agreement (under Senate scrutiny but progressing) and the Taiwan poultry export milestone, demonstrates an increasingly institutionalized trilateral framework that systematically excludes Chinese enterprises from sensitive infrastructure sectors. This is no longer ad hoc but represents a coherent strategic architecture spanning defense, digital, and energy domains.\n- **China-Paraguay Diplomatic Stalemate Hardens**: Foreign Minister Ramírez's July 1 'trade yes, break with Taiwan no' statement at Mercosur, coupled with President Peña's characterization of the poultry export to Taiwan as 'historic friendship,' signals that the diplomatic status quo is firmly entrenched. Brazil's Lula pushing Mercosur-China talks increases pressure but does not appear to be shifting Paraguay's position in the near term. Chinese enterprises should not anticipate diplomatic normalization as a near-term catalyst for market access improvement.\n\n🟡 **Medium Priority:**\n\n- **Policy Stability Risk**: The annulment of Decreto 5307 (Atome green hydrogen PPA) sets a precedent that even presidential decrees establishing long-term energy pricing can be reversed. For Chinese enterprises evaluating capital-intensive projects in Paraguay (energy, infrastructure, manufacturing), this introduces a new dimension of policy risk that goes beyond traditional sovereign/credit risk analysis. ANDE union influence over energy policy is a specific factor to monitor.\n- **Currency Appreciation Impact**: The 8.56% YTD guaraní appreciation means Chinese enterprises with existing Paraguay operations see their guaraní-denominated profits shrink when converted to RMB. Enterprises should assess whether existing hedging strategies are adequate for a sustained strong-guaraní scenario (BCP EVE survey projects PYG 6,475 by year-end).\n- **Fiscal Enforcement Risk**: DNIT's H1 revenue shortfall (2.1% actual vs. 9% budgeted) and Peña's order to intensify H2 collection could translate into more aggressive tax audits, particularly targeting import valuation practices and transfer pricing — areas where Chinese trading and manufacturing enterprises have historically faced scrutiny.\n\n## II. Opportunity Analysis\n\n🟢 **Actionable Opportunities:**\n\n- **Non-Equipment Roles in Paraguay's Digital Buildout**: While telecom equipment access is blocked, the broader digital infrastructure buildout creates entry points for Chinese enterprises in non-core-equipment roles: (a) electrical equipment supply for data centers (transformers, UPS, distribution panels, busways); (b) cooling and HVAC solutions for AI data centers (HIVE's 400MW Yguazú site, Taiwan JV's 10MW→1GW); (c) solar+storage hybrid systems complementing hydropower; (d) data center construction/EPC services; (e) fiber optic cable and passive infrastructure components.\n- **Brazil Relocation Spillover Benefits**: The wave of Brazilian manufacturers relocating to Paraguay creates demand for industrial machinery, production line equipment, and factory automation systems — areas where Chinese suppliers are globally competitive. Chinese equipment manufacturers can serve Brazilian companies setting up Paraguayan operations without direct engagement with Paraguayan government procurement.\n- **Agricultural Technology**: Paraguay's economy remains agro-driven (GDP growth led by soybeans, beef, now poultry exports to Taiwan). Chinese agritech solutions — precision agriculture sensors, drone-based crop monitoring, smart irrigation, cold chain logistics, and food processing equipment — can enter the market with minimal political friction.\n- **Green Hydrogen Supply Chain (Non-PPA Dependent)**: Although the Atome PPA was annulled, the underlying fundamentals (surplus hydropower, Decreto 5307/2026 Power-to-X framework) remain attractive. Chinese electrolyzer manufacturers can position for future project cycles without requiring the same policy certainty as project developers.\n\n## III. Strategic Recommendations\n\n**Immediate (July 2026):**\n- Complete minimum wage compliance review for all Paraguay-based employees following the July 1 adjustment. Verify that payroll, IPS contributions (9%), and family bonus payments reflect the new Gs. 3,044,000 minimum and updated sector-specific rates.\n- Assess FX exposure: with guaraní appreciation at 8.56% YTD and BCP EVE projecting PYG 6,475/USD year-end, evaluate the financial impact on existing local-currency revenues and consider hedging instruments if not already in place.\n- Monitor CONATEL's pre-qualification announcement (expected the week of July 13) for the second 5G auction to identify the specific spectrum blocks each operator targets and the procurement timelines.\n\n**Short-Term (1–3 months):**\n- Map the supply chain for Tigo and Personal's 5G deployment (USD 40M+ minimum each): tower companies, fiber backhaul, power systems, civil works. Target non-equipment segments where Chinese firms can compete without triggering security review.\n- Engage HIVE Digital, the Taiwan-Paraguay AI JV, and X8 Cloud project developers for data center infrastructure supply opportunities (electrical, cooling, construction). Position through regional subsidiaries or Latin American reference projects.\n- Track the National Doctors' strike (August 24–28) for broader labor relations implications. A successful large-scale public sector strike could embolden other unions and shift the political climate regarding foreign employers.\n\n**Medium-Term (3–12 months):**\n- Evaluate the Mercosur indirect entry strategy: with EU-Mercosur FTA provisionally in effect and Mercosur-Japan trade talks launched, Chinese enterprises with existing Brazil or Argentina operations can leverage these frameworks for indirect Paraguay market access.\n- Study the Decreto 5307 annulment precedent's implications for Chinese energy and infrastructure investments. Develop a political risk mitigation framework specific to Paraguayan regulatory reversal risk, including legislative anchoring (beyond executive decree), multi-stakeholder coalition building, and international arbitration clauses.\n- Position for the eventual green hydrogen/Power-to-X project pipeline. Despite the Atome setback, Paraguay's 5GW hydropower surplus remains a structural asset. Chinese electrolyzer and balance-of-plant suppliers should establish technical presence and local partnerships now.\n- Monitor Mercosur-China trade negotiation developments closely. If Brazil succeeds in launching formal Mercosur-China talks, Paraguay will face unprecedented pressure to reconsider its diplomatic stance — a potential turning point that could unlock broader market access for Chinese enterprises within 12–24 months."
     }
   ]
 }
