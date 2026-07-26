@@ -478,7 +478,7 @@ def _translate_text_deepseek(text, target_lang="zh"):
                 "Content-Type": "application/json",
             },
             json={
-                "model": "deepseek-chat",
+                "model": "deepseek-v4-pro",
                 "messages": [
                     {
                         "role": "system",
