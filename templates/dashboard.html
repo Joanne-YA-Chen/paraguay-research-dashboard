@@ -175,7 +175,7 @@ var MACRO_CPI={t:['CPI同比% 及 政策利率','CPI YoY% & Policy Rate'],line:[
 var MACRO_FX_MONTHDAYS=[31,28,31,30,31,30,31,31,30,31,30,31,31,29,31,30,31,30,31,31,30,31,30,31,31,28,31,30,31,30,31,31,30,31,30,31,31,28,31,30,31,20];
 var MACRO_FX={t:['官方汇率(PYG/USD)','Official FX (PYG/USD)'],monthly:[7306,7320,7310,7290,7280,7266,7270,7260,7270,7280,7280,7278,7350,7400,7420,7450,7500,7540,7560,7600,7700,7750,7800,7831,7860,7840,7820,7800,7790,7784,7700,7500,7200,6900,6700,6576,6400,6250,6150,6080,6021,6071],line:null,lu:' PYG/USD',lc:'#8B5CF6',yl:['PYG/USD','PYG/USD']};
 function expandToDaily(monthly,monthDays){var daily=[],seed=42;function n(){seed=(seed*16807)%2147483647;return(seed-1073741823)/1073741823*8;}for(var m=0;m<monthly.length;m++){for(var d=0;d<monthDays[m];d++){daily.push(Math.round(monthly[m]+n()));}}return daily;}
-var MACRO_RIN={t:['国际净外汇储备','Net Intl. Reserves'],line:[9.0,8.9,9.1,9.2,9.3,9.4,9.3,9.4,9.5,9.4,9.5,9.6,9.7,9.8,9.9,10.0,10.0,10.1,10.2,10.3,10.3,10.4,10.4,10.5,10.4,10.4,10.5,10.5,10.6,10.6,10.7,10.7,10.8,10.8,10.9,10.9,10.8,10.8,10.7,10.7,10.6],lu:[' 十亿美元',' USD B'],lc:'#06B6D4',yl:['RIN','RIN']};
+var MACRO_RIN={t:['国际净外汇储备','Net Intl. Reserves'],line:[9.0,8.9,9.1,9.2,9.3,9.4,9.3,9.4,9.5,9.4,9.5,9.6,9.7,9.8,9.9,10.0,10.0,10.1,10.2,10.3,10.3,10.4,10.4,10.5,10.4,10.4,10.5,10.5,10.6,10.6,10.7,10.7,10.8,10.8,10.9,10.9,10.8,10.8,10.7,10.7,10.6,11.4],lu:[' 十亿美元',' USD B'],lc:'#06B6D4',yl:['RIN','RIN']};
 function renderMacroSVG(d,opts){
   var W=290,H=170,mL=42,mR=opts.dual?42:10,mT=20,mB=30,cW=W-mL-mR,cH=H-mT-mB;
   var n=(opts.bars?d.bars:opts.line?d.line:[]).length;if(!n)return'';
