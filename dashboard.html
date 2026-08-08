@@ -326,7 +326,7 @@ function renderCard(evt,phFrom,phTo,icon){
 
   var link=evt.source_url?'<a class="event-link" href="'+esc(evt.source_url)+'" target="_blank" rel="noopener">'+L('查看原文 →','Read more →')+'</a>':'';
   var preview=evt.summary||'';if(!preview&&evt.title)preview=evt.title;
-  return '<div class="event-card"><div class="event-img">'+ih+'</div><div class="event-body"><div class="event-meta">'+tags+'</div><div class="event-preview">'+esc(ss(preview))+'</div>'+link+'</div></div>';
+  return '<div class="event-card"><div class="event-img">'+ih+'</div><div class="event-body"><div class="event-meta">'+tags+'</div><div class="event-preview">'+esc(preview)+'</div>'+link+'</div></div>';
 }
 
 function fmt(text){
