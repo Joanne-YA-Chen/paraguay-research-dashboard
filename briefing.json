@@ -1,6 +1,6 @@
 {
   "topic": "巴拉圭简报",
-  "time_span": "2026年8月15日 — 2026年8月22日",
+  "time_span": "2026年8月22日 — 2026年8月29日",
   "time_label": "最近一周",
   "sections": [
     {
@@ -8,42 +8,42 @@
       "tier": 1,
       "events": [
         {
-          "title": "美元再度逼近6,000瓜拉尼关口，出口商施压央行干预（2026-08-21）",
-          "date": "2026-08-21",
-          "source_url": "https://www.abc.com.py/negocios/2026/08/21/el-dolar-vuelve-a-ceder-en-el-cierre-de-la-semana-y-se-acerca-de-nuevo-a-los-g-6000/",
-          "source_name": "ABC Color",
-          "summary": "美元在8月21日当周收于零售市场6,010瓜拉尼、银行间市场6,009瓜拉尼，继两周前触及5,950瓜拉尼低点后再度逼近6,000瓜拉尼关口。瓜拉尼持续升值（过去一年约升值20%）正在侵蚀以美元计价收入，畜牧业和农业为首的出口商要求央行（BCP）出手“平衡”市场。央行迄今保持不干预立场。",
-          "image_url": "https://www.abc.com.py/resizer/v2/Y7Q45WHQVNCB3NXHWQ75WYTHLI.jpg?auth=d4f7d4e7bcfae1b9b7e3a37fce51ee4b0340e1e70a007b7d17c73ffad837f1ea&width=770&smart=true",
+          "title": "瓜拉尼跌破6,000瓜拉尼关口，出口商施压央行干预（2026-08-28）",
+          "date": "2026-08-28",
+          "source_url": "https://cdn-www.lanacionpy.arcpublishing.com/negocios/2026/08/27/gremio-pide-medidas-urgentes-al-bcp-ante-caida-del-dolar/",
+          "source_name": "La Nación",
+          "summary": "美元自2018年以来首次跌破6,000瓜拉尼关口，央行参考汇率于8月27日收在5,929.69瓜拉尼、8月28日收在5,922.01瓜拉尼。瓜拉尼12个月内升值超20%，巴拉圭出口商协会（Capex）和可持续工业协会（Cispy）紧急要求央行干预，警告竞争力受损、出口下降和失业风险。央行至今保持不干预立场，将跌势归因于市场基本面和套息交易资金流入。",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/7ED2737NQBBDHDXJHZS2U2AJWM.jpeg?auth=3481fb2d2211a73e7e257bd194f6681a07e03ad63fdf701025a72092847edb5d&width=1200&height=630&smart=true",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "拉加经委会预测巴拉圭2026年经济增长4.3%，居南美前列（2026-08-20）",
-          "date": "2026-08-20",
-          "source_url": "https://infonegocios.com.py/infofinanzas/cepal-proyecta-que-paraguay-crecera-4-3-en-2026-y-se-mantendra-entre-las-economias-mas-dinamicas-de-sudamerica",
-          "source_name": "InfoNegocios",
-          "summary": "联合国拉丁美洲和加勒比经济委员会（CEPAL）预测巴拉圭经济2026年将增长4.3%，继续位居南美洲最具活力的经济体之列，高于地区平均水平。这一预测与IMF和世界银行（4.4%）以及央行上调后的4.5%估算基本一致，反映出农业、制造业和服务业的持续强劲。CEPAL同时预计巴拉圭2027年增速约为4.0%。",
-          "image_url": "https://infonegocios.com.py/images/resize/723087-1200x675.webp",
-          "is_gov_source": false,
+          "title": "国际货币基金组织完成2026年第四条款磋商：增速4.4%，通胀向目标靠拢（2026-08-28）",
+          "date": "2026-08-28",
+          "source_url": "https://www.imf.org/es/news/articles/2026/08/28/pr26280-paraguay-imf-executive-board-concludes-2026-article-iv-consultation",
+          "source_name": "IMF",
+          "summary": "国际货币基金组织执董会完成了对巴拉圭的2026年第四条款磋商，预计2026年增速4.4%（2025年为6.6%），通胀正向3.5%的目标靠拢，财政赤字将扩大至GDP的3.5%。基金组织强调了巴拉圭经济的韧性、瓜拉尼的大幅实际升值以及接近1,100亿美元的净国际储备，并建议继续实施财政纪律和汇率灵活性。",
+          "image_url": null,
+          "is_gov_source": true,
           "is_authoritative": true
         },
         {
-          "title": "经济学家建议将公共债务上限提高至GDP的70%以支持发展（2026-08-19）",
-          "date": "2026-08-19",
-          "source_url": "https://www.ultimahora.com/economista-plantea-elevar-deuda-al-70-del-pib-para-el-desarrollo",
+          "title": "央行一致决定维持5.50%政策利率不变（2026-08-27）",
+          "date": "2026-08-27",
+          "source_url": "https://www.ultimahora.com/tasa-de-politica-monetaria-se-mantiene-en-zona-neutral",
           "source_name": "Última Hora",
-          "summary": "巴拉圭一位知名经济学家主张将公共债务上限提高至GDP的70%，用于基础设施和发展融资，远高于现行《财政责任法》将债务控制在GDP约40%以内的法律框架。支持者认为巴拉圭的低负债水平和投资级前景赋予其充足的财政空间，而批评者警告放宽这一锚定可能损害支撑廉价融资的、来之不易的宏观信誉。",
-          "image_url": "https://grupovierci.brightspotcdn.com/dims4/default/feaafd3/2147483647/strip/true/crop/2048x1152+0+3/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Feb%2Fcc%2Fda766ec84fc38e479cd965a997de%2Fministerio-de-economia-y-finanzas-mef.jpg",
+          "summary": "央行货币政策委员会一致决定将基准利率维持在5.50%的中性区间，背景是国际市场动荡、油价逼近每桶90美元以及国内货币持续升值。下次货币政策委员会定于9月21日召开。央行正在平衡下行的通胀（7月同比1.6%）与出口商要求干预以遏制瓜拉尼升值的呼声。",
+          "image_url": "https://grupovierci.brightspotcdn.com/dims4/default/6cf3edf/2147483647/strip/true/crop/2048x1152+0+108/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe4%2Feb%2F3c73f94f42999cdec82060e353ec%2Fbanco-central-del-paraguay-foto-nueva.jpg",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "牛肉行业：出口价格涨21%但数量降25%，瓜拉尼走强挤压利润（2026-08-20）",
-          "date": "2026-08-20",
-          "source_url": "https://dende.org.py/la-ganaderia-en-el-paraguay-el-sector-carnico-vive-una-oportunidad-excepcional-que-desafios-limitan-su-crecimiento/",
-          "source_name": "DENDE",
-          "summary": "巴拉圭养牛业面临典型的汇率挤压：牛肉平均出口价格从约4,500美元/吨升至6,900–7,000美元/吨（7月一度逼近7,500美元），但出口量下降25%。价格上涨（+21%）仅部分抵消数量下滑，导致外汇收入下降约9%。美国已成为最大出口目的地，其次是以色列和台湾；而美元兑瓜拉尼七个月贬值9.9%，进一步压缩了生产者利润。",
-          "image_url": "https://dende.org.py/wp-content/uploads/2026/08/Captura-de-pantalla-2026-08-20-162705.png",
+          "title": "公共债务超210亿美元（占GDP 34%），财政刚性加剧（2026-08-29）",
+          "date": "2026-08-29",
+          "source_url": "https://www.latribuna.com.py/negocios/economia/2026/08/29/creciente-rigidez-del-gasto-publico-amenaza-la-estabilidad-financiera/",
+          "source_name": "La Tribuna",
+          "summary": "巴拉圭公共债务已超210亿美元，约合GDP的34%，公共开支刚性加剧正在威胁金融稳定。分析人士警告，工资、养老金和强制性转移等刚性开支正在挤占生产性投资，而国际货币基金组织第四条款磋商也指出2026年财政赤字占GDP的3.5%。随着提高债务上限的提议出台，围绕财政锚定的争论进一步加剧。",
+          "image_url": "https://www.latribuna.com.py/resizer/v2/VCFGFFQEMREJZH5CR7MHF4OQMU.jpg?smart=true&auth=d130f5e47885beb3ddb8fff456c8813a28af16f187c2f9728c09def349553859&width=1200&height=630",
           "is_gov_source": false,
           "is_authoritative": true
         }
@@ -56,32 +56,32 @@
       "tier": 1,
       "events": [
         {
-          "title": "能源改革推进：提出将国家电力局（ANDE）拆分为六家公司的法案（2026-08-21）",
-          "date": "2026-08-21",
-          "source_url": "https://www.abc.com.py/economia/2026/08/21/presentan-proyecto-de-ley-que-plantea-partir-a-la-ande-en-seis-empresas/",
-          "source_name": "ABC Color",
-          "summary": "参议员恩里克·萨林·布萨基斯提出《电力工业总法》草案，拟将国有电力公司ANDE拆分为六家独立公司，并设立电力监管总局。该提案与政府自身的改革并行——创建能源、矿业和碳氢化合物部以及独立监管机构——反映出对行业必须重组的广泛共识。在电力需求年增超18%（而ANDE仅预测10%）的背景下，该法案已列入审议日程。",
-          "image_url": "https://www.abc.com.py/resizer/v2/QWBXUGFGJZHXLLYS6FLBINH4MY.jpg?auth=4574556f45fdb3ba6360d8b04ead8d7fdaa37ffc3ecb72cd34e6f97d2405dfe6&width=770&smart=true",
+          "title": "新电力监管机构将由ANDE、Petropar及私营部门缴纳的规费供资（2026-08-25）",
+          "date": "2026-08-25",
+          "source_url": "https://www.ultimahora.com/petropar-ande-y-sector-privado-pagaran-tasas-a-nuevo-ente-regulador",
+          "source_name": "Última Hora",
+          "summary": "拟议中的独立电力监管机构（Ente Regulador Eléctrico）将通过国有电力公司ANDE、Petropar以及私营部门强制缴纳的监管规费供资，上限为电力服务报酬额的2%。这一措施是培尼亚政府推动分离电力行业政策、监管与运营职能的一部分，结束ANDE长达六十年对这些职能的集中。",
+          "image_url": "https://grupovierci.brightspotcdn.com/dims4/default/8e470fa/2147483647/strip/true/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb9%2Fba%2F4e229c94403691132aedd775578c%2Fpetropar.webp",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "培尼亚总统签署日本国际协力机构2.24亿美元贷款，用于亚贝维里–皮拉尔公路走廊（2026-08-21）",
-          "date": "2026-08-21",
-          "source_url": "https://enparaguay.net/pena-promulga-prestamo-del-japon-de-us-224-millones-para-ruta-yabebyry-pilar/",
-          "source_name": "En Paraguay Net",
-          "summary": "总统圣地亚哥·培尼亚签署第7713号法律，批准日本国际协力机构（JICA）最高363.8亿日元（约2.24亿美元）贷款，用于改善亚贝维里–皮拉尔走廊，该项目由公共工程部（MOPC）执行。这笔融资加深了日本在巴拉圭基础设施领域的参与，并与正在推进的日本双边议程（包括牛肉市场准入和日本移民90周年纪念）相辅相成。",
-          "image_url": "https://www.abc.com.py/resizer/WPacRc6BvCab8qnHhShfxHjf_bQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/PNLJLECVKFCK5N42TS5NQPVVFI.jpg",
+          "title": "参议院半批准将侵占土地定为刑事犯罪、最高判处10年的法案（2026-08-22）",
+          "date": "2026-08-22",
+          "source_url": "https://www.abc.com.py/tag/ley-anti-invasion/",
+          "source_name": "ABC Color",
+          "summary": "参议院对一项将侵占土地定为刑事犯罪、最高可判处10年监禁的法案给予半批准，并将其退回众议院。荣耀科罗拉多党团表示将力争把该法案列入8月29日的会议议程，称已有足够票数促其最终通过。此法案出台之前数日，Canindeyú省“救赎行动”导致教师和土著领袖身亡，其根源是土著家庭主张权利的1.1万公顷土地纠纷，凸显土地冲突已成为立法议程的优先事项。",
+          "image_url": "https://www.abc.com.py/pf/resources/images/OG-Image-ABC.png?d=2590",
           "is_gov_source": false,
-          "is_authoritative": false
+          "is_authoritative": true
         },
         {
-          "title": "行政当局通过14项法令批准2026年国家预算737亿瓜拉尼的调整（2026-08-22）",
-          "date": "2026-08-22",
-          "source_url": "https://www.ultimahora.com/poder-ejecutivo-autoriza-mas-modificaciones-en-pgn-2026",
-          "source_name": "Última Hora",
-          "summary": "行政当局发布14项法令（第6581至6662号），批准对2026年国家预算（PGN 2026）进行调整：增加593.02亿瓜拉尼、重新安排144.048亿瓜拉尼，合计737.07亿瓜拉尼（约1,220万美元）。资金投向卫生、财政部、信息通信技术部（MITIC）、社会发展、农业、劳动、国防、缉毒署（Senad）、博克龙省以及国立亚松森大学等部门。",
-          "image_url": "https://grupovierci.brightspotcdn.com/dims4/default/deef0ba/2147483647/strip/true/crop/2560x1440+0+266/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1d%2F3c%2F148bacdc4ccf8f540b7d00c4f713%2Ffirma-decreto-santiago-pena-scaled.jpg",
+          "title": "能源部之争加剧：“设部可行，ANDE不可行”（2026-08-26）",
+          "date": "2026-08-26",
+          "source_url": "https://cdn-www.lanacionpy.arcpublishing.com/politica/2026/08/26/mateo-balmelli-fustiga-al-sindicato-de-la-ande-quieren-disenar-la-politica-energetica/",
+          "source_name": "La Nación",
+          "summary": "围绕创建能源、矿业和碳氢化合物部的争论进一步升级，政治分析师Carlos Mateo Balmelli批评ANDE工会反对设部，称国有电力公司的垄断模式已经结束，需要新的发电来源。与此同时，能源专家Fabián Cáceres警告，创建新部委可能会分散对能源危机的关注，呼吁加强ANDE并紧急启动太阳能招标（查科地区120–140兆瓦）。",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/QUOFBULXCBBM3GTJBNSZZAYGLE.jpg?auth=575e8480f65310310aca76adeaba58481672462c7c9b4a918bbf328ebf07e0cc&width=1200&height=630&smart=true",
           "is_gov_source": false,
           "is_authoritative": true
         }
@@ -94,54 +94,34 @@
       "tier": 1,
       "events": [
         {
-          "title": "医生确认8月24日至28日举行全国性五日罢工（2026-08-22）",
-          "date": "2026-08-22",
-          "source_url": "https://www.lanacion.com.py/pais/2026/08/22/medicos-reclaman-mejoras-laborales-y-salariales-con-una-movilizacion-nacional/",
+          "title": "医生罢工升级：Acosta Ñu医院儿科专家86%递交辞呈（2026-08-28）",
+          "date": "2026-08-28",
+          "source_url": "https://www.lanacion.com.py/pais/2026/08/28/huelga-de-medicos-el-86-del-plantel-de-especialistas-del-hospital-acosta-nu-renuncio/",
           "source_name": "La Nación",
-          "summary": "全国医生工会（SINAMED）在与政府谈判破裂后确认于8月24日至28日举行全国性五日罢工。公立医院的预约门诊和择期手术将暂停，急诊和基本服务仍将保障。医生要求每个岗位加薪300万瓜拉尼、节假日工作双倍工资，以及将不稳定（precario）合同转为正式编制（去不稳定化），并指出医生已有12年未获调薪。",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/JRE67OX3IVB45MEVLX446YXAFE.jpg?auth=01fa7422092d8d8bcdd55362ad62666cac79af1ed7fb72c91ae1745540ceb6e4&width=1200&height=630&smart=true",
+          "summary": "全国医生工会（SINAMED）罢工进入第四天仍未达成协议，Acosta Ñu儿科医院的164名专家中有141名（86%）签署了辞呈。公立医疗网络的儿科外科医生宣布将集体辞职（90%意向），约200名麻醉科医生可能跟进。工会警告，罢工——因工资2012年以来冻结、节假日双倍工资和合同正规化等诉求——可能延长为无限期；政府已启动对话，但称无法承担76%的涨薪幅度。",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/7CFQE7PIDVDNPBNVKGB6QN4A2E.jpg?auth=dbcc011d62024da95b1e21b8d4981f88c135fd5cd38bae1e533f1d3dc014d9c3&width=1200&height=630&smart=true",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "政府在罢工前正式批准约1.1万名卫生工作者转正（2026-08-21）",
-          "date": "2026-08-21",
-          "source_url": "https://www.infobae.com/america/agencias/2026/08/21/gobierno-paraguayo-avala-nombramiento-de-11000-empleados-de-salud-ante-amenaza-de-huelga/",
-          "source_name": "Infobae",
-          "summary": "面对即将到来的医生罢工，政府正式批准约1.1万名卫生部门工作人员转正——其中9,755名为医务人员（医生、牙医、生化师、护士、技师和助理），另有1,345个行政岗位。此举是推动公共医疗队伍“去不稳定化”（将不稳定合同转为正式编制）并化解劳资矛盾的一部分，但工会表示工资和条件诉求仍未得到满足。",
-          "image_url": null,
+          "title": "国会居中调停医疗危机；Latorre称医疗体系“陈旧”（2026-08-26）",
+          "date": "2026-08-26",
+          "source_url": "https://www.abc.com.py/nacionales/2026/08/26/huelga-de-medicos-latorre-admite-que-el-sistema-de-salud-es-obsoleto/",
+          "source_name": "ABC Color",
+          "summary": "由Raúl Latorre领衔的众议院在医生罢工中积极居中调停，Latorre承认巴拉圭医疗体系已经“陈旧”，并提出推动医疗职业法和全面改革。总统培尼亚表示愿意对话，而经济部长Óscar Lovera称无法承担76%的涨工资幅度，并提出与培训挂钩的“卫生职业”方案。涨薪诉求可能通过行政部门的补遗纳入2027年预算。",
+          "image_url": "https://www.abc.com.py/resizer/v2/WYDVZOC7HRGDJCZMYLF5A63XSU.jpg?auth=f33e37dc1efccce4b89fec6f38737009fb3e5b1144fff051212ee86370aa4095&width=770&smart=true",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "护士争取到7,000个正式编制，推进用工正规化（2026-08-21）",
-          "date": "2026-08-21",
-          "source_url": "https://www.ultimahora.com/enfermeros-consiguen-7-000-cargos-para-avanzar-en-la-desprecarizacion",
-          "source_name": "Última Hora",
-          "summary": "巴拉圭护理协会与当局达成协议，设立7,000个正式编制，推进护理人员的“去不稳定化”。受益者将转为第一级工资（约430万瓜拉尼），这是将长期依赖短期合同、实现用工正规化的重要一步。该协议是政府在社会和劳资矛盾上升背景下推动公共医疗就业正规化的更大行动的一部分。",
-          "image_url": "https://grupovierci.brightspotcdn.com/dims4/default/ad759c0/2147483647/strip/true/crop/1080x608+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe6%2Fdc%2Fa7062a724d3f9119d98800e263e5%2F1002134813.jpg",
+          "title": "边境安全：东方市百万劫案第二名嫌疑人被捕（2026-08-27）",
+          "date": "2026-08-27",
+          "source_url": "https://www.latribuna.com.py/sucesos/policiales/2026/08/27/detienen-a-segundo-implicado-en-asalto-millonario-en-ciudad-del-este/",
+          "source_name": "La Tribuna",
+          "summary": "警方逮捕了8月18日东方市Brisas del Paraná仓库百万劫案的第二名嫌疑人，缴获一把9毫米手枪、可卡因和4,000万瓜拉尼。当局还确认了另外7名涉嫌实施人员，这一案例凸显上巴拉那州有组织犯罪压力持续；巴西与巴拉圭已加强对PCC犯罪团伙的联合围堵，美国国务院近期也建议在上巴拉那州等边境地区“提高警惕”。",
+          "image_url": "https://www.latribuna.com.py/resizer/v2/MD3ZEGPH6JET3IA3XGCWQZBJNM.jpg?smart=true&auth=49e1ee8e747a2af556f0812d6a433702071f202bc561e4955bfa773a33ca416f&width=1200&height=630",
           "is_gov_source": false,
           "is_authoritative": true
-        },
-        {
-          "title": "缉毒署Canindeyú'救赎行动'：教师与土著领袖身亡，双方说法相左（2026-08-16）",
-          "date": "2026-08-16",
-          "source_url": "https://www.ultimahora.com/que-paso-en-corpus-christi",
-          "source_name": "Última Hora",
-          "summary": "8月16日，缉毒署（Senad）在Canindeyú省Corpus Christi的Ava Guaraní社区Tekoha Y'apo开展'救赎行动'，导致当地教师Catalino Correa和土著领袖Antonio Carrillo身亡。缉毒署称两人是逃亡毒枭Felipe Santiago Acosta'马乔'团伙的'高价值目标'，并称发生交火、公布了视频。社区和家属否认发生交火，指控受害者被诱骗至Estancia América的土地纠纷会议后遭酷刑和处决、事后被放置枪支；根本冲突是土地问题，约300户土著家庭对涉诉的1.1万公顷土地主张权利。",
-          "image_url": "https://www.abc.com.py/resizer/v2/UAOCYFXEYZDFZHHEYZ2FXJJN5Y.jpeg?auth=0e37595e2f815bd51e808e5a2e4caf366cefa13546eb62315b3aae7b39ef76b6&width=770&smart=true",
-          "is_gov_source": false,
-          "is_authoritative": true
-        },
-        {
-          "title": "教师工会要求逐步加薪至每班500万瓜拉尼，视谈判结果决定是否游行（2026-08-21）",
-          "date": "2026-08-21",
-          "source_url": "https://1140am.com.py/docentes-reclaman-reajuste-salarial-y-condicionan-manifestacion-tras-resultado-de-reunion-con-el-gobierno/",
-          "source_name": "Radio 1140 AM",
-          "summary": "巴拉圭教育工作者联合会（FEP）要求逐步加薪至每班500万瓜拉尼——2027年上调8%、2028年上调9%——并要求为教师职级晋升、校长代表补贴和免费教育相关支出提供资金。该诉求覆盖约8万名教师（约6.2万工会会员）。以Silvio Piris为首的工会领导人表示，是否发动游行取决于政府的回应，与教育部和财政部的后续会议尚未举行。",
-          "image_url": "https://1140am.com.py/wp-content/uploads/2026/08/r-1.jpg",
-          "is_gov_source": false,
-          "is_authoritative": false
         }
       ],
       "impact_analysis": "",
@@ -152,32 +132,32 @@
       "tier": 1,
       "events": [
         {
-          "title": "日本秋筱宫文仁亲王与纪子王妃开始对巴拉圭进行正式访问（2026-08-21）",
-          "date": "2026-08-21",
-          "source_url": "https://internationalpress.jp/2026/08/21/akishino-y-kiko-inician-su-visita-a-paraguay-con-homenaje-a-los-heroes-nacionales/",
-          "source_name": "International Press",
-          "summary": "日本秋筱宫文仁亲王与纪子王妃开始对巴拉圭进行正式访问，以纪念日本移民90周年，并在外交部长鲁本·拉米雷斯·莱斯卡诺陪同下向国家英雄祠敬献花圈。此次访问凸显了两国深厚的历史渊源以及日本侨民在巴拉圭的经济和社会分量，并与推动日本市场向巴拉圭牛肉开放的努力相呼应。",
-          "image_url": "https://cdn.internationalpress.jp/2026/08/El-principe-Akishino-y-la-princesa-Kikko-en-el-Panteon-de-los-Heroes-de-Paraguay.jpg",
+          "title": "南共市–欧盟配额僵局加剧：乌拉圭拿走63%的大米配额（2026-08-23）",
+          "date": "2026-08-23",
+          "source_url": "https://www.abc.com.py/politica/2026/08/18/mercosur-ue-aun-no-hay-acuerdo-sobre-las-cuotas-de-exportacion/",
+          "source_name": "ABC Color",
+          "summary": "南共市成员国仍在就欧盟出口配额的分配陷入僵局，巴拉圭坚持每国均分25%的份额，而巴西和阿根廷倾向于基于出口历史和经济权重的标准。在过渡期的“先到先得”机制下，乌拉圭已拿走63%的大米配额，巴拉圭将此作为不公平的证据。总统培尼亚概括这一立场：“我们要的不是特权，而是公平”，该议题定于2026年10月复议。",
+          "image_url": "https://www.abc.com.py/resizer/v2/33TMGOVGJFHFVKQ55HLNJH25X4.jpg?auth=e33e2eea7a24c6c156281d14cbe4570a0308c42d1bfdd86f03f6bb042c1173c2&width=770&smart=true",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "培尼亚与日本大臣木内推进牛肉市场准入议程（2026-08-22）",
-          "date": "2026-08-22",
-          "source_url": "https://www.latribuna.com.py/politica/2026/08/22/pena-y-ministro-japones-abordan-agenda-de-la-carne/",
-          "source_name": "La Tribuna",
-          "summary": "总统圣地亚哥·培尼亚会见日本国务大臣木内稔，推动巴拉圭牛肉进入日本市场的准入事宜，同时讨论投资以及国防和安全合作。日本作为高价值牛肉进口国，是巴拉圭肉类出口商寻求在现有市场之外多元化、获取溢价价格的战略目标，与已有的JICA基础设施融资形成互补。",
-          "image_url": "https://www.latribuna.com.py/resizer/v2/OOV5CXV3YZGDHGQBSKJIJBWGGM.jpg?smart=true&auth=c1024fbf7c748de01678adae5f01e7d6c9c847ed3dd5a0ff4ec4803399c65cd8&width=1200&height=630",
+          "title": "台湾寻求扩大与巴拉圭的AI与科技合作（2026-08-26）",
+          "date": "2026-08-26",
+          "source_url": "https://www.lanacion.com.py/politica/2026/08/26/taiwan-busca-ampliar-cooperacion-en-ia-y-tecnologia-con-paraguay/",
+          "source_name": "La Nación",
+          "summary": "台湾表示有意扩大与巴拉圭在AI和科技领域的合作，涉及亚松森数字园区、Chaco'i双边AI数据中心以及上巴拉那州台湾工业园区的智慧科技枢纽升级。这一计划建立在“伊瓜苏数字”主权AI数据中心基础上，强化了台湾作为巴拉圭关键科技合作伙伴的角色，背景是北京持续向亚松森施压要求其断绝与台湾关系。",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/OVP7NAKQQFHQBMWHFHIR6G3CXI.webp?auth=8e3b2b869ddc9dbd5ff8e67af183b8b3d4019f6f8d5dfca361fb17b2cae89602&width=1200&height=630&smart=true",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "南共市–欧盟：牛肉出口配额未达成协议，巴拉圭坚持25%份额（2026-08-19）",
-          "date": "2026-08-19",
-          "source_url": "https://www.ultimahora.com/sin-acuerdo-los-cupos-seguiran-por-orden-de-llegada-hasta-2027",
-          "source_name": "Última Hora",
-          "summary": "南共市成员国尚未就《南共市–欧盟贸易协定》下牛肉出口配额的分配方式达成一致，巴拉圭坚持每个成员国均分25%的份额，这一立场得到生产商协会（ARP、CPC、Capeco、UGP）的支持。若无共识，现有的“先到先得”制度将继续保留，该议题将推迟到2027年10月再审，给巴拉圭牧场的这一关键出口渠道留下不确定性。",
-          "image_url": "https://grupovierci.brightspotcdn.com/dims4/default/25a72be/2147483647/strip/true/crop/2362x1329+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fadjuntos%2F161%2Fimagenes%2F008%2F774%2F0008774574.jpg",
+          "title": "巴拉圭在欧盟协议下于农业、林业和能源领域具有竞争优势（2026-08-28）",
+          "date": "2026-08-28",
+          "source_url": "https://www.lanacion.com.py/negocios/2026/08/28/acuerdo-con-ue-paraguay-corre-con-ventaja-en-el-sector-agricola-forestal-y-de-energias-afirman/",
+          "source_name": "La Nación",
+          "summary": "在巴拉圭工业联盟（UIP）与CAF举办的“欧盟–南共市出口之路”研讨会上，专家指出巴拉圭在农业、可再生能源、林业、塑料和轻制造业方面具有竞争优势。与会专家也警告，欧洲市场在卫生、环保、劳动、认证和可追溯性标准上要求严格，随着协议贸易章节生效，中小企业面临的国际化挑战最大。",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/SSJA4R2TT5G33PSN7QRKWMUZRU.jpg?auth=ada175af398b82c3ebb940da85126e3401d6d1376317fc932919e3bd83c2d0d7&width=1200&height=630&smart=true",
           "is_gov_source": false,
           "is_authoritative": true
         }
@@ -190,48 +170,37 @@
       "tier": 1,
       "events": [
         {
-          "title": "HIVE：哥伦比亚大学验证巴拉圭AI GPU性能；100兆瓦变电站定于9月通电（2026-08-18）",
-          "date": "2026-08-18",
-          "source_url": "https://www.proactiveinvestors.com/companies/news/1094258/hive-digital-technologies-reports-successful-ai-training-trial-using-paraguay-based-gpus-1094258.html",
-          "source_name": "Proactive Investors",
-          "summary": "HIVE数字技术公司完成了首个使用亚松森GPU的AI研究试验，与哥伦比亚大学工业工程与运筹学系合作——纽约的研究人员远程对5,000多英里外的GPU进行迭代AI训练，验证了跨洲AI算力的可行性。研究发现，经优化后HIVE的Nvidia A40 GPU性能可媲美新一代H100系统，该研究已提交至NeurIPS会议。公司位于伊瓜苏“超级工厂”的100兆瓦变电站已完工，定于2026年9月通电，三级（Tier III）数据中心将于秋季动工。",
-          "image_url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzA2XC8yMDI1LTA0LTA3LTA4LTM5LTQwLTBmZWUxMjhhM2FkN2FlNmVjMjY4YzU4ZjFmZDkxZTdkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+          "title": "Dominion将在巴拉圭建设拉美首个地下数据中心（2026-08-28）",
+          "date": "2026-08-28",
+          "source_url": "https://diarioparaguayo.com/noticia/dominion-desarrolla-el-primer-data-center-subterraneo-de-america-latina-en-paraguay",
+          "source_name": "Diario Paraguayo",
+          "summary": "西班牙企业Dominion宣布将在巴拉圭建设拉美地区首个地下数据中心，利用当地充沛的清洁能源，并通过地下建设降低制冷成本。该项目被定位为“通过数据出口能源”的模式，充分利用巴拉圭100%可再生能源电网和地区最低电价，迎合AI算力需求的增长。",
+          "image_url": "https://diarioparaguayo.com/uploads/news/news_1776308436_8018d4fd.jpg",
           "is_gov_source": false,
           "is_authoritative": true,
-          "client_tag": "HIVE — AI/HPC数据中心、100兆瓦变电站、GPU算力"
+          "client_tag": "Dominion — 地下数据中心、AI/算力"
         },
         {
-          "title": "Atome为其2022年ANDE购电协议辩护，宣布研究300兆瓦光伏电站（2026-08-19）",
-          "date": "2026-08-19",
-          "source_url": "https://enparaguay.net/atome-defiende-su-contrato-vigente-desde-2022-con-la-ande-y-anuncia-estudio-para-una-planta-solar-de-300-mwp/",
-          "source_name": "En Paraguay Net",
-          "summary": "能源公司Atome为其与ANDE自2022年起生效的145兆瓦保底容量购电协议（PPA）进行辩护——该公司称该协议已纳入国有电力公司到2050年的预测——并宣布研究一座300兆瓦（MWp）光伏电站。这一表态凸显了在政府电力改革推进、ANDE潜在客户名单日益以AI和数据中心运营商为主的背景下，排队等待明确规则的私人能源项目（超6,000兆瓦）不断增加。",
-          "image_url": "https://www.abc.com.py/resizer/cASGP0ctgapLiipfDA-sKjhgIDk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/7HZUINSHZBB4TFC3V4CSSRYF5E.jpg",
-          "is_gov_source": false,
-          "is_authoritative": false,
-          "client_tag": "Atome — 145兆瓦PPA、300兆瓦光伏；能源行业改革"
-        },
-        {
-          "title": "里克尔梅赴智利争取能源出口和AI数据中心投资（2026-08-20）",
-          "date": "2026-08-20",
-          "source_url": "https://www.lapoliticaonline.com/paraguay/energia-py/riquelme-quiere-venderle-energia-a-chile-socio-clave-de-paraguay-en-el-corredor-bioceanico/",
+          "title": "ANDE拒绝Atome绿色氢能协议，称“数字算不过来”（2026-08-26）",
+          "date": "2026-08-26",
+          "source_url": "https://www.lapoliticaonline.com/paraguay/empresas-py/la-ande-rechaza-el-acuerdo-con-la-empresa-atome-al-considerar-que-los-numeros-no-cierran-6508/",
           "source_name": "La Política Online",
-          "summary": "工业和贸易部长马可·里克尔梅奉培尼亚总统之命出访智利招商引资，重点是出口巴拉圭能源、区域电力互联以及AI数据中心。此次访问将巴拉圭的清洁能源富余与两洋走廊（Corredor Bioceánico）联系起来，并把巴拉圭定位为关键伙伴智利的潜在能源供应国。此举也配合了政府推动电力市场向私人发电开放的立法努力。",
-          "image_url": "https://www.lapoliticaonline.com/files/image/296/296937/6a87742330a50_1200_630!.jpg?s=75b89a3f2b33eed103df3099a6b6bc90&d=1787194800",
+          "summary": "国有电力公司ANDE拒绝了与英国Atome公司在Villeta建设绿色氢能厂的协议，理由是“数字算不过来”，且无法保证15年固定电价。此次反转发生在Atome为其2022年的145兆瓦PPA辩护并宣布研究300兆瓦光伏项目的数日之后，凸显电力市场改革前私营能源和氢能项目面临的监管不确定性。",
+          "image_url": "https://www.lapoliticaonline.com/files/image/295/295149/6a73928159421_1200_630!.jpg?s=4983c526d57032cacf34a8eace4a9b42&d=1786653971",
           "is_gov_source": false,
           "is_authoritative": true,
-          "client_tag": "数字能源 — 区域互联、AI数据中心"
+          "client_tag": "Atome — 绿色氢能、145兆瓦PPA；能源改革"
         },
         {
-          "title": "电力市场将向私人资本开放，ANDE让渡监管职能（2026-08-20）",
-          "date": "2026-08-20",
-          "source_url": "https://infonegocios.com.py/nota-principal/el-mercado-electrico-podria-abrirse-al-capital-privado-y-la-ande-dejaria-de-concentrar-la-regulacion",
-          "source_name": "InfoNegocios",
-          "summary": "巴拉圭电力市场将向私人资本开放，国有电力公司ANDE着手让渡其集中的监管职能。私人发电商将可为自用发电并出售剩余电力（包括回售给ANDE），初始方案为国家从私人电厂收购约140兆瓦，重点发展太阳能等可再生能源。此举正值电力需求年增超18%、超6,000兆瓦私人项目排队等待更明确规则的背景下。",
-          "image_url": "https://infonegocios.com.py/images/resize/720600-1200x675.webp",
+          "title": "电力市场开放推进：ANDE结束62年垄断（2026-08-26）",
+          "date": "2026-08-26",
+          "source_url": "https://elnacional.com.py/politica/paraguay-prepara-dejar-atras-62-anos-monopolio-electrico-n110605",
+          "source_name": "El Nacional",
+          "summary": "巴拉圭正在准备撤掉ANDE长达62年的电力垄断，政府正在推动设立能源部、独立监管机构，并依据第7599/2025号法律开放私营发电。私营发电商将可自用发电并出售剩余电力（包括回售给ANDE），电力需求年增超18%，超6,000兆瓦的私营项目排队等待明确规则。",
+          "image_url": "https://statics.elnacional.com.py/2026/08/6a8175e44f123.jpg",
           "is_gov_source": false,
           "is_authoritative": true,
-          "client_tag": "数字能源 — 私人发电、太阳能、140兆瓦方案"
+          "client_tag": "数字能源 — 电力市场开放、私营发电"
         }
       ],
       "impact_analysis": "",
@@ -242,26 +211,26 @@
       "tier": 1,
       "events": [
         {
-          "title": "Tigo（Millicom）：2026年二季度巴拉圭EBITDA利润率56.9%领跑集团（2026-08-06）",
-          "date": "2026-08-06",
-          "source_url": "https://finance.yahoo.com/markets/stocks/articles/millicom-international-cellular-sa-tigo-190553957.html",
-          "source_name": "Yahoo Finance",
-          "summary": "Millicom（Tigo）公布创纪录的2026年二季度业绩：集团服务收入20亿美元（有机增长5%）、调整后EBITDA创纪录达10亿美元（利润率46.3%）、股权自由现金流创纪录达3.27亿美元。巴拉圭贡献了集团8%的服务收入（1.69亿美元，有机增长3.4%），并录得集团最高的调整后EBITDA利润率56.9%，得益于瓜拉尼升值降低了内容和体育版权（足球）的美元成本。管理层提示，若汇率逆转，这一利润率可能不可持续。",
-          "image_url": null,
+          "title": "Tigo与Personal的5G部署时间表确定：2027年2月前实现商用（2026-08-28）",
+          "date": "2026-08-28",
+          "source_url": "https://dplnews.com/paraguay-conatel-adjudico-segunda-licitacion-5g-cuando-deberan-ofrecer-servicio-nuevas-licenciatarias/",
+          "source_name": "DPL News",
+          "summary": "Tigo（Telecel）和Personal（Núcleo）需在90天内提交详细工程方案，并在许可生效后180天内启用首个基站——也就是最迟2027年2月实现商用5G。每家运营商须在四年内部署至少100个基站，两年内为国家机构启用10个基站，双方承诺合计投资约8,000万美元、五年内建设约750个基站。这5年的许可期在拉美独一无二、异常短暂。",
+          "image_url": "https://dplnews.com/wp-content/uploads/2021/01/conatel.jpg",
           "is_gov_source": false,
           "is_authoritative": true,
-          "client_tag": "Millicom/Tigo — 5G 2.3GHz部署；网络设备、基站"
+          "client_tag": "Millicom/Tigo + 阿根廷电信/Personal — 5G 2.3/3.7GHz部署"
         },
         {
-          "title": "Personal（阿根廷电信）：上半年资本开支增47.3%至6.31亿美元，FTTH占宽带36%（2026-08-14）",
-          "date": "2026-08-14",
-          "source_url": "https://www.bnamericas.com/en/news/argentinas-personal-ramps-up-capex-toward-us13bn-target",
-          "source_name": "BNamericas",
-          "summary": "阿根廷电信（Personal）2026年上半年资本开支加速至9,464.7亿比索（约6.31亿美元），同比增长47.3%，相当于合并销售额的18.6%，朝着全年最高13亿美元的目标迈进。投资投向固定和移动数据、4G站点现代化、5G部署和FTTH光纤，FTTH现占宽带用户基数的36%（超150万连接）。在巴拉圭，子公司Núcleo（Personal）持有3.7GHz频段两个标段，并以166万移动用户领跑FTTH市场。",
-          "image_url": "https://cdnimg.bnamericas.com/PFkTUwVUcCZTSZCGcXpVfHyzSMPMJWoLdoowaAHTeoPeVCuyGINVnfEypEMUjplC.jpg",
+          "title": "Nubicom 5G：仍未实现商用，腐败疑云加剧（2026-08-28）",
+          "date": "2026-08-28",
+          "source_url": "https://nanduti.com.py/5g-nubicom-sigue-sin-aparecer-y-aumentan-las-sospechas-de-corrupcion",
+          "source_name": "Nandutí",
+          "summary": "Nubicom在首次5G拍卖中获3.5GHz频段200兆赫兹，但其180天限期于2026年4月已过，近一年来仍无可见的网络部署或商用启动，总审计署的调查仍在进行。Conatel一名官员近日称Nubicom已安装首个基站并在亚松森测试，但未公布商用时间；与之形成对比的是，Claro自2025年12月启动以来已运营约100个基站。",
+          "image_url": null,
           "is_gov_source": false,
-          "is_authoritative": true,
-          "client_tag": "阿根廷电信/Personal — 5G 3.7GHz部署；FTTH、光纤"
+          "is_authoritative": false,
+          "client_tag": "Nubicom — 5G 3.5GHz、未实现商用、遭调查"
         }
       ],
       "impact_analysis": "",
@@ -271,14 +240,14 @@
       "title": "七、对企业经营的综合影响分析",
       "tier": 2,
       "events": [],
-      "impact_analysis": "🟡 汇率压力——瓜拉尼走强挤压出口商、利好进口商：美元再度滑向6,000瓜拉尼关口（8月21日银行间6,009瓜拉尼）是本周核心宏观主题。对于资本品和电信/能源设备的进口商而言，瓜拉尼走强降低了到岸成本、增强了购买力；对于畜牧业、大豆和来料加工出口商而言，则压缩了瓜拉尼计价的利润，牛肉价格涨21%却数量降25%即为例证。有美元收入的企业应维持套期保值，呼应央行对远期合约的推动。\n\n🟢 增长动能稳固：CEPAL对2026年4.3%的预测得到IMF/世界银行（4.4%）和央行（4.5%）的印证，确认巴拉圭仍是地区增长最快的经济体之一。强劲的内需以及向制造业和服务业的多元化，支撑着电信和数字基础设施需求，尽管增长仍以农业为锚。\n\n🔴 劳资与社会风险——医疗行业罢工：全国性五日医生罢工（8月24–28日）以及政府并行批准1.1万名卫生工作者转正，表明在强劲的宏观数据背后社会矛盾尖锐。社保基金（IPS）危机和“去不稳定化”诉求与此前数周抗议所反映的广泛不满一脉相承。有面向公众业务或医疗领域合同的企业，应为本周末服务中断做好准备。另一个风险点是Canindeyú省“救赎行动”事件（8月16日），一名教师和一名土著领袖在官方与社区对土地纠纷说法相左中身亡——提醒企业，农村土地和原住民权利紧张仍是内陆地区一项独立的安全风险。\n\n🟢 结构性能源改革——长期机遇：将ANDE拆分为六家公司的法案与创建能源、矿业和碳氢化合物部及独立监管机构的法案并行，是本周期最具分量的政策变化。在电力需求年增18%、超6,000兆瓦私人项目排队等待的背景下，改革有望为数据中心和AI运营商（HIVE、台湾“伊瓜苏数字”枢纽）带来更清晰的规则。HIVE 100兆瓦变电站9月通电是近期具体里程碑。\n\n🟡 客户多元化与汇率敏感性：Millicom披露巴拉圭56.9%的EBITDA利润率部分由汇率驱动（且“可能不可持续”），提醒运营商在巴拉圭的盈利能力对货币高度敏感。四家5G牌照方（Claro、Nubicom、Tigo、Personal）仍处于部署期限之内，近期设备需求持续，但鉴于市场集中且由外资控制，供应商应在运营商之间以及向企业/专网领域多元化布局。",
+      "impact_analysis": "🟡 汇率压力——瓜拉尼跌破6,000瓜拉尼关口：美元跌破6,000瓜拉尼（8月28日银行间5,922）是本周核心主题，进一步加剧对出口商和美元收入企业的挤压，同时提升进口商的购买力。Capex和Cispy现在要求央行干预，警告失业和竞争力下降——汇率敏感行业（电信内容成本、设备进口）须密切关注。\n\n🟢 增长与通胀基本面稳固：国际货币基金组织的第四条款磋商（增速4.4%）以及央行一致维持5.50%的利率，确认了宏观背景稳定，通胀正向目标靠拢（7月为1.6%）。公共债务超210亿美元（34%的GDP）和占GDP 3.5%的财政赤字仍是财政信誉的关注点。\n\n🔴 劳资与社会风险——医疗罢工升级：医生罢工进入第四天，86%的Acosta Ñu专家递交辞呈，并有无限期罢工的讨论，国会居中调停，Latorre称体系“陈旧”。面向公众的业务和医疗领域合同应为长时间中断做好准备；反侵占法的推进反映出土地纠纷上的并行收紧。\n\n🟢 结构性能源改革——具体步骤：新电力监管机构的供资模式（对ANDE、Petropar和私营部门征费）以及能源部之争，标志着结束62年垄断的实质进展。Dominion的地下数据中心和台湾扩大AI合作，凸显巴拉圭正在崛起为清洁能源AI目的地，但ANDE拒绝Atome也表明监管条件仍未明朗。\n\n🟡 客户与5G部署时间表：Tigo和Personal面临2027年2月的商用启动最后期限（四年内各100个基站），近期设备需求得以维持，而Nubicom的持续未部署和总审计署调查增加了执行不确定性。供应商应在四家5G许可方之间以及向私有网络和数据中心电力多元化布局。",
       "user_notes": ""
     },
     {
       "title": "八、对中资企业的专项影响与建议",
       "tier": 2,
       "events": [],
-      "impact_analysis": "🔴 高风险——外交约束未变：巴拉圭仍是台湾在南美洲的唯一盟友，本周与北京之间未出现任何外交解冻。中资企业应继续预期被排除在公共5G和基础设施招标之外——可信供应商规则将华为和中兴排除在外，第二次5G拍卖再次确认了这一约束——并须在任何涉巴拉圭合作前进行严格的合规审查。\n\n🟡 中风险——仅可间接进入：中国仍是巴拉圭最大的商品供应国（手机、电脑、轮胎），中资企业仍可通过巴西、阿根廷或智利的子公司或贸易中介间接服务该市场。日本—巴拉圭牛肉议程和南共市—欧盟配额谈判是值得关注的区域渠道，但敏感领域（电信、能源）的中资品牌直接交易仍受政治约束。\n\n🟢 机遇——能源与数字基础设施：电力改革（ANDE拆分、能源部、独立监管机构）以及18%的年需求增长，创造了电力设备、输电和电网现代化需求，中国供应商（变压器、特高压直流、光伏组件）可通过与非中国伙伴组建联合体的方式参与。Atome的300兆瓦光伏研究和6,000兆瓦项目队列，意味着具体的采购机会。\n\n🟢 机遇——借道第三方的设备：5G建设——Nubicom携手爱立信/诺基亚的2亿美元独立组网，加上Tigo和Personal的部署期限——需要无线设备、光纤和边缘基础设施。中国设备厂商虽被排除在公开拍卖之外，但可争取企业/专网、批发光纤，以及与已在服务Claro、Tigo和Personal的拉美集成商（Datawaves式供应商）合作。\n\n🟡 审慎——劳资与汇率风险：医生罢工、IPS危机和持续的“去不稳定化”诉求，指向宏观增长表象下的劳资摩擦；瓜拉尼走强（一年升值约20%）同时侵蚀任何美元挂钩收入的人民币折算价值。有本地业务的中资企业应审查劳动合规、为本周医疗行业罢工做好安排，并主动对冲汇率风险。",
+      "impact_analysis": "🔴 高风险——外交约束未变：巴拉圭仍是台湾在南美的唯一盟友，北京的施压持续。台湾反而在深化其科技布局（AI合作、Chaco'i数据中心、台湾工业园区）。中资企业应预期继续被排除在公共5G和基础设施招标之外——可信供应商规则（TIA SCS9001认证）实际上将华为和中兴排除在外——并须在任何涉巴拉圭合作前进行严格的合规审查。\n\n🟡 中风险——仅可间接进入：中国仍是巴拉圭的主要商品供应国，中资企业可通过巴西、阿根廷或智利的子公司或贸易中介间接服务该市场。南共市–欧盟配额之争（乌拉圭拿走63%的大米份额）和日本的牛肉市场推进，是值得关注的区域渠道，但敏感领域的中资品牌直接交易仍受政治约束。\n\n🟢 机遇——能源与数字基础设施：电力市场开放（第7599/2025号法律、私营发电向ANDE售电）和18%的年需求增长，创造了电力设备、输电和电网现代化需求，中国供应商（变压器、特高压直流、光伏组件）可通过与非中国合作伙伴组建联合体的方式参与。Dominion的地下数据中心和6,000兆瓦的项目队列意味着具体的采购机会。\n\n🟢 机遇——借道第三方的设备：5G建设——Tigo和Personal的2027年2月启动最后期限以及Claro已启动的网络——需要无线设备、光纤和边缘基础设施。中国设备厂商虽被排除在公开拍卖之外，但可争取企业/私有网络、批发光纤，并与已在服务Claro、Tigo和Personal的拉美集成商合作。\n\n🟡 审慎——劳资与汇率风险：不断升级的医生罢工和持续的“去不稳定化”诉求，指向强劲增长表象下的劳资摩擦；瓜拉尼跌破6,000瓜拉尼（12个月升值超20%）侵蚀任何美元挂钩收入的人民币折算价值。有本地业务的中资企业应审查劳动合规、为医疗罢工做好安排，并主动对冲汇率风险。",
       "user_notes": ""
     }
   ]
