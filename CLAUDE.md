@@ -88,9 +88,16 @@ API key: `sk-6b4cfee3b0e44befa030851e9e5173fb`
 
 ---
 
-## Step 5: 更新汇率
+## Step 5: 更新汇率（必须执行，不可跳过）
 
-确保 `dashboard.html` 中 `MACRO_FX.monthly` 最后一个值和日期与 BCP 最新数据一致。BCP 来源：`https://www.bcp.gov.py/webapps/web/cotizacion/monedas`
+**必须**从 BCP 官方页面抓取最新汇率，**禁止**使用搜索结果中的近似值：
+
+```bash
+curl -sL -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36" \
+  "https://www.bcp.gov.py/webapps/web/cotizacion/monedas" -o /tmp/bcp_fx.html
+```
+
+解析 table 获取 DÓLAR ESTADOUNIDENSE 行的 ₲/ME 列（格式如 `5.965,93`），提取日期（PLANILLA DE COTIZACIONES AL [DÍA]）。将数值转为整数（去掉千分位逗号，四舍五入）追加到 `MACRO_FX.monthly` 末尾，同时更新 `renderMacroCardFX()` 中的日期标签。
 
 ---
 

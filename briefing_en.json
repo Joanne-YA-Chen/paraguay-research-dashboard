@@ -1,310 +1,363 @@
 {
   "topic": "Paraguay Briefing",
-  "time_span": "September 20 – September 27, 2026",
+  "time_span": "October 19 – October 26, 2026",
   "time_label": "Last week",
+  "tiers": [
+    {
+      "name": "Part I: Key News & Developments",
+      "description": "Macro economy, politics, social security, international relations, industry and key client movements in Paraguay"
+    },
+    {
+      "name": "Part II: Analysis & Recommendations",
+      "description": "Enterprise impact assessment and China-specific strategic recommendations"
+    }
+  ],
   "sections": [
     {
       "title": "I. Macroeconomic Developments",
       "tier": 1,
       "events": [
         {
-          "title": "BCP Holds the Policy Rate at 5.50% for a Seventh Straight Meeting as Inflation Sits at 1.5% (2026-09-22)",
-          "date": "2026-09-22",
-          "source_url": "https://1000noticias.com.py/2026/09/22/bcp-mantiene-la-tasa-de-interes-en-550-anual-ante-la-baja-inflacion-y-riesgos-externos/",
-          "source_name": "1000 Noticias / BCP",
-          "summary": "The Central Bank of Paraguay's Monetary Policy Committee voted unanimously on 22 September to leave the benchmark rate at 5.50% annual, a seventh consecutive hold since the two 25bp cuts of January and February took it down from 6.00%. The BCP framed the decision as consistent with a neutral stance that neither stimulates nor brakes credit. Headline inflation ran at 1.5% year-on-year in August with core at 1.3%, far below the 3.5% ±2pp target, and the central bank projects a gradual climb to 3.3% by December 2026 before convergence at 3.5%. Activity remains the counterweight: the IMAEP monthly activity index is up 5.6% through July, in line with the 4.5% GDP growth forecast for 2026. The committee flagged Brent crude prices amid Middle East tensions, rising grain prices and a 'higher for longer' US Federal Reserve path as the main external risks. The next meeting is set for 23 October 2026.",
-          "image_url": "https://1000noticias.com.py/wp-content/uploads/2026/09/banco-cenytral-del-paraguay.jpg",
+          "title": "BCP holds policy rate at 5.50% as inflation stays at 1.7% and the 2026 growth forecast is raised to 5.0% (2026-10-23)",
+          "date": "2026-10-23",
+          "source_url": "https://www.hoy.com.py/nacionales/2026/10/24/inflacion-controlada-bcp-mantiene-tasa-de-politica-monetaria",
+          "source_name": "Diario HOY / BCP",
+          "summary": "The Central Bank's Monetary Policy Committee voted unanimously on 23 October to keep the policy rate at 5.50%, citing annual inflation of 1.7% in September (core 1.5%, monthly 0.1%) and activity growth of 6.7% year-on-year in August as measured by the IMAEP. The BCP raised its 2026 GDP growth projection from 4.5% to 5.0% and cut its end-2026 inflation forecast from 3.3% to 3.0%, with the core forecast lowered from 2.8% to 2.2%. Expectations remain anchored at 3.5%, the centre of the target range. The committee flagged external risks from Middle East geopolitical tensions, high oil prices and the prospect of higher US rates. The next policy meeting is scheduled for 20 November.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/LAI3FQURIJADFFTOVHL5M3W5VI.jpg?auth=4f30086262b51152251f00be9c2c3dca7a3ca47952f8ea7eb09d1b127bf2da92&width=1200&height=630&smart=true",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "Guaraní Breaks Through G. 5,900 to an Eight-Year High as the BCP Holds Its No-Intervention Line (2026-09-25)",
-          "date": "2026-09-25",
-          "source_url": "https://www.lanacion.com.py/negocios/2026/09/25/el-dolar-cierra-la-semana-a-la-baja-llegando-a-niveles-de-ocho-anos-atras/",
-          "source_name": "La Nación",
-          "summary": "The dollar closed the week of 25 September at G. 5,760 bid / G. 5,880 offered, comparable to levels last seen on 25 September 2018 and a fresh eight-year low. The slide accelerated through the week: G. 5,900 on 23 September (5,800/5,900, already the lowest of the year), then through the floor on 24 September at G. 5,780/5,890. The guaraní has appreciated roughly 25% against the dollar over twelve months, from above G. 8,000 in April 2025 and a 2026 opening above G. 6,600. Drivers cited by local analysts are a record 11-million-tonne soy harvest, foreign direct investment running above USD 1,000 million a year, guaraní-denominated sovereign bond issuance, border trade flows and roughly 100,000 new foreign residents a year. The BCP has refused to intervene in the spot market, offering forward contracts instead; forward volumes rose 30% year-on-year to USD 2,050 million by end-August. Analysts who had pencilled in G. 6,100 for December now concede that target looks out of reach, with some agents openly discussing a move toward G. 5,500 before any stabilisation.",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/D2M6KBCJLVF2VJQSG6Q47ATHD4.jpg?auth=76ac20dbb1162b89331cdf0c3f690a4e55b306df53d65b2676e57442bb523746&width=1200&height=630&smart=true",
-          "is_gov_source": false,
-          "is_authoritative": true
-        },
-        {
-          "title": "Exporters Quantify the Damage: ARP Puts Livestock Losses at USD 349 Million and Cispy Demands a G. 6,300–6,600 Band (2026-09-24)",
-          "date": "2026-09-24",
-          "source_url": "https://www.abc.com.py/negocios/2026/09/23/dolar-en-paraguay-por-que-baja-la-cotizacion-pese-al-endurecimiento-de-tasas-de-la-fed/",
-          "source_name": "ABC Color",
-          "summary": "As the guaraní pushed to eight-year highs, Paraguay's export lobbies escalated their campaign against the BCP's hands-off exchange-rate policy. The Asociación Rural del Paraguay (ARP) estimated the appreciation destroyed G. 2.06 trillion — about USD 349 million — of livestock production value between September 2025 and August 2026, while the Cámara de Industrias Sustentables del Paraguay (Cispy) argued the equilibrium rate should sit between G. 6,300 and G. 6,600, roughly 7% to 12% weaker than spot. Both gremios formally asked the central bank to intervene. The BCP's answer has been the forward-contract window rather than spot purchases: forward negotiations grew 30% year-on-year to USD 2,050 million by end-August, a hedge that protects the exchange rate on a specific future operation but does nothing for already-realised revenue. The standoff matters for every dollar-earning exporter, including beef, soy and maquila operators, and marks the sharpest divergence yet between the government's disinflation success and the tradable sector's margin pressure.",
-          "image_url": "https://www.ratioparaguay.com.py/wp-content/uploads/2025/12/692606d302b306d992e22fc3_dolar12.jpg",
-          "is_gov_source": false,
-          "is_authoritative": true
-        },
-        {
-          "title": "Producer Prices Stall in August with the Index Down 1.7% Year-on-Year, Reinforcing the Disinflation Picture (2026-09-26)",
-          "date": "2026-09-26",
-          "source_url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/09/26/el-indice-de-precios-del-productor-se-estanco/",
+          "title": "October BCP survey keeps 2026 inflation at 3.0% and cuts the end-year exchange-rate forecast to G. 5,905/USD (2026-10-19)",
+          "date": "2026-10-19",
+          "source_url": "https://www.lanacion.com.py/negocios/2026/10/19/mercado-financiero-mantiene-prevision-de-inflacion-en-3-y-un-dolar-a-g-5905-para-fin-de-ano/",
           "source_name": "La Nación / BCP",
-          "summary": "Paraguay's Producer Price Index was flat in August, with a 0.0% monthly variation, a cumulative -0.7% for the year to date and -1.7% year-on-year, according to BCP data published on 26 September. The stagnation upstream is the clearest confirmation yet that the disinflation running through the consumer index — headline CPI at 1.5% year-on-year in August, core at 1.3% — is not a one-off driven by a single volatile item but reflects genuine price weakness through the production chain. Combined with the appreciation of the guaraní, which mechanically lowers the local-currency cost of imported inputs, the reading explains why the BCP felt no pressure to move the policy rate at its 22 September meeting and why analysts cut their end-2026 inflation forecast to 3.0% in the September EVE survey. For industrial and agribusiness operators the signal is twofold: input costs are stable to falling, but so is the pricing power on output, squeezing margins from both directions in a strong-guaraní environment.",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/DCKYZJGJX5D7ROE762U3TYACJU.jpg?auth=c6974d66a7c80697537e126eb311772f2c186bbd5b7d55637d745a6f5d040b25&width=1200&height=630&smart=true",
+          "summary": "The BCP's October Survey of Economic Variables Expectations, collected to 9 October, keeps median end-2026 inflation at 3.0% and the 2027 and twelve-month horizons at 3.5%. Respondents expect monthly inflation of 0.2% in October and 0.3% in November, GDP growth of 4.5% in 2026 and 4.0% in 2027, and a policy rate of 5.50% through end-2026 before easing to 5.25% at end-2027. The exchange-rate median was cut sharply to G. 5,815 for October, G. 5,850 for November, G. 5,905 at end-2026 and G. 6,185 at end-2027, from G. 6,100 for end-2026 in the September survey, reflecting the guaraní's continued appreciation.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/XFS46ES2PVCL5PUAQNBLN2ROOU.jpg?auth=8e3732ac4ca06ae27c8c4736ca5cedd396376adb3f397e7582cb24743c90c647&width=1200&height=630&smart=true",
+          "is_gov_source": false,
+          "is_authoritative": true
+        },
+        {
+          "title": "Fiscal deficit reaches 2.0% of GDP through September, 3.0% annualised, as revenues grow only 1.6% (2026-10-20)",
+          "date": "2026-10-20",
+          "source_url": "https://www.mef.gov.py/sites/default/files/2026-10/Pres%20SITUFIN%20Sept-26_vf.pdf",
+          "source_name": "Ministry of Economy and Finance (MEF)",
+          "summary": "The September public-finance report puts the January-September central-government deficit at G. 7.82 trillion (USD 1,257.8 million), equal to 2.0% of GDP versus 0.9% in the same period of 2025. On an annualised basis the gap reaches about 3.0% of GDP, close to USD 2.0 billion, and the MEF projects 3.2% for the full year against an original 1.5% target. Revenue rose only 1.6% while trade-related taxes fell 11% and Itaipú royalties and compensation dropped 25.9%, both hit by the guaraní's 11.9% appreciation through September. Wages, pensions and debt service absorb close to 70% of public financing, and the Caja Fiscal pension scheme shows a deficit above 43% of its annual budget.",
+          "image_url": "https://www.latribuna.com.py/resizer/v2/4FRYCYCLRZD6ZAJU5BDX7NBOGE.png?smart=true&auth=2b202d8328612e0325b868d993e8f1f30ba2047f700814e8c83cc6cfff6d211c&width=1200&height=630",
+          "is_gov_source": true,
+          "is_authoritative": true
+        },
+        {
+          "title": "Guaraní closes the week near G. 5,776/USD after touching a multi-year low, squeezing exporters and fiscal revenue (2026-10-23)",
+          "date": "2026-10-23",
+          "source_url": "https://www.lanacion.com.py/negocios/2026/10/23/el-dolar-vive-una-jornada-con-fluctuaciones-y-cierra-a-la-baja/",
+          "source_name": "La Nación / BCP",
+          "summary": "The BCP's weighted-average reference rate was G. 5,764.73 per dollar on 23 October, with the 13:00 quote at G. 5,776.68, after G. 5,801.08 on 22 October and a multi-year low of about G. 5,694 on 13 October. The guaraní has appreciated 11.9% year-to-date through September, one of the strongest performances in the region, and the central bank has not intervened in the spot market. Exporters warn that margins are being compressed and that dollar revenues converted into guaraníes no longer cover local costs, while the Treasury loses guaraní revenue from trade taxes and Itaipú royalties. The October survey still sees G. 5,905 at end-2026, implying only a modest correction from current levels.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/JZDK55VSOVEYBMS6WW6YFHGTXQ.jpg?auth=06912091bd769eb2f95c7a71b0e2a0a93b59ec77c40472049a6bf40f243f0927&width=1200&height=630&smart=true",
+          "is_gov_source": false,
+          "is_authoritative": true
+        },
+        {
+          "title": "September exports rise 25.4% to USD 1,834M but the monthly trade deficit widens to USD 118.2M; January-September surplus reaches USD 712M (2026-10-20)",
+          "date": "2026-10-20",
+          "source_url": "https://www.bcp.gov.py/en/web/institucional/w/reporte-de-comercio-exterior-septiembre-2026/-/categories/111282",
+          "source_name": "Central Bank of Paraguay (BCP)",
+          "summary": "Paraguay exported USD 1,834.1 million in September, up 25.4% year-on-year, with primary products up 20.9%, agro-industrial manufactures up 23.4% and industrial manufactures up 41.6%. Imports reached USD 1,952.2 million, up 23.5%, driven by consumption goods (+20.9%), intermediate goods (+41.4%) and capital goods (+11.7%), leaving a monthly deficit of USD 118.16 million, slightly above the USD 117.73 million gap a year earlier. For January-September, exports totalled USD 15,972.6 million (+25.7%) and imports USD 15,260.6 million (+15%), producing a cumulative surplus of USD 712 million compared with a USD 555.5 million deficit in 2025. Soy and its derivatives account for 41% of exports and rose 45.1% to USD 3,107.2 million.",
+          "image_url": "https://marketdata.com.py/wp-content/uploads/2026/10/portada_web_MD-03.jpg-45.jpeg",
           "is_gov_source": true,
           "is_authoritative": true
         }
-      ]
+      ],
+      "impact_analysis": "",
+      "user_notes": ""
     },
     {
       "title": "II. Political & Policy Developments",
       "tier": 1,
       "events": [
         {
-          "title": "Cellphone Ban in Schools Becomes Law by Automatic Sanction After Deputies Fail to Reach Quorum (2026-09-25)",
-          "date": "2026-09-25",
-          "source_url": "https://www.hoy.com.py/nacionales/2026/09/25/queda-sancionada-la-ley-que-prohibe-celulares-en-las-escuelas",
-          "source_name": "Diario HOY",
-          "summary": "On Friday 25 September the bill banning cellphones in Paraguayan schools became law by sanción ficta — automatic sanction — after the Chamber of Deputies lost quorum and failed to act within the constitutional deadline. The law bans students from using phones, smartwatches, tablets and wireless earphones anywhere on school grounds, at any time, including breaks, and extends the prohibition to teachers and educational staff. It covers public, private and subsidised institutions from the initial level upward but excludes universities, and was diluted from the original total-prohibition text pushed by Deputy José Rodríguez into a lesser restriction in the Senate. Three exceptions apply: medical or security emergencies, planned pedagogical activities under direct teacher supervision with head-office authorisation, and accessibility support for students with disabilities. The text now sits with President Santiago Peña, who may promulgate it as is or issue a total or partial veto; the extension of the ban to adults is the provision most likely to attract a partial veto. Implementation falls to the MEC and MITIC, which must draft the enabling regulation for gradual rollout. Paraguay joins Brazil, Chile and France in restricting screens in classrooms.",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/P6CIOOKR55GBNDPGTFFXVII77E.jpg?auth=5960c986ffba7e85be6636ce7d0a103157bf1745f98cf7da919e411e6c2ac9d5&width=1200&height=630&smart=true",
+          "title": "MEF presents a G. 166.3 trillion 2027 budget to the bicameral committee, with a 3.9% deficit and USD 2.1 billion of new debt (2026-10-22)",
+          "date": "2026-10-22",
+          "source_url": "https://www.lanacion.com.py/politica/2026/10/22/pgn-2027-titular-del-mef-expone-sus-prioridades-ante-la-bicameral/",
+          "source_name": "La Nación",
+          "summary": "Economy Minister Óscar Lovera presented the 2027 budget priorities to the bicameral budget committee on 22 October. The draft totals G. 166.32 trillion (about USD 25.75 billion), 11.2% above the 2026 approved budget, and projects a 3.9% of GDP deficit under an exceptional escape from the 1.5% fiscal-responsibility limit. New borrowing is about USD 2.1 billion, with total financing needs including refinancing near USD 2.8 billion. Health receives 62% of the spending increase (over USD 1.2 billion, 78% of it to clear accumulated arrears), pensions rise 20%, and an addendum includes a 5% teacher pay increase worth USD 47 million. The bill remained in committee with no floor vote in either chamber.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/2XZDWLEGBVGA7GWCMCAI35BKGU.jpeg?auth=5fabc857fe077db9184c2c448c0d5357385cffce42fae5e397cea41ea561e3f9&width=1200&height=630&smart=true",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "Deputies Sanction the National Evangelical Church Day, Adding the Last Sunday of October to the School Calendar (2026-09-22)",
-          "date": "2026-09-22",
-          "source_url": "https://www.diputados.gov.py/noticias/noticias/2934",
-          "source_name": "Cámara de Diputados",
-          "summary": "The Chamber of Deputies sanctioned on 22 September the bill declaring the last Sunday of October each year as Paraguay's National Evangelical Church Day, completing congressional passage after the Senate approved it with modifications on 26 August. The original proposal set 31 October, coinciding with the Protestant Reformation, but was moved to the final Sunday of the month during Senate review. Sponsored by senators Orlando Penner, Lizarella Valiente, Blanca Ovelar and Gustavo Leite, the text instructs the Ministry of Education and Sciences (MEC) to incorporate the date into the national school calendar. The bill has been sent to the Executive for promulgation. The measure reflects the growing political weight of Paraguay's evangelical churches, a constituency that has expanded rapidly over the past two decades and now features prominently in Colorado Party electoral arithmetic ahead of the 4 October municipal vote and the 2028 general election. It is a low-cost, high-visibility concession that carries no fiscal impact.",
-          "image_url": "https://cms.evangelicodigital.com/upload/imagenes/6ab2d6b1c2f0f_paraguaydiputadosG.jpg",
-          "is_gov_source": true,
-          "is_authoritative": true
-        },
-        {
-          "title": "Municipal Campaign Enters Its Final Week: Camilo Pérez Claims a 20-Point Lead in Asunción and the TSJE Begins Deploying 14,711 Ballot Kits (2026-09-27)",
-          "date": "2026-09-27",
-          "source_url": "https://www.latribuna.com.py/politica/2026/09/25/lt-breves-tsje-y-candidatos-ultiman-detalles-rumbo-al-4-de-octubre/",
-          "source_name": "La Tribuna / TSJE",
-          "summary": "With the 4 October municipal elections a week away, the campaign entered its closing phase and the electoral machinery began to move. The Superior Tribunal of Electoral Justice (TSJE) started loading 14,711 ballot kits on 27 September, with deployment beginning toward Alto Paraguay and finishing in the Capital on 3 October, using 539 medium vehicles, 130 vans and 25 heavy vehicles. In Asunción, Colorado Party candidate Camilo Pérez — running on the 'Asu puede cambiar' slogan under Lista 1, with Deputy Speaker Raúl Latorre as campaign chief and Turi Capello as deputy coordinator — is scheduled to close his campaign with a large motorcade on Monday 28 September. Latorre said internal polling gives Pérez an average lead of around 20 points in the capital, and Pérez claims a base of 81,446 votes. He met ANR president Horacio Cartes in the final stretch and received a public endorsement. Opposition candidate Soledad Núñez, of the Alianza Unidos por Asunción, is campaigning on anti-continuity, transparency, traffic, waste management and youth issues, and has demanded auditors be present. The vote will be the first nationwide electoral test since the 2023 general election and a bellwether for the internal balance of the Colorado Party ahead of 2028.",
-          "image_url": "https://www.latribuna.com.py/resizer/v2/7ZV7KM6JOVECJKKFSAN45EPAVQ.jpeg?smart=true&auth=b5df189032da4dae8595eda95b75a8a4dcf12bbfcfee8ec9bf438f17b0d6697e&width=1200&height=630",
+          "title": "Peña defends BCP independence and promises to work with opposition mayors during his final 22 months (2026-10-20)",
+          "date": "2026-10-20",
+          "source_url": "https://www.lapoliticaonline.com/paraguay/politica-py/pena-insiste-en-la-autonomia-del-bcp-y-promete-no-relegar-a-los-intendentes-opositores-2444/",
+          "source_name": "La Política Online",
+          "summary": "At the Council of Ministers on 20 October, President Santiago Peña defended the Central Bank's autonomy amid congressional pressure over monetary and exchange-rate policy, and pledged not to sideline opposition mayors in the remaining 22 months of his term. He set a goal of advancing \"with a firm step\" on investment and public management, while acknowledging tensions within the ruling Colorado Party over the 2027 budget and the 2028 succession. The statement is significant for investors because it signals continuity at the BCP and a willingness to keep mayors of other parties inside the public-investment pipeline ahead of the municipal and general electoral cycle.",
+          "image_url": "https://www.lapoliticaonline.com/files/image/303/303369/6ad7cb1fd1739_1200_630!.jpg?s=175654059d314a5864d128791c2266b9&d=1792465200",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "Nenecho Rodríguez Gives Soledad Núñez 24 Hours to Retract a 'Robbery' Accusation and Warns of 'Consequences' (2026-09-25)",
-          "date": "2026-09-25",
-          "source_url": "https://www.abc.com.py/politica/2026/09/25/molesto-por-acusacion-de-robo-nenecho-emplaza-a-soledad-nunez/",
-          "source_name": "ABC Color",
-          "summary": "The Asunción mayoral race took a sharply personal turn on 25 September when former mayor Óscar 'Nenecho' Rodríguez gave opposition candidate Soledad Núñez 24 hours to delete a campaign post accusing him of robbery, warning of 'consequences' if she did not. The confrontation injects the city's recent municipal administration — Rodríguez was suspended and later removed amid a corruption case over the handling of municipal bond proceeds — directly into the closing days of a campaign that had until then been fought largely on continuity versus change. It also cuts across the Colorado camp, since Rodríguez remains a polarising figure within the party while the official candidate, Camilo Pérez, campaigns on a clean-break platform with Cartes' backing. Núñez's team has framed the exchange as evidence that the outgoing administration wants to litigate rather than debate. With a poll-publication blackout in force until election day, statements like this are among the few remaining signals voters will see before 4 October.",
-          "image_url": "https://grupovierci.brightspotcdn.com/dims4/default/29db623/2147483647/strip/true/crop/765x430+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F11%2Fa2%2F6ed257fb47b6992b731effbf03b4%2Fuhpol20260926-005b-ph01-1054.jpg",
+          "title": "Peña outlines solar and small modular nuclear plans, positioning energy as the anchor of the next investment cycle (2026-10-22)",
+          "date": "2026-10-22",
+          "source_url": "https://www.lanacion.com.py/politica/2026/10/22/pena-proyecta-energia-solar-y-nuclear-para-asegurar-el-futuro-energetico-de-paraguay/",
+          "source_name": "La Nación",
+          "summary": "President Peña said his government will develop solar generation and small modular reactors to guarantee long-term electricity supply, and confirmed that a US company is exploring uranium deposits. The plan is presented as complementary to Itaipú hydropower and aimed at data-centre and industrial demand, following the Crusoe-Araico announcement and the Yguazú Digital project. The ANDE has already signed a 15-year supply contract of up to 286 MW for a data centre. Critics, including the ANDE workers' union and Brazilian politicians, warn that preferential tariffs and large-scale consumption could accelerate an energy deficit toward 2030 and that the agreements lack public disclosure.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/ICG7I22XXFD7PCKPNBXJNBOPEQ.jpg?auth=4ad6e6301c12cbf5ee7fb683f1c22f2ad1557f509ce6db35c8301f45afa7a06c&width=1200&height=630&smart=true",
+          "is_gov_source": false,
+          "is_authoritative": true
+        },
+        {
+          "title": "Deputies fast-track a bill imposing up to 90 years in prison; a separate financial-panic bill advances amid censorship concerns (2026-10-23)",
+          "date": "2026-10-23",
+          "source_url": "https://elnacional.com.py/politica/cadena-perpetua-rubin-logra-prioridad-tratar-su-proyecto-asesinos-violadores-n113936",
+          "source_name": "El Nacional",
+          "summary": "The Chamber of Deputies granted a 15-day priority motion to a bill by Deputy Rubén Rubín that would impose sentences of up to 90 years, with review after 50 years served, for aggravated homicide including femicide, parricide, contract killing and terrorism, as well as sexual crimes, aggravated robbery and certain frauds. Separately, ruling-party Deputy Alejandro Aguilera presented a bill punishing with up to 10 years anyone who deliberately spreads false information capable of triggering bank runs; the opposition called it censorship. The Senate legislation committee also recommended raising penalties for organised cattle rustling to 15 years and expanding the age range in sexual-crime articles. None of the bills is law yet.",
+          "image_url": "https://www.lapoliticaonline.com/files/image/302/302355/6acd1da36817c_1200_630!.jpg?s=e626c450735c1324a7d87902f04964e2&d=1791828936",
           "is_gov_source": false,
           "is_authoritative": true
         }
-      ]
+      ],
+      "impact_analysis": "",
+      "user_notes": ""
     },
     {
       "title": "III. Social & Security Landscape",
       "tier": 1,
       "events": [
         {
-          "title": "Health Workers Escalate: 28 Organisations Demand a 50% Raise and a Health Career Path, Threaten a National Strike (2026-09-22)",
-          "date": "2026-09-22",
-          "source_url": "https://www.adndigital.com.py/trabajadores-de-salud-endurecen-protesta-y-analizan-ir-a-un-paro-nacional/",
-          "source_name": "ADN Digital",
-          "summary": "The Federación Nacional de Trabajadores de la Salud (FNTS) and 28 allied organisations mobilised outside the Ministry of Public Health in Asunción on 22 September, grouping biochemists, dentists, radiologists, physiotherapists, obstetricians and anaesthetists — a base of roughly 45,000 to 49,000 workers. Their demands are a 50% salary adjustment and implementation of the long-promised carrera sanitaria (health career ladder); they argue pay has been frozen for 14 years and has lost about 77% of its purchasing power. The protest temporarily closed Avenida Silvio Pettirossi and marched toward Congress, where leaders discussed calling a national strike and even shutting down laboratories. Representatives met newly appointed Health Minister Isaías Fretes, who cited budget constraints; negotiations were adjourned to 3 October while the mobilisations continue. The dispute is the direct sequel to the doctors' conflict that cost former minister María Teresa Barán her job in mid-September and forced a G. 2,000,000 flat raise for physicians — a settlement that non-physician health staff now cite as the precedent justifying their own claim. The fiscal cost of extending an equivalent raise across some 45,000-plus workers is precisely the pressure the 2027 budget does not accommodate.",
-          "image_url": "https://grupovierci.brightspotcdn.com/dims4/default/103643a/2147483647/strip/true/crop/1599x899+0+83/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F42%2Fd1%2F82e0754b481e9a679a0cfe458ecf%2Fhuelga-de-trabajadores-de-la-salud-1.jpg",
+          "title": "PCC-linked commando kills a woman and abducts a man in Pedro Juan Caballero; the body is found later (2026-10-19)",
+          "date": "2026-10-19",
+          "source_url": "https://www.ultimahora.com/rastrean-a-soldados-del-pcc-tras-mortal-ataque-en-pedro-juan-caballero",
+          "source_name": "Última Hora",
+          "summary": "About ten armed men stormed a home in Barrio Obrero, Pedro Juan Caballero, on Monday 19 October, killing Carolina Benítez Arce, 27, and abducting Marcelo Ruan Ortiz Lázaro, 26, whose body was later found on a rural road. Prosecutors and the homicide department raided an apartment complex in Virgen de Caacupé and seized the building's DVR, which showed a white Toyota Fortuner leaving with the hit squad. A suspect, Eder Eligio Gómez Torres, was identified and remains at large. Investigators link the attack to a dispute between drug-trafficking groups with ties to the First Capital Command (PCC), underlining the persistence of organised-crime violence on the Brazilian border.",
+          "image_url": "https://grupovierci.brightspotcdn.com/dims4/default/31e9a66/2147483647/strip/true/crop/1280x720+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fed%2F05%2Fea45885045718c4b3b7290390571%2Famambay-pjc-pcc.jpeg",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "Interior Ministry Launches a Technology-Driven Security Plan for Ciudad del Este with Drones, Facial Recognition and 45 New Patrol Cars (2026-09-24)",
-          "date": "2026-09-24",
-          "source_url": "https://www.hoy.com.py/nacionales/2026/09/24/policia-lanza-plan-de-seguridad-para-contrarrestar-incesante-delincuencia-en-cde",
-          "source_name": "Diario HOY",
-          "summary": "Interior Minister Enrique Riera and National Police commander César Silguero presented the 'Plan de Seguridad para la Capital Departamental' in Ciudad del Este on 24 September, alongside Alto Paraná governor César 'Landy' Torres and the local chamber of commerce. The plan's core is technology: deeper integration with the 911 system including a new Ciudad del Este call centre due in November, an expanded video-surveillance grid of more than 100 smart cameras with facial and licence-plate recognition, geo-positioning of police resources, four donated drones (three covering the city centre, one at police headquarters, with 3,000-metre altitude and roughly 30 km range), body cameras for Grupo Lince motorcycle units, portable radios for the GEO tactical unit, and a 'Botón Lince' panic button. The force reinforcement adds 45 patrol vehicles and 40 officers plus motorcycles and 25 walkie-talkies. The same event inaugurated the new Grupo Lince tactical motorcycle headquarters on the Alto Paraná governorate site, a ground-plus-two-floor building for more than 80 officers to be completed within about 45 days. Riera separately announced a USD 92 million three-year police modernisation programme covering 500 patrol cars, 10,000 weapons and vests and 16 new police headquarters. The plan responds to a sustained crime wave in Alto Paraná — a water distributor in Minga Guazú was robbed of a safe, a shotgun and a pickup just before the presentation, and a car was stolen in the Ciudad del Este micro-centre.",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/X5VKDRCLLJD7BJRPMQQ3EBZBTY.jpg?auth=469f4a0a30210fb7df1e87ccd353c12061c8f455b004b6874e37b86fc805168d&width=1200&height=630&smart=true",
-          "is_gov_source": false,
-          "is_authoritative": true
-        },
-        {
-          "title": "Operation Aurelia Dismantles a Gold-Trafficking Ring Routing Amazon Gold to Turkey via Panama, Seizing USD 7 Million and Jailing Four (2026-09-25)",
-          "date": "2026-09-25",
-          "source_url": "https://www.lanacion.com.py/pais/2026/09/24/operativo-aurelia-tras-serie-de-allanamientos-detienen-a-cuatro-personas-por-trafico-de-oro/",
-          "source_name": "La Nación / Fiscalía",
-          "summary": "On 24 September police and prosecutors executed Operation Aurelia, roughly eight to ten simultaneous raids across Asunción and the Central department — including the Carmelitas and Manorá neighbourhoods, Ypané, Limpio, Fernando de la Mora, Luque and Silvio Pettirossi International Airport — against an international gold-smuggling and money-laundering network. Four people were detained: Jessica Carolina Aguilera Riquelme (36, Paraguayan), Ali Kaied (19, Syrian-Paraguayan), Walid Kadhim (53, Swedish-Iraqi, with prior Brazilian record for irregular gold transport) and Karol Magalí Núñez Alarcón (23, Paraguayan). The alleged ringleader, Iraqi national Laith Alzayek, a 20-year resident of Paraguay with prior records for ingot theft in Turkey and contraband in Brazil, remains at large, with between three and nine further arrest warrants outstanding. The scheme moved high-purity (~99%) gold from illegal mines in the Brazilian Amazon through Paraguay as a transit country, then on to Panama and Dubai before reaching Istanbul on commercial flights, following an Asunción–Panamá–Estambul route with a return leg via Dubai and São Paulo. Investigators are probing links to Brazil's PCC and Comando Vermelho. Assets worth an estimated USD 7 million were seized, including luxury vehicles, multiple currencies, jewellery, weapons, precision scales, spectrometers and electronics. A judge ordered preventive detention for the four on 25 September on contraband and criminal-association charges. The case traces back to two earlier airport seizures of 22 kg in November 2025 and 27 kg in April 2026.",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/Q3SCUM4SDJEJHGBXBN42W53JGQ.png?auth=4d76a9c75fca4655297cf0d012a8b1e010cc8d966a00c3c5609ba24e2fcff071&width=1200&height=630&smart=true",
-          "is_gov_source": false,
-          "is_authoritative": true
-        },
-        {
-          "title": "Armed Gang Steals a Safe and a Pickup from a Minga Guazú Water Company as Alto Paraná's Robbery Wave Continues (2026-09-24)",
-          "date": "2026-09-24",
-          "source_url": "https://www.lanacion.com.py/pais/2026/09/24/policia-analiza-imagenes-de-cctv-tras-robo-de-caja-fuerte-y-vehiculo-a-empresa/",
+          "title": "Three raids in Minga Guazú over an assault on a Brazilian family; two suspects arrested (2026-10-20)",
+          "date": "2026-10-20",
+          "source_url": "https://cdn-www.lanacionpy.arcpublishing.com/pais/2026/10/20/allanan-tres-casas-y-detienen-a-dos-supuestos-miembros-de-la-banda-que-ejecuto-dos-asaltos/",
           "source_name": "La Nación",
-          "summary": "Three to four armed men assaulted the Seltz water company in Minga Guazú, Alto Paraná, overpowering security guard Gabriel Paredes Miranda and escaping with a safe containing close to G. 100 million, a Mitsubishi Montero pickup and a shotgun. The vehicle was later found abandoned in Ciudad del Este; police are reviewing CCTV footage under prosecutor Osvaldo Zaracho. The robbery was one of a string of incidents across the department in the same week: a daylight motochorro robbery of roughly G. 11 million from a payment kiosk in J. Augusto Saldívar, an assault in Mariano Roque Alonso by three men posing as anti-narcotics police who robbed an 88-year-old woman and her grandson of G. 500,000 and two phones, and a recycler shot twice and hospitalised after being robbed of G. 15 million in Remansito, Villa Hayes. The pattern — small, violent, low-risk crews operating with impunity in the country's second economic pole — is what the new Ciudad del Este security plan is designed to reverse, and explains why business associations in Alto Paraná have been the loudest voices demanding the technology-led response.",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/DWJSZY55YNEWZK5UBQQCCGZOEE.jpg?auth=c83ad7ecb99c48532fbadef9f61308a374030116f6ff07b5d8979f202931083b&width=1200&height=630&smart=true",
+          "summary": "Police raided three properties in Minga Guazú, Alto Paraná, on 20 October in connection with an armed assault on a Brazilian family and a second robbery, arresting two alleged gang members. Officers seized ammunition, tactical clothing, mobile phones, a DVR, a Fiat Strada pickup, a drone, vehicle plates and registration documents. The operation is part of a broader push against armed robbery networks operating in the tri-border area, where criminal groups exploit the same logistics corridors used by legitimate trade. The case adds to a run of violent incidents in Alto Paraná that has prompted calls for a stronger police and military presence in the department.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/OZ3YRGHTUVAPHGDL5XBNGJJIKY.jfif?auth=a53092510681df4ad88f7dc91c83df55f41380ab1f06cbd4ca65af53119e46dd&width=1200&height=630&smart=true",
+          "is_gov_source": false,
+          "is_authoritative": true
+        },
+        {
+          "title": "SENAD Operation IGNIS arrests an alleged close operative of \"Macho\" in Canindeyú (2026-10-22)",
+          "date": "2026-10-22",
+          "source_url": "https://www.lanacion.com.py/pais/2026/10/22/cayo-jose-ignacio-hermoza-mano-derecha-y-nexo-logistico-de-macho-en-canindeyu/",
+          "source_name": "La Nación",
+          "summary": "On 22 October the anti-drug secretariat SENAD, supported by the CODI special forces, the FTC, SAP 5 and BIMI, detained José Ignacio Hermoza Ledesma, known as \"Nacho\", on a rural property in Colonia Americana, Corpus Christi department of Canindeyú. He is accused of being a close collaborator of Felipe Santiago Acosta Riveros, alias \"Macho\", one of the country's most wanted alleged traffickers. Two mobile phones were seized. The operation follows a series of raids against the \"Macho\" network and signals continuing pressure on cannabis and cocaine routes in the northern border departments, a region where illegal armed groups and cattle rustling overlap.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/AX4RDRJAWZHHLB74TCY5HIS3UQ.jpg?auth=3c5c6eb9cdb3a3d0094f29b7cd24a641be377299ac0567d2e3c3627146802803&width=1200&height=630&smart=true",
+          "is_gov_source": false,
+          "is_authoritative": true
+        },
+        {
+          "title": "Paraná floods displace 1,988 families and affect 4,253 across four departments (2026-10-21)",
+          "date": "2026-10-21",
+          "source_url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/21/unas-4200-familias-afectadas-por-crecida/",
+          "source_name": "La Nación / SEN",
+          "summary": "The National Emergency Secretariat reported on 20-21 October that 4,253 families had been affected by the Paraná river flood in Itapúa, Misiones, Alto Paraná and Ñeembucú. Of these, 1,988 families had been evacuated, 1,369 were receiving assistance and 2,672 were still waiting for help; Alto Paraná was the hardest-hit department, followed by Ñeembucú. In Ayolas the river stood near 6.40 metres with 3,438 people in 14 shelters. Itaipú and Yacyretá opened spillways, 14 migration posts were temporarily closed, and forecasts of up to 150 millimetres of additional rain threatened to worsen conditions over the weekend. The flood is disrupting road access and port operations in the south and east.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/XQBI4SN4XBGIBLDNCQKB5CM7YU.jpg?auth=420e05f8d74ee33cc2fd4cc91c4ba198a16df6c0eb434b392634b257db103cc3&width=1200&height=630&smart=true",
+          "is_gov_source": false,
+          "is_authoritative": true
+        },
+        {
+          "title": "SENAD raids an Asunción barbershop-tattoo studio used as a cocaine front; 199 grams seized (2026-10-23)",
+          "date": "2026-10-23",
+          "source_url": "https://www.lanacion.com.py/pais/2026/10/22/entre-tijeras-y-cocaina-cae-un-barbero-sospechoso-de-vender-drogas/",
+          "source_name": "La Nación",
+          "summary": "On 23 October SENAD agents raided a barbershop and tattoo studio in Barrio Obrero, Asunción, that was allegedly used as a front for retail cocaine sales. Officers seized 199 grams of cocaine, cash and other evidence and detained one person. The case is part of a push against micro-trafficking points in the capital's central neighbourhoods, which have multiplied as larger trafficking networks fragment into retail distribution. For companies operating in Asunción, the raid is a reminder that petty crime and drug retailing remain concentrated in specific central and peri-central neighbourhoods.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/GQMG7VMA7ZDBVK24T7GK4YMNQY.jpg?auth=15e2ef17c6088f60180748f9fd7e71f44bc4ae5a82c5910fafa7ad339c6117a3&width=1200&height=630&smart=true",
           "is_gov_source": false,
           "is_authoritative": true
         }
-      ]
+      ],
+      "impact_analysis": "",
+      "user_notes": ""
     },
     {
       "title": "IV. International Relations & Diplomacy",
       "tier": 1,
       "events": [
         {
-          "title": "Peña at the UN General Assembly: Security Council Reform, a Latin American Secretary-General, and Free Elections in Venezuela, Cuba, Nicaragua and Haiti (2026-09-23)",
-          "date": "2026-09-23",
-          "source_url": "https://www.hoy.com.py/nacionales/2026/09/23/venezuela-apertura-de-ormuz-y-apoyo-a-taiwan-el-discurso-de-pena-en-la-onu",
-          "source_name": "Diario HOY / United Nations",
-          "summary": "Addressing the General Debate of the 81st UN General Assembly in New York on 23 September, President Santiago Peña called for the next UN Secretary-General to come from Latin America and the Caribbean, and argued the Security Council must be reformed because it is 'directed by only a few' and 'must stop being a pretty photograph of the world of 1945'. He defended his recent visit to Caracas — made despite suspended diplomatic relations — as opening a dialogue channel aimed at a democratic transition and Venezuela's eventual reintegration into the international community and Mercosur, insisting 'I did not go to Venezuela to validate a regime', and called for free elections in Venezuela, Cuba, Nicaragua and Haiti. He urged an immediate halt to hostilities and full freedom of navigation through the Strait of Hormuz and Bab el-Mandeb, warning of the food and energy security consequences for the most vulnerable. On artificial intelligence he said AI must serve human dignity rather than replace it, and that human responsibility over decisions must be preserved. The overarching message was that 'people no longer want slogans, they want solutions', paired with domestic achievements he cited as proof: investment grade, falling unemployment and a historic reduction in poverty. Peña also thanked Taiwan's authorities, who publicly acknowledged the support.",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/BLSL5YICZFCDVGT6WQVPK2NEFE.jpg?auth=fe09cdb05166dba0b55e2ccbdde7e83d89e7b51f9f52554c8da92ea6f945cac3&width=1200&height=630&smart=true",
+          "title": "US opens an INL anti-narcotics office in Asunción, its first Southern Cone regional hub, with a USD 11.75 million package (2026-10-21)",
+          "date": "2026-10-21",
+          "source_url": "https://www.abc.com.py/politica/2026/10/21/eeuu-abrira-en-paraguay-la-oficina-de-asuntos-internacionales-de-narcoticos-y-donara-us-65-millones/",
+          "source_name": "ABC Color / US State Department",
+          "summary": "At the end of Under Secretary Christopher Landau's visit on 19-21 October, Washington announced the creation of the first INL (Bureau of International Narcotics and Law Enforcement Affairs) office in Asunción, which will also coordinate INL programmes across the Southern Cone. The package totals USD 11.75 million: USD 6.25 million against transnational organised crime and USD 5.5 million against terrorist financing and narco-terrorism, including a new counter-terrorism centre. The two governments signed an air-interdiction assistance agreement and a memorandum to implement the PISCES migration and border-control system. A regional counter-terrorism adviser will be posted to Asunción for the first time. The moves sit under Washington's \"Shield of the Americas\" framework.",
+          "image_url": "https://www.state.gov/wp-content/uploads/2025/01/Press_Release_Alabaster.png",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "Taiwan Thanks Paraguay for UN Backing as Peña Meets TaiwanICDF in New York to Advance the Yguazú Digital AI Project (2026-09-24)",
-          "date": "2026-09-24",
-          "source_url": "https://www.lanacion.com.py/politica/2026/09/24/autoridades-de-taiwan-agradecen-respaldo-de-pena-en-discurso-ante-la-onu/",
+          "title": "Paraguay becomes the 26th signatory of the US-led Pax Silica AI supply-chain coalition (2026-10-23)",
+          "date": "2026-10-23",
+          "source_url": "https://www.abc.com.py/internacionales/2026/10/23/paraguay-se-une-a-pax-silica-la-alianza-de-eeuu-para-la-cadena-de-suministro-de-la-ia/",
+          "source_name": "ABC Color",
+          "summary": "President Peña announced on 23 October that Paraguay had joined Pax Silica, the US-led coalition on artificial-intelligence supply chains, becoming its 26th signatory. Foreign Minister Rubén Ramírez Lezcano and US Under Secretary for Economic Affairs Jacob Helberg signed the declaration at the State Department. Peña framed the move as part of a shift \"from being technology consumers to technology producers\", leveraging Paraguay's hydropower and critical minerals. The accession complements the data-centre and semiconductor-supply discussions held during his Washington visit and deepens Paraguay's alignment with US technology policy, a stance that carries explicit risk in its relations with China.",
+          "image_url": "https://grupovierci.brightspotcdn.com/dims4/default/3db6e14/2147483647/strip/true/crop/1120x630+32+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fde%2F5d%2F682717d345b19349c07683188a15%2Fruben-ramirez-lezcano-y-el-subsecretario-de-estado-e-eeuu-jacob-helberg.jpg",
+          "is_gov_source": false,
+          "is_authoritative": true
+        },
+        {
+          "title": "Peña pledges critical-minerals supply cooperation with US Treasury Secretary Bessent (2026-10-22)",
+          "date": "2026-10-22",
+          "source_url": "https://www.abc.com.py/internacionales/2026/10/22/presidente-de-paraguay-se-compromete-a-fortalecer-suministro-de-minerales-criticos-de-eeuu/",
+          "source_name": "ABC Color",
+          "summary": "During his 21-23 October visit to Washington, President Peña met Treasury Secretary Scott Bessent and committed Paraguay to strengthening critical-minerals supply chains for the United States. He also spoke at George Washington University and at the Inter-American Dialogue at the OAS. US officials confirmed a USD 12 million investment by Uranium Energy Corp in Paraguay and discussed the exploration of uranium and rare-earth elements. The visit included a reported private meeting with CIA Director John Ratcliffe on the anti-drug office to be installed in Asunción. The minerals agenda is the commercial counterpart to the security and AI-supply-chain agreements announced the same week.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/EVEOXASOW5C33DV2M3CYSSW4DA.jpg?auth=aead038e12320e0552a2d6a7abd27d3f357b9fa20769e5c79af262fbebb2c7e0&width=1200&height=630&smart=true",
+          "is_gov_source": false,
+          "is_authoritative": true
+        },
+        {
+          "title": "Brazil questions Paraguay's use of Itaipú for data centres; ANDE chief says Asunción need not consult Brasília (2026-10-23)",
+          "date": "2026-10-23",
+          "source_url": "https://www.abc.com.py/economia/2026/10/23/paraguay-tiene-que-comunicarle-a-brasil-baez-responde-a-las-criticas-brasilenas-por-decisiones-sobre-itaipu/",
+          "source_name": "ABC Color",
+          "summary": "After ANDE signed a 15-year supply contract of up to 286 MW with Kuntur (Araico) for a data centre, Brazilian media and politicians argued that Paraguay was diverting Itaipú surplus away from the Brazilian market, with some claiming the country had \"sold half of Itaipú\". ANDE president Miguel Báez rejected the criticism, saying Paraguay does not need Brazil's authorisation to use its own 50% share of the binational plant. Itaipú clarified that each margin may receive foreign authorities and that the treaty guarantees each country half of the energy. President Peña said there had been no progress on the Annex C tariff review; the provisional tariff remains USD 19.28 per kW-month for 2024-2026, while Paraguay seeks a three-to-five-year medium-term tariff from 2027.",
+          "image_url": "https://grupovierci.brightspotcdn.com/dims4/default/6831e6b/2147483647/strip/true/crop/762x429+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F28%2Ff3%2Fd2fc9b1b414298faef6bb6e72726%2Flula-da-silva-y-santiago-pena-negocian-la-tarifa.jpg",
+          "is_gov_source": false,
+          "is_authoritative": true
+        },
+        {
+          "title": "Taiwan-Paraguay Polytechnic University advances in Luque with USD 20 million in non-reimbursable cooperation; opening set for July 2027 (2026-10-24)",
+          "date": "2026-10-24",
+          "source_url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/24/avanza-la-construccion-de-la-universidad-politecnica-taiwan-paraguay-en-luque/",
           "source_name": "La Nación",
-          "summary": "Taiwanese authorities including President Lai Ching-te publicly thanked Paraguay after Peña's UN General Assembly speech, in which he reiterated support for Taiwan's participation in the UN and its specialised agencies and said Paraguay 'is not neutral' on the Taiwan Strait. The endorsement was reinforced the previous day in a bilateral meeting in New York between Peña and Yun Lin Huang, secretary-general of the TaiwanICDF, at which the president described the 'strategic alliance' as strengthening and focused on the Yguazú Digital project — a 50/50 Paraguay–Taiwan joint venture modelled on Itaipú's governance, with Paraguay contributing land and hydroelectric power and Taiwan contributing computing capacity and semiconductors. TaiwanICDF support is directed at digital transformation, technology and talent formation. Paraguay remains South America's only country with diplomatic relations with Taipei, a tie dating to 1957, and the two will mark 70 years of relations in 2027. Industry and Commerce Minister Marco Riquelme has defended the alliance on the grounds that preferential access to the Taiwanese market — zero tariffs on numerous products including pork and wheat flour — builds productive capabilities before Paraguay pursues wider markets.",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/MLWGXZSHJ5CDVG7ULCR4IZCZQI.jpg?auth=5fa31335f0d361642a5b01dd9aaebef7d3fbb145d05153ee18404215b8027fa9&width=1200&height=630&smart=true",
-          "is_gov_source": false,
-          "is_authoritative": true
-        },
-        {
-          "title": "Mercosur's Internal Split on EU Export Quotas Persists: Paraguay Holds to a 25% Equal Split as the Bloc Weighs First-Come, First-Served (2026-09-22)",
-          "date": "2026-09-22",
-          "source_url": "https://www.ultimahora.com/sugieren-fortalecer-cadenas-de-valor-para-negociar-cupos-con-ue",
-          "source_name": "Última Hora",
-          "summary": "The Mercosur–EU agreement is signed, ratified by all four members and in provisional application since 1 May 2026, but the bloc remains deadlocked on how to divide the export quotas Brussels granted. Paraguay proposes an equal 25% split for each member across a volume close to 100,000 tonnes; Argentina and Uruguay want quotas allocated on historical export averages to Europe; Brazil favours weighting by each country's share of world trade. At an informal foreign ministers' meeting in Montevideo the Paraguayan chancellor Rubén Ramírez Lezcano held the 25% line, and his Uruguayan counterpart Mario Lubetkin conceded there is 'no unanimity', noting that without agreed quotas the volumes are filled on a first-come, first-served basis. Economist Aldo Centurión illustrated the asymmetry with the beef Hilton quota of roughly 60,000 tonnes, where Argentina holds 29,389 tonnes, Brazil 10,000 and Paraguay just 1,000, and recommended negotiating product by product and strengthening value chains, targeting a gradual 15% share within five years and 20% within ten. Chancellors set a further in-person meeting in Montevideo in 45 to 60 days, ahead of the Mercosur Summit scheduled for 3–4 December in Uruguay. For Paraguayan exporters the practical stake is whether the country, which accounts for under 1% of Mercosur exports to the EU, gets a guaranteed slice or must compete on arrival order.",
-          "image_url": "https://grupovierci.brightspotcdn.com/dims4/default/40597a4/2147483647/strip/true/crop/777x437+0+60/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8d%2F65%2Fd36148854ef7b486018a1057718a%2Fcarne-vacuna-jpg.jpg",
-          "is_gov_source": false,
-          "is_authoritative": true
-        },
-        {
-          "title": "Paraguay Keeps the Door Open to Trade with China Without Breaking with Taiwan, as Farm Exporters Press for Direct Access (2026-09-24)",
-          "date": "2026-09-24",
-          "source_url": "https://www.newsofbahrain.com/world/136451.html",
-          "source_name": "News of Bahrain / AFP",
-          "summary": "Paraguayan officials reiterated that the country is willing to establish commercial relations with China without severing diplomatic ties to Taiwan, a formula Beijing has consistently rejected since it requires recognition of the One China principle. Foreign Minister Rubén Ramírez Lezcano has said Paraguay is open to a trade arrangement, and President Peña has described himself as 'completely open' to a commercial agreement pursued through Mercosur rather than bilaterally — a route that sidesteps the diplomatic question but is slow and requires consensus among all four members. The pressure is domestic and structural: soy and beef exporters cannot sell directly to China, which has nonetheless become Paraguay's largest supplier of goods, accounting for more than a third of imports, so the trade relationship runs heavily in China's favour with no offsetting export channel. One cited survey indicates close to 90% of Paraguayans would support a rapprochement with Beijing. The 2027 seventieth anniversary of Paraguay–Taiwan relations is being framed by the government as the moment to convert that tie into a full economic, technological and productive alliance, which is the political answer to the exporter lobby's arithmetic.",
-          "image_url": "https://www.newsofbahrain.com/admin/post/upload/A_j2CJKksUiG_2026-07-01_1782898105resized_pic.jpg",
+          "summary": "Construction of the Taiwan-Paraguay Polytechnic University in Luque is advancing: 20,000 square metres, about 40 classrooms and 13 laboratories, financed with roughly USD 20 million of non-reimbursable Taiwanese cooperation. The project was agreed in 2018 with National Taiwan University of Science and Technology and is due to open in July 2027. It currently trains about 300 students, and more than 800 Paraguayans have received scholarships in Taiwan. The campus is part of the technological cooperation package that includes Yguazú Digital and the Taiwan-Paraguay industrial park, and it comes as Asunción reaffirms its diplomatic recognition of Taipei after China's 12 October sanctions on MITIC minister Gustavo Villate.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/5T3PHKGXZVAY3KT2CQGBJIGRI4.jpg?auth=ec55a7e0d98db52fac5b9a1faacffb0f3a1b1fc436a1975c0af593daa8e3fd41&width=1200&height=630&smart=true",
           "is_gov_source": false,
           "is_authoritative": true
         }
-      ]
+      ],
+      "impact_analysis": "",
+      "user_notes": ""
     },
     {
       "title": "V. Industry Focus: Telecom, Digital Energy & AI",
       "tier": 1,
       "events": [
         {
-          "title": "Nubicom's 13 October Deadline Looms with a Single Radiobase on Air out of the 22 Required, as the Comptroller Warns of Possible Licence Revocation (2026-09-25)",
-          "date": "2026-09-25",
-          "source_url": "https://dplnews.com/paraguay-nubicom-debe-desplegar-22-radiobases-octubre/",
-          "source_name": "DPL News / CONATEL / CGR",
-          "summary": "Nubicom Paraguay S.A. must have at least 22 5G radiobases in service nationwide by 13 October 2026, the first anniversary of the licence awarded on 13 October 2025, and by CONATEL's own account the operator has exactly one operational base station, located at the Teisa data centre in Villa Morra, Asunción, serving a limited internet footprint. CONATEL director Víctor Martínez says deployment is gradual by nature, that the tender does not require subscribers in the opening months, and that compliance will be formally verified in October — even suggesting preliminary indications point to Nubicom exceeding the requirement. The Comptroller General's Office (CGR), conducting a Fiscalización Especial Inmediata into the award and operation, takes a different view: it found no sufficient evidence of deployment beyond one base station and the core network, and no detailed, measurable, up-to-date tracking mechanism at CONATEL — no matrix identifying the 22 sites, their location, progress, dates or beneficiary districts. The CGR stopped short of declaring non-compliance but called it a 'warning sign' evidencing weak control and traceability, and added that it could not verify Nubicom's claimed 100,000 Argentine subscribers or the minimum USD 10 million net worth required by the tender. It urged CONATEL to strengthen oversight, noting that eventual breach should trigger sanctioning procedures including revocation or rescission; Comptroller Camilo Benítez said the definitive report would come after October. President Peña has publicly discredited the Comptroller and defended the company as compliant with the tender. Nubicom's award, together with Claro's, came in the 2025 first auction of the 3.5 GHz band that excluded Huawei supply — a condition both Tigo and Personal declined to accept at the time.",
-          "image_url": "https://dplnews.com/wp-content/uploads/2025/10/dplnews_nubicom_mc31025.jpg",
+          "title": "Crusoe and Araico announce Latin America's first Crusoe AI data centre in Paraguay, powered by Itaipú and scalable to 280 MW (2026-10-22)",
+          "date": "2026-10-22",
+          "source_url": "https://www.infobae.com/america/agencias/2026/10/22/la-fabrica-de-ia-crusoe-construira-en-paraguay-un-centro-de-datos-alimentado-con-itaipu/",
+          "source_name": "Infobae / EFE",
+          "summary": "US firm Crusoe Energy and Paraguayan group Araico announced on 22 October the construction of Crusoe's first Latin American data centre, powered by Itaipú energy and connected to the ANDE grid. The first phase is estimated at USD 300 million for 6 MW and about 2,000 Nvidia Blackwell AI processors, with construction starting in March 2027 and initial operation in mid-2027. Capacity is designed to scale to 106 MW of technology infrastructure and up to 280 MW in the long term, within the \"Iguazú AI City\" campus in Colonia Yguazú, Alto Paraná, near the Yguazú substation. The project is backed by a power-purchase agreement with ANDE at a reported USD 45-48/MWh at 220 kV with a 2.5% annual adjustment. US officials called it potentially one of the largest private investments in Paraguay's history.",
+          "image_url": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Santiago-Pena-_-Itaipu.jpg",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "ANDE Engineers Propose Capping Data Centres, AI and Crypto Mining at 700 MW Awarded by Ascending Auction with a USD 56/MWh Floor (2026-09-22)",
-          "date": "2026-09-22",
-          "source_url": "https://www.abc.com.py/economia/2026/07/22/ingenieros-de-ande-proponen-subasta-de-precios-y-limitar-energia-a-700-mw-a-criptomineras-y-data-centers/",
-          "source_name": "ABC Color / UIA-ANDE",
-          "summary": "The Union of ANDE Engineers (UIA) proposed limiting the total contractable power for 'converging industries' — data centres, AI and crypto mining — to 700 MW, roughly 10% of Paraguay's installed capacity, allocated through an ascending price auction with a floor of USD 56 per MWh, composed of USD 44 technical tariff plus USD 12 compensation for energy ceded to Brazil, on contracts of three to five years. Under that schedule the new framework would not take effect until 2028, after the 700 MW tranche is tendered; existing electro-intensive operators hold contracts expiring in 2027. The proposal lands in a policy vacuum: the government approved decrees 5306 and 5307 in January 2026 setting special tariffs of USD 26 to USD 32 per MWh for up to 15 years for high-consumption groups, then adjusted them in April through decrees 5860 and 5861, which capped 'Energy to X' projects at 250 MW, and finally repealed them altogether in June under pressure from ANDE's Sitrande union and technical sectors that argued the state was losing more than USD 40 per MWh. In parallel the government created a working group to redesign the tariff regime, plus a new Ministry of Energy and a supervisory regulator, with tariff clarity requested for early September. The Group of Special Intensive Consumption (GCIE) — crypto miners and AI data centres — is asking to extend contracts to ten years, out to 2037, and for a dedicated AI tariff, offering to multiply contracted power within 18 months if given predictability. The British firm Atome is treated as a distinct case, recognised as an existing customer under a 2022 PPA carrying roughly USD 33/MWh at 220 kV for its USD 665 million, 145 MW green fertiliser plant at Villeta.",
-          "image_url": "https://www.ratioparaguay.com.py/wp-content/uploads/2026/07/6a6113cb59551e8c67dc0112_data-center2.jpg",
+          "title": "ANDE signs a 15-year PPA with Kuntur (Araico) for up to 286 MW at USD 48.91-56.39/MWh (2026-10-21)",
+          "date": "2026-10-21",
+          "source_url": "https://rcc.com.py/nacionales/negocio-rentable-o-techo-legal-ajustado-ande-compromete-280-mw-para-centro-de-datos-en-medio-de-advertencias-sindicales/",
+          "source_name": "RCC",
+          "summary": "ANDE formalised resolution 52552/2026 approving a 15-year power-purchase contract with Kuntur, an Araico affiliate, for up to 286 MW to supply a data-centre campus, at tariffs of USD 48.91-56.39/MWh. The contract is one of the largest long-term electricity commitments ever signed by the state utility and is tied to the Crusoe-Araico project. The ANDE workers' union Sitrande questioned the preferential treatment and warned about the impact on the grid and on energy sovereignty, while Brazilian actors raised concerns about the use of Itaipú surplus. The resolution also raises questions about whether the commitment fits within the legal ceiling for ANDE's long-term contracts and about who bears the cost of network reinforcements.",
+          "image_url": "https://cdn.rcc.com.py/2026/10/ANDE-EMPRESA-IA.jpg",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "Yguazú Digital's Three Phases: USD 250 Million for a 10 MW Sovereign AI Centre, Then USD 5 Billion, Then USD 40 Billion and 1 GW (2026-09-24)",
-          "date": "2026-09-24",
-          "source_url": "https://www.bnamericas.com/en/news/paraguay-deepens-taiwan-ties-on-data-centers-and-ai",
-          "source_name": "BNamericas",
-          "summary": "The Paraguay–Taiwan Yguazú Digital venture, structured as an equal 50/50 partnership modelled on Itaipú's governance, is being presented in three escalating phases. Phase 1 requires USD 200 to 300 million for a 10 MW sovereign AI centre for government use — hospital records, tax registries, surveillance — with operation targeted for late 2027. Phase 2 would take USD 5,000 million and 100 MW of consumption, under 2% of national electricity, with an impact the government equates to 10% of GDP. Phase 3 is a USD 40,000 million investment consuming 1,000 MW — nearly five times the capacity of Acaray (210 MW) and approaching one and a half Itaipú turbines (each 700 MW). The pitch rests on Paraguay's surplus hydroelectricity: Bloomberg has highlighted the country as Latin America's only one whose electricity is 100% renewable, thanks to Itaipú and Yacyretá, at USD 0.055/kWh residential and USD 0.046/kWh business against world averages of USD 0.176 and USD 0.164. The objections are technical and human. Energy expert Victorio Oxilia Dávalos warns transmission networks are broadly saturated and ANDE's expansion plans are behind schedule, recommending data centres be sited at strategic nodes near Itaipú or the Yguazú and Valenzuela substations. The Paraguayan Society for Artificial Intelligence has called the proposal a 'delirium' for want of human capital. The government simultaneously faces controversy over the Atome tariff case. Separately, South Korean firm Ainocean signed a deal with the Itaipú Technology Park on 3 September for an AI education data centre with long-term plans to scale to 1 GW.",
-          "image_url": "https://grupovierci.brightspotcdn.com/dims4/default/4b10f08/2147483647/strip/true/crop/3552x1998+0+223/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4f%2F52%2Fa0aaaf804f4ba6c9e3c761ffce4c%2Fvictorio-oxilia-docente-politecnica-46916341.jpg",
+          "title": "Peña meets Anthropic's Teresa Carlson and presents the Yguazú Digital 10 MW to 1 GW AI campus (2026-10-23)",
+          "date": "2026-10-23",
+          "source_url": "https://www.lanacion.com.py/politica/2026/10/23/santiago-pena-explora-alianzas-de-inteligencia-artificial-con-anthropic-en-ee-uu/",
+          "source_name": "La Nación",
+          "summary": "On 23 October President Peña met Teresa Carlson, Anthropic's global head of public sector, to explore cooperation on artificial intelligence and presented the Yguazú Digital project developed with Taiwan. The campus is planned in three phases of 10 MW, 100 MW and 1,000 MW of operating capacity, combining Paraguayan energy with Taiwanese technology and investment. The meeting took place during Peña's Washington visit, alongside the Pax Silica accession and the critical-minerals talks. MITIC minister Gustavo Villate has said the Taiwan technology projects, including Yguazú Digital, the technology park and the polytechnic university, will continue despite China's 12 October countermeasures against him.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/ZN6AS3VCDNHHTNPWN7ZPCDUMDU.jpeg?auth=e923d70cf28a1ae09370d921973db26ac758a78f23b0d5761e76d631787d6553&width=1200&height=630&smart=true",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "UNA Orders Preventive DNS and IP Blocking and Gives CONATEL and the Four ISPs 24 Hours to Enforce It (2026-09-25)",
-          "date": "2026-09-25",
-          "source_url": "https://www.una.py/comunicado-oficial-del-rectorado-de-la-una-25-09-2026",
-          "source_name": "Universidad Nacional de Asunción",
-          "summary": "The National University of Asunción (UNA) issued a formal communiqué on 25 September ordering the preventive blocking, via DNS and IP, of domains and URLs named in a judicial ruling, from within Paraguayan territory. The rectorate notified CONATEL on an urgent basis and instructed the country's internet service providers — Copaco, Tigo, Personal and Claro — to implement the restriction technically within a maximum of 24 hours. The Public Ministry's Specialised Cybercrime Unit and the National Police's Cybercrime Department opened investigations to identify and sanction the authors, accomplices and accessories. UNA said it would exhaust all legal and administrative avenues to eradicate digital violence and protect the rights of its members. The episode is a live test of how fast, and how completely, Paraguay's four-operator access market can execute a court-ordered takedown, and it sets a precedent for content-blocking requests that will apply equally to the operators tracked in Section VI. It also puts CONATEL in the position of coordinating enforcement across private networks on a legally sensitive matter, an area where the regulator is simultaneously being criticised for not updating its own transparency portal since March under law 5282/14.",
-          "image_url": "https://www.una.py/wp-content/uploads/2026/09/Portada-COMUNICADO-25_SEPT_2026.png",
+          "title": "Deputies request ANDE reports on telecom operators' use of its poles for fibre and aerial cabling (2026-10-22)",
+          "date": "2026-10-22",
+          "source_url": "https://diputados.gov.py/noticias/noticias/3145",
+          "source_name": "Chamber of Deputies",
+          "summary": "The Chamber of Deputies approved a request for information to ANDE on the use of its poles by telecom, fibre-optic, cable and internet companies, covering contracts, revenue, maintenance costs and the risks of aerial cabling. The request reflects growing scrutiny of the shared-infrastructure regime as fibre and 5G deployments accelerate and operators seek faster, cheaper ways to reach new areas. For operators, the outcome could affect pole-access fees and deployment timelines; for ANDE, it is an opportunity to formalise a revenue stream that has been largely informal. The information request does not change the rules yet but signals that Congress intends to legislate on passive infrastructure.",
+          "image_url": "https://diputados.gov.py/storage/noticias/lHaemPnaGfbFxdquPCBF0qzC5iBxVyt70ZXBN1zE.jpg",
           "is_gov_source": true,
           "is_authoritative": true
+        },
+        {
+          "title": "Conatel extends the public consultation on the 2026-2030 National Telecom Plan, targeting 30% 5G coverage and USD 2.31 billion in capex (2026-10-22)",
+          "date": "2026-10-22",
+          "source_url": "https://dplnews.com/conatel-amplia-consulta-publica-plan-nacional-telecomunicaciones-2026-2030-paraguay/",
+          "source_name": "DPL News",
+          "summary": "Conatel extended the public consultation on the draft 2026-2030 National Telecommunications Plan, which is built on three pillars: infrastructure and coverage, quality and regulation, and affordability and digital inclusion. The plan targets 30% population coverage for 5G, 95.6% for 4G and 265 districts connected to a fibre-optic backbone by 2030, with estimated capital expenditure of USD 2.313 billion. The extension gives operators and industry groups more time to comment on spectrum, deployment obligations and passive-infrastructure rules. It follows criticism from the mobile operators' chamber over the design of the eight sub-bands in the 3.5 GHz band and the exclusion of Chinese equipment from the 5G tender.",
+          "image_url": "https://dplnews.com/wp-content/uploads/2026/06/Gemini_Generated_Image_2s4av12s4av12s4a-1024x572.png",
+          "is_gov_source": false,
+          "is_authoritative": true
         }
-      ]
+      ],
+      "impact_analysis": "",
+      "user_notes": ""
     },
     {
       "title": "VI. Key Client Developments",
       "tier": 1,
       "events": [
         {
-          "title": "Tigo/Millicom Commits a Further USD 500 Million Over Five Years to 'Digital Highways' and Completes the Sale-Leaseback of 281 Towers to Atis Group (2026-09-22)",
-          "date": "2026-09-22",
-          "source_url": "https://www.telesemana.com/blog/2026/08/19/el-organo-de-competencia-de-paraguay-aprobo-la-venta-de-281-torres-de-millicom-a-atis/",
-          "source_name": "Telesemana / Millicom",
-          "summary": "Tigo announced an additional USD 500 million investment over the next five years to strengthen its 'digital highways', timed around the visit to Paraguay of then Millicom CEO Mauricio Ramos and the company's 30 years in the country. The figure sits alongside a USD 100 million financing package from IDB Invest and Proparco supporting Millicom's fibre-coverage expansion and mobile network modernisation across Bolivia, Colombia, El Salvador, Guatemala, Honduras, Panama and Paraguay. On the passive infrastructure side, Paraguay's competition authority CONACOM approved in August the acquisition by Atis Group of 281 towers from Lati Paraguay, Millicom's infrastructure unit, under a 15-year sale-and-leaseback that leaves Tigo using the network while adding a commitment to build at least 200 further towers over 15 years for onward sale to Atis. Strategically, Millicom has narrowed to connectivity, infrastructure and data after divesting Tigo Money, with CEO Marcelo Benítez stating in May that 'the towers, antennas and electrical equipment are already 5G-ready' and pointing to the spectrum auction, 5G deployment and new data centre investment as the next targets. Millicom closed 2025 with record profits of USD 850 million.",
-          "image_url": "https://www.telesemana.com/wp-content/uploads/2023/02/torres-antenas-kabiur-rahman-riyad-YzZJUXjb9aw-unsplash-e1676670022939.jpg",
+          "title": "Nubicom activates 34 5G sites but relies on Ufinet fibre and Copaco/Vox sites; only two subscribers (2026-10-23)",
+          "date": "2026-10-23",
+          "source_url": "https://www.telesemana.com/blog/2026/10/23/nubicom-despliega-5g-en-paraguay-con-infraestructura-de-terceros-pese-a-las-controversias/",
+          "source_name": "Telesemana",
+          "summary": "Nubicom has activated 34 5G radio bases, above the 20-22 required for its first year: 28 in Asunción, two in Lambaré, two in Fernando de la Mora and two in Luque. Thirty-three sites use Nokia equipment and one uses Tejas Networks, a Rakuten subsidiary, pointing to a possible Open RAN architecture. The company leases 100 Gbps backbone links from Ufinet and uses Copaco/Vox sites, so most of its transport and real estate is third-party. Nubicom has declared USD 24 million for its core and 157 radio bases, of which USD 13.5 million corresponds to the 34 inspected sites and the core. It holds 200 MHz in 3.5 GHz but has only two active subscribers, probably fixed-wireless access, and is not obliged to offer mobile telephony during its first five years.",
+          "image_url": "https://www.telesemana.com/wp-content/uploads/2014/01/antena7.jpg",
           "is_gov_source": false,
           "is_authoritative": true,
-          "client_tag": "Tigo / Millicom — USD 500M capex, tower sale-leaseback, 5G readiness"
+          "client_tag": "Nubicom"
         },
         {
-          "title": "Personal Wins the 3.7 GHz Band for USD 1 Million and Faces a 180-Day First-Radiobase Clock Marking Its Entry into 5G (2026-09-22)",
-          "date": "2026-09-22",
-          "source_url": "https://dplnews.com/personal-tigo-licencias-5g-paraguay/",
-          "source_name": "DPL News / CONATEL",
-          "summary": "Núcleo S.A., which trades as Personal and is a subsidiary of Telecom Argentina, was awarded the 3,700–3,800 MHz block in CONATEL's second 5G spectrum tender for USD 1 million, formalised through Board Resolution 1628/2026. Tigo took the paired 2,300–2,400 MHz block for USD 1.6 million. The two were the only bidders in a process where both had sat out the 2025 first auction. The tender rules give each licence-holder 90 days to submit detailed technical deployment plans and 180 days to install the first radiobase and begin commercial service, plus an obligation to deploy at least 100 radiobases within four years. Combined commitments are USD 80 million and roughly 750 radiobases in the first five years, with mandatory passive infrastructure sharing of towers and sites where technically viable. The 180-day clock is the operative near-term milestone for vendor engagement: Personal's 3.7 GHz band points to a capacity-layer deployment for dense urban coverage, while Tigo's 2.3 GHz allocation is better suited to broader coverage. Personal has also extended its lead in fixed internet for a fifth consecutive period.",
-          "image_url": "https://dplnews.com/wp-content/uploads/2026/06/Gemini_Generated_Image_2s4av12s4av12s4a-1024x572.png",
+          "title": "Comptroller questions Nubicom's commercial operation; Conatel says the licence could be revoked if service is not proven (2026-10-21)",
+          "date": "2026-10-21",
+          "source_url": "https://www.nanduti.com.py/contraloria-podria-impulsar-la-cancelacion-de-la-licencia-5g-de-nubicom",
+          "source_name": "Ñandutí / ABC Color",
+          "summary": "Conatel declared that Nubicom had met its initial 5G deployment obligation, but admitted that coverage is limited and that the company had only two subscribers. The Comptroller General's Office questioned whether commercial service is effectively being provided and warned that the licence could be revoked if Nubicom fails to demonstrate it. Senator Rafael Filizzola alleged corruption in the award and said Paraguay could lose close to USD 200 million in expected investment. Conatel defended its autonomy and said it is monitoring the case. The dispute matters for the market because Nubicom is one of four 5G licence holders and its failure would leave a large block of 3.5 GHz spectrum underused.",
+          "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZJOLM2JHM5CF7IQH6BCI7AOS7U.jpg",
           "is_gov_source": false,
           "is_authoritative": true,
-          "client_tag": "Personal / Núcleo — 3.7 GHz licence, 100 radiobases in four years"
+          "client_tag": "Nubicom"
         },
         {
-          "title": "Claro Operates 5G in Eight Cities from 100 Radiobases as a Senate Resolution Requests a Full CONATEL Report on All Four Operators (2026-09-22)",
-          "date": "2026-09-22",
-          "source_url": "https://www.telesemana.com/panorama-de-mercado/paraguay/",
-          "source_name": "Telesemana / CONATEL / Senado",
-          "summary": "Claro Paraguay, first to launch commercial 5G in December 2025, reports coverage now spanning the central zone plus Coronel Oviedo, Villarrica, Pedro Juan Caballero, Hernandarias, Ciudad del Este, Encarnación and Cambyretá, built on 100 radiobases with Nokia AirScale equipment, ReefShark chipsets, Massive MIMO radios and IPAA+ antennas — fulfilling the radiobase obligation attached to its 200 MHz in the 3.5 GHz band, of which 10% is reserved for state institutions. Technology director Raúl Aguilera and general manager Alfredo Alcaraz have cited handset availability as the main barrier to mass adoption and the five-year licence term as the company's principal regulatory complaint, against a total planned investment of USD 35 million over the first licence period. AMX Paraguay holds 100% Mexican capital. In parallel, Senate Resolution No. 534 formally requests CONATEL to report on services provided by Tigo Paraguay S.A., Personal Paraguay, AMX Paraguay S.A. (Claro) and Hola Paraguay S.A. (Vox), covering regulations, contracts, permits, active lines, declared revenue, fees and electronic financial services. Senator Rafael Filizzola has separately alleged the main 5G band award was steered, leaving out Tigo and Personal which together hold roughly 70% of mobile subscribers, and warning users would have to switch operators to access the technology.",
-          "image_url": "https://statics.forbes.com.py/2026/05/6a1b0b9a1d012.png",
+          "title": "Personal offers 15 days of free calls and internet in flood shelters in Ayolas and Ciudad del Este (2026-10-21)",
+          "date": "2026-10-21",
+          "source_url": "https://diarioparaguayo.com/noticia/personal-habilita-llamadas-gratuitas-por-15-dias-y-ofrece-internet-en-albergues-de-zonas-afectadas-por-inundaciones",
+          "source_name": "Diario Paraguayo",
+          "summary": "Personal, operated by Núcleo S.A., enabled 15 days of free calls and provided internet connectivity in shelters in Ayolas and Ciudad del Este for families affected by the Paraná river and Acaraymí stream floods. The measure covers both its mobile and fixed networks and is part of the operator's emergency-response protocol. Beyond the social dimension, the episode tests network resilience in the south and east, where flooding has disrupted roads and power. Personal is also the operator that must present its detailed 5G engineering plan within 90 days of its August licence and activate its first 5G radio base by February 2027.",
+          "image_url": "https://diarioparaguayo.com/uploads/news/news_1792382452_6476a423.webp",
           "is_gov_source": false,
           "is_authoritative": true,
-          "client_tag": "Claro / AMX Paraguay — 5G coverage, Nokia build, Senate scrutiny"
+          "client_tag": "Personal"
         },
         {
-          "title": "Nubicom Enters October with One Live Radiobase Against a 22-Site Obligation and an Open Comptroller Audit (2026-09-25)",
-          "date": "2026-09-25",
-          "source_url": "https://dplnews.com/paraguay-nubicom-debe-desplegar-22-radiobases-octubre/",
-          "source_name": "DPL News / CONATEL / CGR",
-          "summary": "Nubicom Paraguay S.A., backed by the Vázquez Group and awarded 3.5 GHz spectrum in the 2025 first auction for USD 2 million, faces a 13 October 2026 deadline to have 22 5G radiobases deployed nationally and currently operates one, at the Teisa data centre in Villa Morra, Asunción. CONATEL maintains the company is within its contractual timeline and that the tender imposes no subscriber requirement in the opening months; the Comptroller General's Office, conducting an immediate special audit, has found insufficient evidence of deployment, no measurable tracking matrix at the regulator, and has been unable to verify either the claimed 100,000 Argentine subscribers or the USD 10 million minimum net worth the tender demanded. The CGR stops short of declaring breach but flags weak control and traceability and warns that non-compliance should trigger sanctions up to licence revocation or contract rescission. President Peña has publicly sided with the company and dismissed the Comptroller. The outcome sets the enforcement precedent for the entire 5G framework: whether a licence obligation is a binding commitment or a target that can be renegotiated.",
-          "image_url": "https://dplnews.com/wp-content/uploads/2025/10/dplnews_nubicom_mc31025.jpg",
+          "title": "Claro leads Paraguay's 5G coverage with 23.75% nationally and 77.7% in Asunción (latest available data, October 2026)",
+          "date": "2026-10-23",
+          "source_url": "https://mobiletime.la/noticias/23/09/2026/claro-4g-y-5g-en-paraguay/",
+          "source_name": "Mobile Time / nPerf",
+          "summary": "The nPerf barometer places Claro first in both 4G and 5G coverage in Paraguay, with 86.67% national 4G coverage, 23.75% national 5G coverage and 77.7% 5G coverage in Asunción. Claro launched the country's first commercial 5G network in December 2025 with a USD 35 million investment and Nokia equipment, and has extended coverage to 12 cities including Gran Asunción, Ciudad del Este, Encarnación, Coronel Oviedo, Pedro Juan Caballero, Villarrica, Hernandarias and Cambyretá. The company says it has exceeded its licence obligations in the central area. The main constraint on mass adoption is now the installed base of 5G-compatible devices rather than network coverage.",
+          "image_url": "https://mobiletime.la/wp-content/uploads/2026/01/pilot-infra1RDZ.jpg",
           "is_gov_source": false,
           "is_authoritative": true,
-          "client_tag": "Nubicom — 22-radiobase deadline, licence at risk"
-        },
-        {
-          "title": "Copaco and Vox Seek Private Capital Rather Than Privatisation as Vox's Negative Equity Reaches G. 85,609 Million and 233 Staff Are Cut (2026-09-22)",
-          "date": "2026-09-22",
-          "source_url": "https://marketdata.com.py/secciones/laboratorio/entrevistas/page/31/",
-          "source_name": "MarketData / Copaco",
-          "summary": "Copaco, the state-owned communications company that wholly owns mobile operator Hola Paraguay S.A. (Vox), is prioritising a search for private capital rather than privatisation, according to its new president Rodrigo Ferreira Campos, who described 'shared risk' as one option under consideration. The caution is warranted: Vox posted a net loss of G. 33,314 million in 2025, carries negative net equity of G. 85,609 million and owes Copaco more than G. 178,316 million, which Copaco has been absorbing, raising doubts about going-concern status. Economist Óscar Stark, who took the chair of the company, said Copaco has more staff than it needs and confirmed 233 employees have been made redundant, arguing the entity must restructure and concentrate on the services where it can still be competitive. The Sindicato Nacional de Trabajadores de Telecomunicaciones (Sinattel) is demanding the state invest USD 100 million in Copaco and that management present a rescue plan within 60 days, under threat of strike. General manager Gilles García admitted in July that Vox is in a delicate financial position while flatly ruling out bankruptcy, and confirmed the search for investors or partners has been running since 2024, with any deal required to preserve 100% of the company's sovereignty. For equipment and services suppliers, the practical read is that Copaco-Vox procurement will remain frozen absent an external capital event, while any investor entering would likely re-examine the entire network roadmap.",
-          "image_url": "https://marketdata.com.py/wp-content/uploads/2024/01/sojer.jpg",
-          "is_gov_source": false,
-          "is_authoritative": true,
-          "client_tag": "Copaco / Vox — state operator seeks capital, procurement frozen"
+          "client_tag": "Claro"
         }
-      ]
+      ],
+      "impact_analysis": "",
+      "user_notes": ""
     },
     {
       "title": "VII. Integrated Impact Analysis for Business Operations",
       "tier": 2,
       "events": [],
-      "impact_analysis": "🟡 Exchange-Rate Pain Is Now the Binding Constraint, Not Inflation. The guaraní closed the week of 25 September at G. 5,760/5,880 to the dollar, an eight-year high, having appreciated roughly 25% in twelve months and 12.34% year-to-date. The BCP held the policy rate at 5.50% on 22 September for a seventh consecutive meeting with headline inflation at 1.5% and core at 1.3% against a 3.5% target, and producer prices flat in August at -1.7% year-on-year — a textbook disinflation that is being delivered at the tradable sector's expense. The BCP's refusal to intervene in the spot market has pushed the adjustment onto exporters: the ARP quantifies USD 349 million of lost livestock production value in the twelve months to August, and Cispy argues the equilibrium rate is G. 6,300–6,600. For any operation whose revenue is dollar-denominated and whose costs are in guaraníes, margins are compressing mechanically every month. The forward window, up 30% year-on-year to USD 2,050 million, is a hedge for individual future transactions, not a solution to realised revenue.\n\n🟡 The Public-Sector Wage Bill Is Being Opened from Below and the 2027 Budget Does Not Close It. The doctors' settlement of mid-September — a G. 2,000,000 flat raise, a G. 2 million floor for contractors and residents, USD 260 million for medicines and 1,500 new posts — has become the template every other health union now cites. On 22 September the FNTS and 28 organisations representing 45,000 to 49,000 non-physician health workers took the same demand to the Ministry of Health, asking for 50% plus a carrera sanitaria, and adjourned negotiations to 3 October with mobilisations continuing. The 2027 budget submitted on 1 September totals G. 166.3 trillion and already asks Congress to raise the fiscal deficit ceiling to 3.9% of GDP, well above the 1.5% statutory limit, to clear roughly USD 1,270 million of accumulated arrears with health suppliers and road contractors. FY2026 has USD 260 million earmarked for medicines; FY2027 allocates around USD 760 million. Every additional flat raise agreed in September 2026 compounds the 2027 figure, and the exchange rate the budget assumes — G. 6,458 — is about 9% stronger in dollar terms than the market rate actually prevailing, a discrepancy former finance minister Manuel Ferreira puts at 0.4% of GDP.\n\n🟢 The 4 October Municipal Vote Is a Colorado Internal Referendum, Not a Policy Risk. With a poll-publication blackout in force, the last hard signal before election day is the closing campaign: Camilo Pérez, running on 'Asu puede cambiar' with Deputy Speaker Raúl Latorre as campaign chief and Horacio Cartes' public endorsement, closes with a motorcade on 28 September and claims a 20-point internal lead; Soledad Núñez campaigns against continuity. The TSJE begins deploying 14,711 ballot kits on 27 September, finishing in the Capital on 3 October. International business has no material exposure to the outcome of a municipal race, but the result will be read as a proxy for the balance between the Cartes and Peña wings heading into 2028, which does affect the durability of the investment-incentive and energy-tariff framework.\n\n🟡 Enforcement Credibility Is the Live Question in 5G. The 13 October deadline for Nubicom's 22 radiobases, against one currently live and a Comptroller finding of no verifiable tracking matrix at CONATEL, is the first real test of whether Paraguay's spectrum obligations bind. The president has publicly dismissed the Comptroller and defended the operator. The answer matters beyond Nubicom: Tigo and Personal have just accepted the same licence architecture — 90 days for technical plans, 180 days to first radiobase, 100 radiobases in four years, USD 80 million combined — and the value of that spectrum to them is a function of whether the rules are enforced evenly."
+      "impact_analysis": "🟡 The exchange rate is now the binding constraint, not inflation. The guaraní closed the week at G. 5,764.73-5,776.68 per dollar (BCP, 23 October), after touching about G. 5,694 on 13 October, and has appreciated 11.9% year-to-date through September. The BCP held the policy rate at 5.50% on 23 October with inflation at 1.7% and core at 1.5%, and its October survey cut the end-2026 rate forecast to G. 5,905 from G. 6,100 a month earlier. For any operation with dollar revenue and guaraní costs, margins compress mechanically every month; for the Treasury, the same appreciation cut trade taxes by 11% and Itaipú royalties by 25.9% through September. Hedging is no longer optional, and contracts priced at G. 6,300-6,600 in 2025 are already loss-making on conversion.\n\n🟡 The fiscal deterioration is structural and the 2027 budget does not close it. The January-September deficit reached 2.0% of GDP (G. 7.82 trillion, USD 1,257.8 million), or about 3.0% annualised, against an original 1.5% target; the MEF projects 3.2% for 2026 and the 2027 draft assumes 3.9% under an exceptional escape from the fiscal rule. Revenue grew only 1.6%, wages, pensions and debt service absorb close to 70% of financing, and the Caja Fiscal deficit exceeds 43% of its annual budget. The 2027 budget adds USD 2.1 billion of new debt and a 5% teacher raise worth USD 47 million. Suppliers to the public sector should expect slower payment cycles and more pressure to accept Treasury paper or renegotiated terms.\n\n🟡 The data-centre and energy boom is real but carries regulatory and political risk. Crusoe and Araico announced a USD 300 million first phase (6 MW, about 2,000 Nvidia Blackwell processors, operating from mid-2027) scalable to 280 MW, backed by an ANDE 15-year contract of up to 286 MW at USD 48.91-56.39/MWh. The project is one of the largest private investments in Paraguay's history, but the ANDE union, Brazilian politicians and the Comptroller have all raised questions about preferential tariffs, grid capacity and the use of Itaipú surplus. The Annex C tariff review remains unresolved, with the provisional USD 19.28/kW-month rate extended for 2024-2026 and Paraguay seeking a three-to-five-year medium-term tariff from 2027. Any energy-intensive project should model a tariff renegotiation scenario and secure firm transmission capacity.\n\n🟡 Security and climate risks are concentrated in Alto Paraná and the south. The PCC-linked attack in Pedro Juan Caballero on 19 October, the Minga Guazú raids on 20 October and the SENAD operations in Canindeyú and Asunción show that organised crime remains active along the Brazilian border and in the capital's retail drug trade. The Paraná flood affected 4,253 families in four departments, displaced 1,988 and closed 14 migration posts, disrupting roads and port access. The US INL office and the USD 11.75 million security package announced on 21 October may improve coordination over time but will not change the operating picture in the next two quarters.\n\n🟢 Telecom offers the clearest near-term commercial opportunity. Claro leads 5G coverage at 23.75% nationally and 77.7% in Asunción; Tigo and Personal must activate their first 5G radio bases by February 2027 and plan 250-500 sites and about USD 79 million of joint investment; Nubicom has 34 sites but only two subscribers and is under Comptroller scrutiny; the 2026-2030 National Telecom Plan targets 30% 5G coverage and USD 2.313 billion of capex. The 3.5 GHz sub-band auction and the exclusion of Chinese equipment remain the main structural barriers for Chinese vendors, while passive-infrastructure rules (ANDE poles) and the PNT consultation are the near-term policy levers.",
+      "user_notes": ""
     },
     {
       "title": "VIII. Targeted Recommendations for Chinese Enterprises",
       "tier": 2,
       "events": [],
-      "impact_analysis": "🟡 Hedge the Revenue Side Before Hedging Anything Else. The single most valuable action available to a Chinese enterprise with dollar revenues and guaraní cost exposure in Paraguay is to lock in forward contracts now. The BCP's forward window grew 30% year-on-year to USD 2,050 million by end-August precisely because local exporters have reached the same conclusion, and the rate has moved from above G. 6,000 in early September to G. 5,880 by 25 September. Local agent projections of G. 6,100 for December look unreachable; some analysts now discuss G. 5,500. Contracts, EPC milestones and service agreements signed in 2025 at G. 6,300–6,600 assumptions are already loss-making on conversion. Re-price or re-denominate.\n\n🟡 Treat October–November 2026 as the Window for Any Public-Sector Energy or Data-Centre Engagement. Three processes converge. First, the ANDE engineer proposal to cap data centres, AI and crypto at 700 MW through an ascending auction with a USD 56/MWh floor, which would not take effect until 2028 and leaves existing electro-intensive contracts expiring in 2027 unresolved. Second, the government's working group on the new tariff regime, plus the new Ministry of Energy and supervisory regulator, whose output was requested for early September and is now overdue. Third, the Yguazú Digital phases, where phase 1 (USD 200–300 million, 10 MW, late 2027) is the only one with any near-term procurement content and phases 2 and 3 (USD 5 billion / USD 40 billion, 100 MW / 1 GW) are pre-feasibility narratives. The GCIE lobby is offering to multiply contracted power within 18 months in exchange for ten-year contracts to 2037 and a dedicated AI tariff — a position a well-capitalised entrant can align with. But do not commit capital against phase 2 or 3 numbers, and do not treat the 2028 auction date as settled: it is a union proposal, not policy.\n\n🔴 Do Not Build a Plan Around Nubicom-Style Licence Assumptions. The Nubicom case demonstrates that the gap between a spectrum obligation on paper and deployment on the ground can persist for a full licence year, that the regulator will describe one live radiobase as consistent with the timetable, and that the executive will publicly back the licensee against its own Comptroller. Whatever side of that dispute one takes, the operational lesson for a supplier or partner is that spectrum commitments in Paraguay should be treated as commercial intentions subject to political revision, not as enforceable demand. Price, contract and stage your exposure to any operator whose deployment depends on regulatory forbearance.\n\n🟡 Staff Local Content and Community Expectations into Any Ciudad del Este or Alto Paraná Presence. The new technology-led security plan — 100-plus smart cameras with facial and licence-plate recognition, four drones, body cameras, a new Grupo Lince headquarters and 45 patrol vehicles — is being delivered alongside a visible crime wave that included a G. 100 million safe robbery at a Minga Guazú water company and a car theft in the Ciudad del Este micro-centre in the same week. Business associations in the city co-financed the drones. Chinese enterprises with operations, warehouses or staff in the tri-border area should engage the Cámara de Comercio y Servicios de Ciudad del Este directly, contribute proportionately to the local security architecture, and budget for site-hardening: this is a market where the private sector is expected to co-fund public order.\n\n🟢 Use Paraguay's UN Positioning as an Early-Warning Feed, Not a Risk Event. Peña's 23 September UN General Assembly speech reaffirmed the Taiwan alliance ('Paraguay is not neutral'), opened a dialogue channel with Caracas, and called for a Latin American UN Secretary-General and Security Council reform. Simultaneously the government keeps signalling openness to China trade through Mercosur without breaking with Taipei, and farm lobbies continue pressing for direct Chinese market access with roughly 90% domestic public support. The diplomatic line is stable for now and the 2027 seventieth anniversary of Paraguay–Taiwan relations is being prepared as an economic alliance milestone. But the domestic economic logic points one way, and Chinese enterprises should track the Mercosur–China channel and the soy and beef lobbies' position as the leading indicators — not the annual UN speech, which has been consistent for years."
+      "impact_analysis": "🔴 Protect revenue before anything else. With the guaraní at G. 5,764-5,777 and the BCP forecasting only G. 5,905 by December, dollar-revenue operations should lock in forward contracts now, re-price or re-denominate 2025-vintage contracts signed at G. 6,300-6,600, and add exchange-rate clauses to new EPC, service and supply agreements. The BCP's forward window has grown as local exporters reach the same conclusion; the cost of hedging is far below the cost of realising another 5-10% appreciation. For guaraní-revenue operations, the same move protects margins against a rebound if US rates stay higher for longer.\n\n🟡 Treat public-sector exposure as credit risk. The January-September deficit is 2.0% of GDP (3.0% annualised), the 2027 budget assumes 3.9%, and the MEF projects 3.2% for 2026 against a 1.5% rule. Payment delays, Treasury paper and renegotiation requests are likely. Prioritise private clients, require guarantees or escrow for public contracts, and stress-test receivables against a 90-180 day delay. The 2027 budget's health allocation (62% of the increase, 78% to arrears) may unlock some health-sector payments, but the overall fiscal squeeze is not easing.\n\n🟡 Engage the energy and data-centre pipeline early, with political-risk pricing. The Crusoe-Araico project (USD 300 million first phase, 280 MW long-term) and the ANDE 15-year PPA at USD 48.91-56.39/MWh create procurement demand for substations, cooling, fibre, backup power and construction services. But the ANDE union, Brazilian politicians and the Comptroller are contesting preferential tariffs and Itaipú use, and the Annex C review is unresolved. Bid only with firm transmission capacity, clear curtailment rules and a tariff-renegotiation scenario; avoid contracts that assume the current preferential rate survives to 2030.\n\n🔴 Manage the Taiwan-China fault line explicitly. China sanctioned MITIC minister Gustavo Villate on 12 October over his Taiwan ties, and Paraguay responded by reaffirming its recognition of Taipei and joining the US-led Pax Silica coalition on 23 October. Chinese enterprises should avoid any commercial or personal exposure to sanctioned individuals and should not assume that Paraguay's Taiwan relationship will change in the near term. The exclusion of Chinese equipment from the 5G tender is a structural barrier; focus on non-RAN segments (fibre, power, data-centre fit-out, enterprise IT) where the restriction does not bind, and keep a clear compliance file for US secondary-sanctions exposure.\n\n🟢 Prioritise the telecom rollout and digital-infrastructure supply chain. Tigo and Personal must activate their first 5G sites by February 2027 and plan 250-500 sites and about USD 79 million; Claro is expanding from 12 cities; Nubicom has 157 radio bases to deploy but only two subscribers and regulatory risk. The PNT 2026-2030 targets 265 districts with fibre backbone, 95.6% 4G and 30% 5G coverage, with USD 2.313 billion of capex. The ANDE pole-access review and the PNT consultation are the immediate policy windows; position for passive infrastructure, fibre, power and O&M work rather than spectrum-dependent RAN.\n\n🟡 Build security and climate contingency into delivery schedules. Alto Paraná (Pedro Juan Caballero, Minga Guazú) and the southern flood corridor are the main operational risks; the Paraná flood displaced 1,988 families and closed 14 migration posts. Site security, convoy rules, insurance and alternate logistics routes should be standard for projects in those areas, and delivery schedules should carry weather and road-access buffers for the November-April rainy season.",
+      "user_notes": ""
     }
   ]
 }
