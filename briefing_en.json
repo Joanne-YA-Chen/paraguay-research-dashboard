@@ -1,6 +1,6 @@
 {
   "topic": "Paraguay Briefing",
-  "time_span": "November 7 – November 14, 2026",
+  "time_span": "November 15 – November 22, 2026",
   "time_label": "Last week",
   "tiers": [
     {
@@ -20,43 +20,43 @@
       "user_notes": "",
       "events": [
         {
-          "title": "BCP intervenes in the FX market for the first time in 2026 as the dollar spikes (2026-11-11)",
-          "date": "2026-11-11",
-          "source_url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/11/bcp-intervino-en-el-mercado-cambiario-por-primera-vez/",
+          "title": "BCP holds the policy rate at 5.50% as growth cools and Schreiner weighs a monetary-regime shift (2026-11-20)",
+          "date": "2026-11-20",
+          "source_url": "https://www.lanacion.com.py/negocios/2026/11/20/cpm-mantiene-posicion-neutral-de-la-tasa-de-politica-monetaria-en-550/",
           "source_name": "La Nación",
-          "summary": "The Central Bank sold USD 14.7 million on Thursday 5 November and USD 12.7 million on Friday 6 November, its first currency intervention of 2026, to damp a spike in the dollar during the impeachment of Santiago Peña. The dollar touched G. 6,600 during the Ueno Bank run and then retreated to about G. 6,200-6,300; the BCP planilla of Friday 13 November fixed the reference rate at G. 6,215.89 per dollar, up roughly 4.5% from G. 5,944.76 on 30 October. The move marks a break with a year in which the BCP had intervened only to slow the guaraní's appreciation. The Senate also requested a report on the exchange-rate impact of the Ueno resolution and on the criteria for intervention.",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/QR7H2V2B4VDYJGONCSSLTJOLMI.jpg?auth=4d9cc82c9ce41ef35fcfa1b404bc58085b4918818f6ad3b439213df8fa986ce1&width=1200&height=630&smart=true",
+          "summary": "The Central Bank's Monetary Policy Committee kept the policy rate at 5.50% on 20 November, describing the stance as neutral. The IMAEP activity index rose 3.9% year-on-year in September, led by electricity and water, manufacturing and services, while the ECN confidence indicator gained 2.5%; cumulative growth reached 5.5% and 4.3% respectively. Headline inflation was 1.7% year-on-year in October, near the lower bound of the 3.5% ± 2pp target range, and expectations remain anchored at 3.5%. The committee flagged external uncertainty from Brent crude near USD 92, commodity prices and the risk of higher US rates, while private forecasts keep 2026 GDP growth at 4.5%. Separately, new BCP president Jorge Schreiner said he has asked the IMF to compare inflation targeting with a framework giving more weight to monetary aggregates, with a decision expected in about six months; he called the 3.5% target 'non-negotiable'.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/S2ECUEST2NEH3DASRYJRUAEZYU.jpeg?auth=5d384d2624069a0b9478cb4c92610ec0af2ef07268754e4837f30f58397a24c0&width=1200&height=630&smart=true",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "Senate confirms Jorge Schreiner as BCP president and whistleblower Rivarola to the board (2026-11-09)",
-          "date": "2026-11-09",
-          "source_url": "https://cdn-www.lanacionpy.arcpublishing.com/politica/2026/11/09/senado-presta-acuerdo-para-schreiner-al-frente-del-bcp-y-a-rivarola-en-el-directorio/",
-          "source_name": "La Nación / Senate",
-          "summary": "In an extraordinary session the Senate approved Jorge Luis Schreiner Marengo as president of the Central Bank by 31 votes to 1 with 1 abstention, and Fernando Javier Rivarola Angulo as a full board member by 33 votes to nil. Schreiner, a former head of the securities regulator CNV and BCP board member, replaces Carlos Carvallo, who resigned after the Ueno Bank collapse; Rivarola is the former supervision manager who flagged Ueno's irregularities. Schreiner said his priority is to restore the BCP's credibility and that he will use Article 50 of Law 489/95 to intervene against abrupt, non-fundamental currency moves, including buying dollars if the guaraní overshoots. The appointments were proposed by President Pedro Alliana.",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/MPWETF5JWNCTND3G3MBAGHAI3M.jpg?auth=bc30fb87888fa91bb868821c144a53ce602d454c14dc8e775436295ceedb9816&width=1200&height=630&smart=true",
+          "title": "The dollar jumps to G. 6,400 as Ueno, fiscal risk and Fitch's negative watch hit the guaraní (2026-11-20)",
+          "date": "2026-11-20",
+          "source_url": "https://cdn-www.lanacionpy.arcpublishing.com/negocios/2026/11/20/el-dolar-vuelve-a-elevarse-y-se-ubica-en-g-6400/",
+          "source_name": "La Nación",
+          "summary": "The dollar jumped unexpectedly to G. 6,400 on Friday 20 November, quoted at G. 6,200 bid and G. 6,400 ask — more than 100 points above the previous session's G. 6,150/6,280 and roughly 200 points above the G. 6,020/6,180 at the start of the week. The BCP's official planilla fixed the reference rate at G. 6,407.06 per dollar, against G. 6,215.89 on 13 November and G. 5,944.76 at end-October, a swing of about 7.8% in three weeks. Traders attributed the move to import demand, the Ueno Bank resolution and the fiscal uncertainty around it, and Fitch's decision to place Paraguay's BB+ rating on negative watch. The central bank, which intervened for the first time in 2026 in early November, has stayed out of the market since, leaving the reference rate to absorb the adjustment.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/DIJTSV67S5EEJKYKNIK7MXO45I.jpg?auth=0da4169d2b5edad93b805bb246fba67213fb2f6277cd5fd4f944203d515f7537&width=1200&height=630&smart=true",
+          "is_gov_source": false,
+          "is_authoritative": true
+        },
+        {
+          "title": "Business groups warn the Ueno scandal is stalling the economy as small firms run short of working capital (2026-11-20)",
+          "date": "2026-11-20",
+          "source_url": "https://www.ultimahora.com/escandalo-de-ueno-causa-desaceleracion-en-la-economia-alertan-empresarios",
+          "source_name": "Última Hora",
+          "summary": "Paraguay's main business federations, including the UGP, Fecoprod and the rural association ARP, said the Ueno Bank scandal is causing a visible slowdown and, in some sectors, 'paralysis'. The merchants' association Asimcopar reported sales falls of 30-40% and said 300-500 traders have funds restricted after the bank's collapse. Business leaders demanded spending discipline and a realistic 2027 budget rather than tax increases, warning that the confidence shock is now feeding through to orders, inventories and employment. The government has set up AFD working-capital lines for MSMEs through about 50 financial institutions and a joint MIC-Treasury-Asoban working group for November and December. The warning came as Fitch kept Paraguay's BB+ rating on negative watch, citing USD 850-900 million of public deposits at Ueno, about 1.5% of GDP, and as Moody's flagged governance weaknesses.",
+          "image_url": "https://grupovierci.brightspotcdn.com/dims4/default/c777f7c/2147483647/strip/true/crop/1258x708+0+66/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fde%2F5a%2F33f0f7d442c29598e95c89964603%2Fempresarios-3.jpeg",
+          "is_gov_source": false,
+          "is_authoritative": true
+        },
+        {
+          "title": "BCP finds USD 600m of 'potable' Ueno assets as the deposit guarantee reaches 1.8m savers (2026-11-15)",
+          "date": "2026-11-15",
+          "source_url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/15/ueno-bank-en-resolucion-usd-600-millones-de-activos-potables/",
+          "source_name": "La Nación",
+          "summary": "The BCP said preliminary audits had identified about USD 600 million of 'potable' or healthy assets at Ueno Bank that could cover pension-related liabilities, with a definitive balance sheet due within about ten days. The Deposit Guarantee Fund has already paid roughly USD 644 million to about 1.8 million depositors, around 97% of those covered, and holds about USD 1.6 billion. Ueno's assets and associated deposits are to be auctioned in lots to other banks to avoid creating a 'megabank'. BCP data to September show the deposit market at about USD 32.5 billion: Banco Continental leads with 18.9% (USD 6.15 billion), Itaú follows with 13.6%, and the top five hold 66.2%; Ueno was sixth with USD 2.84 billion (8%) but had the largest client base. The IPS had more than USD 516 million parked at Ueno and has legal priority over pension money.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/VH5BJXVGRFFYRAAWZMJ3TSYQ2Q.jpg?auth=8e3b79a89a7c44077deff5685fda729293e5574c004b0e419252e08eb0052be9&width=1200&height=630&smart=true",
           "is_gov_source": true,
-          "is_authoritative": true
-        },
-        {
-          "title": "Exports top USD 17.8bn through October as the soy complex sets a record (2026-11-11)",
-          "date": "2026-11-11",
-          "source_url": "https://www.ultimahora.com/balanza-comercial-registra-un-superavit-comercial-de-usd-668-millones-a-octubre",
-          "source_name": "Última Hora / BCP",
-          "summary": "Paraguayan exports reached USD 17,815.6 million between January and October, up 25% year-on-year, producing a trade surplus of USD 668.6 million after a deficit of about USD 720 million in the same period of 2025. The soy complex generated USD 6,624 million, almost double the USD 3,330 million of 2025, on 8.3 million tonnes of grain, 595,298 tonnes of oil, 2.09 million tonnes of pellets and 31,172 tonnes of biodiesel. The 2025/26 harvest hit a record 12.6 million tonnes. Argentina took 85-87% of grain exports and Brazil about 11%. The BCP put grain soy alone at USD 3,316.9 million, up 45.7% in value and 35.7% in volume. The record is the strongest counterweight to the confidence shock from the banking crisis.",
-          "image_url": "https://grupovierci.brightspotcdn.com/dims4/default/9eadfe7/2147483647/strip/true/crop/1666x937+0+18/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffb%2F25%2F749af32740099484a2c71cabef77%2Fsoja.jpg",
-          "is_gov_source": false,
-          "is_authoritative": true
-        },
-        {
-          "title": "BCP has returned USD 335-355m to 1.7m Ueno depositors, but the guarantee fund covers only 27% (2026-11-11)",
-          "date": "2026-11-11",
-          "source_url": "https://www.emol.com/noticias/Economia/2026/11/11/1216757/ueno-bank-devolucion-dinero-banco.html",
-          "source_name": "Emol / BCP",
-          "summary": "By 10-11 November the BCP had returned about USD 335-355 million to between 1.7 and 1.78 million Ueno Bank depositors, roughly 93-97% of those eligible in the first phase, under an emergency law that sped up payouts of up to 40 minimum wages (about USD 19,500). Ueno held USD 2.8-2.84 billion in deposits, 71% private and the rest public entities, mainly the IPS pension institute. The Deposit Guarantee Fund covers up to 75 minimum wages, about G. 228.3 million (USD 37,000-38,300) per depositor, and expects to pay about USD 740 million, only 27% of total deposits. The remainder depends on asset sales and liquidation, with pension funds given priority. The BCP insists the case is idiosyncratic and not systemic.",
-          "image_url": "https://static.emol.cl/emol50/Fotos/2026/11/11/file_20261111112032.jpg",
-          "is_gov_source": false,
           "is_authoritative": true
         }
       ]
@@ -68,32 +68,52 @@
       "user_notes": "",
       "events": [
         {
-          "title": "Alliana takes office after the Senate removes Peña over the Ueno Bank collapse (2026-11-06)",
-          "date": "2026-11-06",
-          "source_url": "https://www.lanacion.com.py/politica/2026/11/05/diputados-aprueban-por-unanimidad-libelo-acusatorio-para-juicio-politico-de-santiago-pena/",
+          "title": "Fiscal General Emiliano Rolón resigns on the eve of impeachment over the Ueno investigation (2026-11-17)",
+          "date": "2026-11-17",
+          "source_url": "https://www.lanacion.com.py/politica/2026/11/17/emiliano-rolon-renuncia-a-la-fiscalia-general-del-estado/",
           "source_name": "La Nación",
-          "summary": "Vice-President Pedro Alliana became president on 6 November after the Senate convicted Santiago Peña in an impeachment trial with 44 votes, one day after the Chamber of Deputies approved the charges 78-0. Peña had announced his resignation on 5 November, but a joint congressional session lost quorum when Colorado legislators walked out, and the opposition pressed ahead to strip him of lifetime Senate privileges. The charges centred on conflicts of interest from his former shareholding in the Ueno holding group, regulatory manipulation and the loss of pension funds. The courts ordered Peña held under house arrest and detained eight Ueno executives, including former bank president Juan Manuel Gustale and Federico Miguel Vázquez Villasanti. Alliana, a Colorado leader, will serve until August 2028.",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/6Z5RYESSPVG5FGOZ22MFK2OKKM.jpeg?auth=43d0019c8422950a811a7fab60422e419848d25d5cc82bf95a302ea725d6b152&width=1200&height=630&smart=true",
+          "summary": "Fiscal General Emiliano Rolón Fernández resigned on 17 November as deputies from the opposition and dissident Colorado factions formally filed an impeachment complaint for 'poor performance'. The move followed a decision by the Colorado ANR's A and B benches, reportedly on a line from Horacio Cartes, to support the trial, leaving Rolón without political cover. Critics accused him of mishandling the Ueno Bank investigation, holding for seven months a complaint of illicit enrichment against former president Santiago Peña, and delaying raids and evidence-gathering. Rolón had said the previous day that he would not resign. He appointed deputy prosecutor Alba Rocío Cantero Vera as interim head; on 20 November he asked the UN Special Rapporteur on the independence of judges and lawyers to examine what he called political and judicial persecution.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/4TZ7CJ43DZEN5AGMI3YMV654LY.jpeg?auth=5ba0def9df84bd4bc42d6ee9a695188e84e60fe509d57feeb0662a5f38d1dcb1&width=1200&height=630&smart=true",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "Alliana asks every minister to resign and reshuffles the cabinet and military command (2026-11-09)",
-          "date": "2026-11-09",
-          "source_url": "https://cdn-www.lanacionpy.arcpublishing.com/politica_edicion_impresa/2026/11/10/alliana-mueve-mas-piezas-dentro-del-gabinete-y-designa-a-nuevos-titulares/",
+          "title": "Alba Cantero is sworn in as interim Fiscal General and will serve out the 2023-2028 term (2026-11-18)",
+          "date": "2026-11-18",
+          "source_url": "https://www.lanacion.com.py/politica/2026/11/18/juro-la-nueva-fiscal-general-del-estado-alba-cantero/",
           "source_name": "La Nación",
-          "summary": "On his first working Monday Alliana instructed new chief of staff Rolando de Barros Barreto to ask all ministers, executive secretaries and heads of public entities to place their posts at his disposal, warning that 'no job is guaranteed.' He named Ariel Martínez at the Interior Ministry, Juan Carlos Baruja at Public Works (MOPC), Juan Pablo Cosp as interim head of MITIC after removing Gustavo Villate, Víctor González Bedoya at environment agency MADES and Eduardo González Báez as presidential legal adviser. He ratified Óscar Lovera at the Treasury, Marco Riquelme at Industry, Rubén Ramírez Lezcano at Foreign Affairs and Isaías Fretes at Health. General Manuel Rodríguez Sosa was named commander of the armed forces, with new interim chiefs for the army, air force and military cabinet. More changes are expected.",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/BTMONGW6UJCLRIDXS2CMLUQNBA.jpg?auth=f5b3f8e64d7aaad211042acf1f22ade1c2229b157c7b84a0484a62c30dfc1a78&width=1200&height=630&smart=true",
+          "summary": "Alba Rocío Cantero Vera was sworn in on 18 November as interim Fiscal General del Estado, a day after Emiliano Rolón's resignation, and will complete the constitutional term running to 2028. Cantero, a senior criminal prosecutor, was designated by Rolón under article 51 of the Organic Law of the Public Ministry (1562/2000) and takes over the Ueno Bank case at a sensitive stage: eight executives are detained, preventive embargoes of USD 70 million and G. 1.62 trillion are in place, and prosecutors are seeking cooperation from Argentina, Luxembourg and the United States. Her appointment removes one source of institutional uncertainty but does not settle the underlying conflict over who supervises the investigation, since Congress had already advanced the impeachment process against Rolón.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/XOHMMG6ROBGSDJUMQ3QRFSRZY4.jpeg?auth=91945940b540edcac79ed6dd920d963049c23d53bfe5526e82e2eb25a9092d8d&width=1200&height=630&smart=true",
+          "is_gov_source": true,
+          "is_authoritative": true
+        },
+        {
+          "title": "Alliana promises 'the truth' on Ueno, cuts another USD 100m and replaces the presidential escort commander (2026-11-16)",
+          "date": "2026-11-16",
+          "source_url": "https://www.lanacion.com.py/politica/2026/11/16/los-paraguayos-merecemos-saber-la-verdad-el-mensaje-de-alliana-en-su-segunda-semana-de-gestion/",
+          "source_name": "La Nación",
+          "summary": "In a message marking his second week in office, President Pedro Alliana said further changes would be made across public institutions after the BCP, cabinet and Civil Cabinet reshuffles, promised transparency on Ueno Bank and declared that 'Paraguayans deserve to know the truth'. He placed all Executive resources legally available at the disposal of prosecutors and ordered the replacement of Colonel José David Dayub as commander of the Presidential Escort Regiment, where Santiago Peña is under house arrest, with Colonel Carlos Miguel Pérez Rodríguez. Alliana said more than 1.8 million savers had received payouts of up to 40 minimum wages, about USD 640 million from the guarantee fund, and that USD 600 million of healthy assets had been identified for pension recoveries. He announced about USD 100 million of additional spending cuts in the 2027 budget, including USD 80 million from the Hambre Cero school-meals programme, plus reallocations of G. 400 billion to health, G. 150 billion to public works and G. 72 billion to education.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/TBHJ3GJHKFDAFIRM3KGPOH466E.jpeg?auth=1f888a61c5cda5dbc4279f58f0fed497c8b7e9729ca255be31c12b23a0fcd028&width=1200&height=630&smart=true",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "Alliana sends Congress a bill to place Ueno-linked companies under temporary state administration (2026-11-12)",
-          "date": "2026-11-12",
-          "source_url": "http://spanish.xinhuanet.com/20261113/12cd01b6078240528c9d5d4df89903db/c.html",
-          "source_name": "Xinhua / Última Hora",
-          "summary": "The executive sent Congress a bill to keep companies linked to the collapsed Ueno Bank operating and protect jobs. It would appoint a temporary administrator for eight months, remove incumbent directors and managers, and create a supervisory council with the Treasury, Industry and Labour ministries. The state would not assume the companies' debts and the measure would exclude firms under criminal investigation or in the hands of the asset-seizure agency Senabico; asset transfers, dividends and payments to shareholders would be restricted. Officials say the aim is to preserve more than 5,000 jobs. The industrial union UIP warned there is 'no margin for error' and urged spending discipline rather than tax increases, while the MIC, Treasury and bankers' association Asoban set up a working group on working-capital finance for November and December.",
-          "image_url": "https://grupovierci.brightspotcdn.com/dims4/default/0f25a61/2147483647/strip/true/crop/2560x1440+0+187/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fec%2F15%2F7420a2d547abaec9791559277a7f%2Frolando-de-barros-y-gabinete-presidencia.jpg",
+          "title": "Senate delays the 2027 budget to 24 November, ten days before the constitutional deadline (2026-11-18)",
+          "date": "2026-11-18",
+          "source_url": "https://www.ultimahora.com/senado-tratara-proyecto-de-pgn-2027-la-proxima-semana-a-dias-de-vencer-el-plazo",
+          "source_name": "Última Hora",
+          "summary": "The Senate will not begin debating the 2027 budget until Tuesday 24 November, leaving only days before the constitutional deadline of 28 November, when the project is deemed sanctioned if Congress has not acted. The Chamber of Deputies gave the bill a half-sanction on 12 November, approving the Executive's version plus a second addendum with a net adjustment of about USD 276 million. The budget totals G. 166.32 trillion, about USD 25.75 billion, an 11.2% increase over 2026, with a projected deficit of 3.9% of GDP against the 1.5% fiscal-responsibility rule, growth of 4.2% and inflation of 3.5%. Senator Rafael Filizzola questioned the changes made by Deputies. If the Senate amends the text it must return to the lower house, and Congress has until 20 December to send the final version to the Executive.",
+          "image_url": "https://grupovierci.brightspotcdn.com/dims4/default/63ae09f/2147483647/strip/true/crop/4096x2304+0+226/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F01%2F70%2F9bdf152246199bb60b824c947bc8%2Fsenado.png",
+          "is_gov_source": false,
+          "is_authoritative": true
+        },
+        {
+          "title": "Alliana confirms four more appointments at the Women's Ministry, Transport, Culture and EBY (2026-11-21)",
+          "date": "2026-11-21",
+          "source_url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/21/alliana-realiza-mas-cambios-en-su-gabinete-y-otras-instituciones/",
+          "source_name": "La Nación",
+          "summary": "President Alliana signed decrees formalising four new appointments on 21 November, extending the institutional reshuffle into the Women's Ministry, the vice-ministry of Transport, the National Culture Secretariat and the council of the binational Yacyretá entity (EBY). The changes follow the earlier replacement of the BCP leadership, several ministers and the Civil Cabinet, and his warning that 'no job is guaranteed'. The turnover is intended to signal a break with the Peña administration and to rebuild confidence after the Ueno Bank collapse, but it also risks weakening institutional memory in agencies that are central to the Ueno asset recovery and to the 2027 budget execution. Business groups have welcomed the transparency rhetoric while pressing for speed on working-capital support and spending discipline.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/7Q22AVZ3F5DGNMVHPLAMZ4SVMY.jpg?auth=7734ceeadd26e1d10192cf53874975c91a1c94115c63b5b6a455bb69d06a03c8&width=1200&height=630&smart=true",
           "is_gov_source": true,
           "is_authoritative": true
         }
@@ -106,43 +126,33 @@
       "user_notes": "",
       "events": [
         {
-          "title": "Teachers launch an indefinite national strike over Ueno-hit pension funds (2026-11-09)",
-          "date": "2026-11-09",
-          "source_url": "https://www.lanacion.com.py/pais/2026/11/09/arranca-movilizacion-nacional-de-docentes/",
+          "title": "Armed gang kidnaps and disarms two policemen in central Asunción, fuelling fears of a foiled mass robbery (2026-11-19)",
+          "date": "2026-11-19",
+          "source_url": "https://www.lanacion.com.py/pais/2026/11/19/investigan-rapto-y-posterior-robo-de-armas-a-agentes-policiales-en-asuncion/",
           "source_name": "La Nación",
-          "summary": "Public-school teachers began an indefinite national strike on 9 November, called by the FEP, UNE-SN, OTEP-Auténtica, OTEP-SN and the school directors' union SINADI, with the main rally at the Plaza de Armas facing Congress. They demand the return of about USD 60 million of Caja Fiscal money and USD 350 million of IPS pension funds caught in Ueno Bank, state guarantees for pensions, a law shielding the two funds, an 8% salary rise and more education spending in the 2027 budget. Classes were suspended nationwide and the Hambre Cero school-meals programme was paused in Asunción, Central, Presidente Hayes and San Pedro. The government opened talks the same day and later agreed to lift the salary floor from 5% to 8%, clear pending retirements and extend the school day by 30 minutes in exchange for no pay deductions.",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/EHS6R2X5OZD5VGXX754ROA6CKA.jpg?auth=3454ff7fee28dd75a8460283d92c082fd615dfb49875551c6d0eb3becc200250&width=1200&height=630&smart=true",
+          "summary": "Two officers of the Third Metropolitan Police Station were ambushed before dawn on 19 November at the corner of República de Colombia and Tacuary in central Asunción. Five hooded men wearing bullet-proof vests and carrying rifles overpowered them, stripped them of their service weapons and radios, and left them tied up in a wooded area near Silvio Pettirossi airport in Luque; workers freed them with a grinder. The captors spoke Spanish, Guaraní and Portuguese and used radio equipment. Police said they believe the gang was preparing a larger operation that was aborted by the officers' presence. A raid on a suspected safe house in Luque on 21 November seized signal jammers, radios, tactical gloves, magazines and patches bearing the SENAD logo, reinforcing the theory of a well-equipped criminal cell posing as security forces.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/T2CU7LZLRJGB3AJJLCXCVA4Y5M.jpeg?auth=af3dff7a13b05229256441b61f7351af192881a65bf171368f53b3956f0f8126&width=1200&height=630&smart=true",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "Paraguay asks Argentina, Luxembourg and the US to trace Ueno Bank assets (2026-11-10)",
-          "date": "2026-11-10",
-          "source_url": "https://www.elnacional.com/2026/11/que-paso-con-el-dinero-de-ueno-bank-en-paraguay-y-cuanto-falta-recuperar/",
-          "source_name": "El Nacional (Venezuela)",
-          "summary": "The Paraguayan government confirmed it asked Argentina, Luxembourg and the United States for judicial cooperation to trace possible Ueno Bank funds and assets abroad. Prosecutors have detained eight executives, including former bank president Juan Manuel Gustale and controlling shareholder Federico Miguel Vázquez Villasanti, and imposed preventive embargoes of USD 70 million and G. 1.62 trillion. The IPS says USD 328-380 million of pension money was exposed, putting benefits for about 32,000 retirees at risk, and has filed a criminal complaint. Public-sector deposits in the bank are estimated at USD 850-869 million, about 29% of deposits at June. The case has become a test of Paraguay's ability to recover assets across borders.",
-          "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/10155024/AFP__20261110__D73J6TP__v1__HighRes__ParaguayPoliticsBankingCrisis-2560x1691.jpg",
+          "title": "Anti-drug raid in Presidente Franco finds six guns, a silencer, a drone and five crypto-mining rigs (2026-11-19)",
+          "date": "2026-11-19",
+          "source_url": "https://www.lanacion.com.py/pais/2026/11/19/imputaron-a-dos-detenidos-tras-hallazgo-de-seis-armas-de-fuego-silenciador-y-droga/",
+          "source_name": "La Nación",
+          "summary": "Anti-narcotics prosecutors and police raided two homes in the San Damián neighbourhood of Presidente Franco, Alto Paraná, on 19 November, arresting Marcial López Figueredo, 38, and Víctor Manuel Cantero Portillo, 25. They seized six firearms — a 12-gauge shotgun, an Intratec .22 submachine pistol with an erased serial number, rifles fitted with night and telescopic sights and a .32 revolver — plus a silencer, ammunition, a drone, camouflage uniforms, police and SENAD patches, five working crypto-mining machines and a Kia Rio. Investigators suspect the property was a safe house for a robbery gang that used tactical uniforms to simulate official operations. The raid illustrates how crypto-mining equipment and military-style gear are now part of the logistics of organised crime in the tri-border area.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/6VZQABMBRJCP3PIR64SR3SKS3M.jpg?auth=93e71fd19eb9619923f98f1838786afd941ea6f83ca23bb0eaec807734e2388e&width=1200&height=630&smart=true",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "Police bring forward the year-end 'Año Paha' operation with 5,900 officers in the capital region (2026-11-11)",
-          "date": "2026-11-11",
-          "source_url": "https://www.adndigital.com.py/policia-adelanta-operativo-de-fin-de-ano-con-controles-patrullas-y-agentes-tacticos/",
-          "source_name": "ADN Digital",
-          "summary": "After a run of armed robberies and an attempted ATM break-in in San Lorenzo, the National Police brought forward its year-end 'Año Paha' security operation. It deploys about 2,347 officers in Asunción and 3,550 in Central department, plus tactical units with long weapons, the Lima 40 group, motorcycles, patrols and investigators. Banks, shopping areas, ATMs and residential neighbourhoods are prioritised, with coverage extended to Alto Paraná (especially Ciudad del Este), Amambay, Canindeyú, Curuguaty and Saltos del Guairá. The police offer free escorts for cash transfers, including the December bonus, and 5,000 new officers are due to graduate on 18 December. Officials link the early deployment to the heightened risk during the banking crisis.",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/DV25FKSXGFGKHENVGSBJ73NTBI.jpg?auth=95e075c81134f6b697150b6bed45786a7c9921fd8295016870659f1449a2f9e0&width=1200&height=630&smart=true",
+          "title": "IPS pays 91,000 pensioners USD 130m in November pensions and bonus a day early (2026-11-19)",
+          "date": "2026-11-19",
+          "source_url": "https://cdn-www.lanacionpy.arcpublishing.com/negocios/2026/11/19/pago-a-jubilados-y-pensionados-del-ips-moviliza-usd-130-millones-a-la-economia/",
+          "source_name": "La Nación",
+          "summary": "The Instituto de Previsión Social paid November pensions and the annual bonus, the aguinaldo, to more than 91,000 retirees and pensioners one day ahead of the scheduled date, injecting about USD 130 million into the economy, the institute said. Around 32,000 beneficiaries who used to be paid through Ueno Bank were reassigned automatically to eight banks designated by the IPS, with no compulsory in-person procedure; the banks opened collection counters to hand out cards and PINs. The IPS clarified that pensions are funded by worker and employer contributions and the bonus by investment income, so the payout was never at risk from the Ueno resolution, in which the institute has legal priority over roughly USD 516 million of deposits.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/RAL5XGR3ONCB5HG62C7UBXTDSI.jpg?auth=4c79543a3012057d7782e42e077f7192ae26826ccee84398a9ba83d1350060dd&width=1200&height=630&smart=true",
           "is_gov_source": true,
-          "is_authoritative": true
-        },
-        {
-          "title": "Shootout in Ciudad del Este leaves one suspect dead and another wounded (2026-11-11)",
-          "date": "2026-11-11",
-          "source_url": "https://www.lanacion.com.py/pais/2026/11/11/policia-frustro-asalto-persiguio-a-los-sospechosos-abatio-a-uno-e-hirio-a-otro-en-cde/",
-          "source_name": "La Nación",
-          "summary": "An off-duty police officer foiled a motorcycle robbery in Ciudad del Este on 11 November, pursued the suspects and exchanged gunfire, killing one attacker and wounding another. Both suspects had criminal records. The incident came amid reports of an insecurity wave in Alto Paraná, with vehicle thefts and robberies in Ciudad del Este, Minga Guazú, Presidente Franco and Hernandarias, and follows the early launch of the Año Paha operation. Business groups in the triple-border area have long complained about the cost of private security and the impact of crime on retail and logistics; the new Interior Minister, Ariel Martínez, has promised a harder line and tighter coordination with the Public Ministry.",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/S7MW36RBGFBQ5GMEYZ6NDCNFLY.png?auth=b4716a0afc9ed4d96d49b9c1d692c1fcd23e6a8a8b50dbb5ecd6c0ae46b8b6a8&width=1200&height=630&smart=true",
-          "is_gov_source": false,
           "is_authoritative": true
         }
       ]
@@ -154,32 +164,32 @@
       "user_notes": "",
       "events": [
         {
-          "title": "Alliana keeps Peña's foreign policy and says US, Israel and Taiwan ties remain intact (2026-11-08)",
-          "date": "2026-11-08",
-          "source_url": "https://www.lanacion.com.py/politica/2026/11/05/alliana-mantendra-la-politica-exterior-de-pena-y-ratificara-alianzas-con-ee-uu-israel-y-taiwan/",
+          "title": "Alliana accepts Lula's invitation as the Itaipú tariff deadline of 31 December approaches (2026-11-19)",
+          "date": "2026-11-19",
+          "source_url": "https://cdn-www.lanacionpy.arcpublishing.com/politica_edicion_impresa/2026/11/19/alliana-tratara-anexo-c-con-lula-y-confirma-viaje-a-cumbre-de-mercosur/",
           "source_name": "La Nación",
-          "summary": "President Alliana will maintain Santiago Peña's foreign policy and reaffirm alliances with the United States, Israel and Taiwan, according to government officials quoted after the transition. Taiwan, Paraguay's only diplomatic ally in South America, said on 6 November that the change of government would not affect relations, and Asunción signalled that ties with Washington, Jerusalem and Taipei remain intact. The continuity covers the SOFA status-of-forces agreement signed in March 2026, participation in the US-led 'Shield of the Americas' security initiative and cooperation against transnational crime. A planned meeting between Peña and Donald Trump on 14 November was left in doubt; officials said it could be held by videoconference with Alliana. Beijing sanctioned MITIC minister Gustavo Villate in October over his Taiwan support.",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/PT3DOCXHLZBWPBSEGIYENDWF2E.jpeg?auth=9fce9066187c8a7fc8a1c93a2e5e6726dbd6827b4f45278f39b868959ba9eb41&width=1200&height=630&smart=true",
+          "summary": "Foreign Minister Rubén Ramírez Lezcano confirmed that President Alliana has accepted an invitation from Brazil's Luiz Inácio Lula da Silva for a bilateral meeting in Brasília, with the date still to be fixed. The two governments aim to set the Itaipú tariff before 31 December, when the current agreement expires, and to address the review of Annex C of the 1973 treaty during 2027 — a further postponement after missed 2024, 2025 and 2026 deadlines. Technical teams are led by Industry Minister Marco Riquelme for Paraguay and Mines and Energy Minister Alexandre Silveira for Brazil, before the foreign ministers and presidents take over. The current tariff is USD 19.28 per kW-month for 2024-2026, generating about USD 1.25 billion a year; Brazil is pressing for USD 10-12, while Paraguay favours a gradual reduction. Analysts warn that without a political deal the strict-cost tariff could cost Paraguay about USD 650 million a year in extraordinary funds. Alliana also named Hugo Zárate as interim director of Itaipú and renewed the council.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/IKAVHXGUCBBNDIBHBE6UIV3EZI.jpg?auth=06556d2f560bb9b6447b5dba9c45a3f1067a82a355f0438f4942137b0a317908&width=1200&height=630&smart=true",
+          "is_gov_source": true,
+          "is_authoritative": true
+        },
+        {
+          "title": "Alliana to attend his first Mercosur summit on 4 December as the Taiwan trip is shelved (2026-11-18)",
+          "date": "2026-11-18",
+          "source_url": "https://cdn-www.lanacionpy.arcpublishing.com/politica/2026/11/18/el-presidente-pedro-alliana-evalua-una-agenda-internacional/",
+          "source_name": "La Nación",
+          "summary": "Foreign Minister Rubén Ramírez Lezcano said on 18 November that President Alliana has a series of international invitations he will weigh one by one, confirming that the president will travel to Montevideo on 4 December for the 69th Mercosur summit of heads of state — his first since taking office, and a same-day round trip. A planned official visit to Taiwan, originally set for 24 November, was postponed with no new date, with the government saying the president will stay in Paraguay to manage the Ueno crisis; Paraguay keeps its diplomatic ties with Taipei. A visit by the Emir of Qatar is also under consideration. The Mercosur meeting will be Alliana's main multilateral debut and follows his decision to negotiate the Itaipú tariff directly with Brazil's Luiz Inácio Lula da Silva.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/IRO2E7X2IVEMZOBCH5JWSMIWFM.jpeg?auth=fb2fd3c8a07c2fe6bb8542c021c309f646aa20af9c7c2b82ccfa623908121ef7&width=1200&height=630&smart=true",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "Alliana suspends his official trip to Taiwan to focus on the domestic crisis (2026-11-09)",
-          "date": "2026-11-09",
-          "source_url": "https://www.ultimahora.com/alliana-suspende-viaje-a-taiwan-el-presidente-gobernara-en-paraguay",
-          "source_name": "Última Hora",
-          "summary": "Chief of staff Rolando de Barros Barreto confirmed that Alliana suspended his official visit to Taiwan, scheduled for 24 November with a meeting with President Lai Ching-te, to prioritise the domestic agenda. 'He is not one to travel much; his priority is here in the country now,' the official said. The decision distances Alliana from Peña, who was criticised for more than 70 trips, and follows a presidential inauguration speech that did not mention Taiwan. Taipei said the relationship is unaffected, but the episode has revived debate over Paraguay's diplomatic recognition. At least 19 Paraguayan legislators have visited China since late 2023, and a pragmatic, Beijing-leaning faction of the Colorado Party is pressing to open trade ties, though no immediate switch is expected.",
-          "image_url": "https://grupovierci.brightspotcdn.com/dims4/default/3f61671/2147483647/strip/true/crop/1440x810+0+70/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7d%2F9d%2F170750a441aa8263bba33542d438%2Fgabinete-alliana.jpg",
-          "is_gov_source": false,
-          "is_authoritative": true
-        },
-        {
-          "title": "Lula congratulates Alliana and invites him to Brasilia as Itaipú Annex C tops the agenda (2026-11-07)",
-          "date": "2026-11-07",
-          "source_url": "https://www.opovo.com.br/noticias/mundo/2026/11/07/lula-deseja-exito-a-pedro-alliana-como-presidente-do-paraguai.html",
-          "source_name": "O Povo / El Nacional",
-          "summary": "Brazilian President Luiz Inácio Lula da Silva, re-elected in October, congratulated Pedro Alliana and invited him to Brasilia to review the bilateral agenda and give 'renewed impetus' to relations; Alliana said he expects a 'very fruitful' relationship. The central issue is the revision of Annex C of the Itaipú Treaty: the dam's debt was paid off in February 2023 and the review was due by December 2024, but no agreement was reached. The current tariff of USD 19.28 per kW runs to the end of 2026; Paraguay resists a sharp cut because it wants the revenue for infrastructure and social programmes, while Brazil opposes an increase for regulated consumers. The new ANDE head, Félix Sosa, called the review a 'fundamental strategic priority' and Alliana plans to travel to Brasilia before the end of 2026.",
-          "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/09/13203208/Lula-Brasil.jpg",
+          "title": "Expo Paraguay-Brasil closes with USD 640m in business intentions despite the political crisis (2026-11-15)",
+          "date": "2026-11-15",
+          "source_url": "https://www.lanacion.com.py/negocios/2026/11/15/expo-paraguay-brasil-supero-expectativas-reunio-a-mas-de-mil-empresas-y-proyecta-negocios-por-usd-640-millones/",
+          "source_name": "La Nación",
+          "summary": "The 17th Expo Paraguay-Brasil, the core of Paraguay Business Week held in Hernandarias from 11 to 13 November, closed with USD 640 million in projected business, above the USD 600 million target and 52% more than the USD 421 million of the previous edition. The organisers, the Paraguay-Brazil chamber of commerce, reported more than 3,100 business meetings, 1,182 participating companies from seven countries, 1,283 principal participants, 15,637 visitors — up 74% — and 362 exhibitors. Brazil accounted for 69.8% of international participation, followed by Paraguay at 29.1%, with smaller delegations from Argentina, Uruguay, Spain, the United States and Peru. Construction, food and beverages, metalworking, technology, professional services, logistics, energy and agribusiness were the main sectors. Organisers highlighted Brazilian interest in the Investor Pass, Law 60/90 incentives and the maquila regime, and said they intend to repeat the event in 2027.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/I5NGA3R2ERAG5JJMESZ5R6TFLE.jpeg?auth=e1f73d8d8fa00e074ef4794222525e59671b721ef512bd1870991b5048555ccc&width=1200&height=630&smart=true",
           "is_gov_source": false,
           "is_authoritative": true
         }
@@ -192,42 +202,32 @@
       "user_notes": "",
       "events": [
         {
-          "title": "Contraloría recommends revoking Nubicom's 5G licence as Conatel opens a sumario (2026-11-09)",
-          "date": "2026-11-09",
-          "source_url": "https://www.latribuna.com.py/nacionales/locales/2026/11/09/nubicom-contraloria-pide-evaluar-el-retiro-de-la-licencia-5g/",
-          "source_name": "La Tribuna",
-          "summary": "The Comptroller General recommended that Conatel evaluate extinguishing Nubicom Paraguay's 5G licence, awarded by Resolution 2635/2025, after finding it could not prove the first-year rollout plan. Conatel had already opened an administrative sumario (Resolution 2816/2026) after Argentine shareholder Nubicom SRL notified an unauthorised transfer of shares on 5-6 November and failed to identify the buyer, leaving the regulator unsure who controls the licensee. Press reports link Nubicom to the Grupo Vázquez and Ueno Bank; Conatel transferred G. 70 billion to Ueno in October (G. 50 billion from Interfisa on 13 October and G. 20 billion from BNF on 15 October) and Ueno issued a USD 75,000 bid bond for the licence. Conatel says Nubicom met the initial build with 34 radio bases inspected, but has only two subscribers.",
-          "image_url": "https://www.latribuna.com.py/resizer/v2/BZEXKVYBWNEMJI5A5VN5U55DAY.png?smart=true&auth=0d270967f9d33afec97ed75258b93534de14ec3f59af85d144c4b31e8dbae6b6&width=1200&height=630",
+          "title": "Electricity demand rises 16% in January-October as Itaipú supplies 92% of the system (2026-11-16)",
+          "date": "2026-11-16",
+          "source_url": "https://www.hoy.com.py/nacionales/2026/11/16/el-consumo-electrico-en-paraguay-subio-un-16-entre-enero-y-octubre",
+          "source_name": "Diario HOY / ANDE",
+          "summary": "ANDE reported that accumulated electricity demand reached 27,407.1 GWh between January and October, 16% more than in the same period of 2025. October demand alone was 2,712,712 MWh, up 7.2% year-on-year, a slower pace than the 35.4% surge in April that was partly driven by high-consumption crypto-mining customers. Itaipú supplied 24,121 GWh to ANDE in the ten months, up 16.23%, and covered 92.3% of October demand; Yacyretá contributed 6.5% with a 43% increase, and Acaray 1.2%. The Puerto Esperanza solar plant in the Chaco injected about 33 MWh, the first solar contribution to the interconnected system. The electricity-sector professionals' institute IPPSE warned that 2028-2030 will be critical: demand is growing by more than 500 MW a year and could reach 800-1,000 MW in the 2030s, Paraguay's Itaipú quota could be fully absorbed by 2030, and deficits could appear from 2031 unless firm capacity, regional imports or a 20-year plan are put in place.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/PSBVOY4NVNG43DXWQVSSSL4MEE.jpg?auth=fc7ad85e2ec53d806f24fc1f536eb46433120dd5f8e6da251b18873ddc83f9b5&width=1200&height=630&smart=true",
           "is_gov_source": true,
           "is_authoritative": true
         },
         {
-          "title": "ANDE will let crypto-mining contracts expire in 2027 and redirect Itaipú surplus to AI data centres (2026-11-13)",
-          "date": "2026-11-13",
-          "source_url": "https://www.diariobitcoin.com/mineria/paraguay-pondra-fecha-de-vencimiento-a-los-contratos-electricos-especiales-para-mineros-de-bitcoin/",
-          "source_name": "Diario Bitcoin",
-          "summary": "ANDE says all special electricity contracts for crypto miners will expire on 31 December 2027 and will not be extended. Miners contracted about 944 MW until April, close to 13% of Paraguay's Itaipú share, and generated about USD 350 million of revenue in 2026. The surplus is being redirected to AI data centres: Kuntur, linked to Araico and the USD 12 billion Iguazú AI City project, won a 15-year contract for up to 286 MW, starting with 6 MW on 1 December 2026 and scaling to 286 MW by 2029, at a reported tariff of USD 48.91-56.39 per MWh. Crusoe Energy and Araico plan an initial 106 MW with an option to expand to about 280 MW, with first facilities in mid-2027. HIVE, which has about 77% of its mining capacity in Paraguay, also loses its 200 MW and 100 MW contracts at end-2027. National demand rose 17.9% in the first eight months of 2026.",
-          "image_url": "https://diariobitcoin.b-cdn.net/wp-content/uploads/2026/11/canuto-imagine-1794618182.jpg",
+          "title": "Paraguay hosts IBERAMIA 2026, its first Ibero-American AI conference (2026-11-18)",
+          "date": "2026-11-18",
+          "source_url": "https://www.pol.una.py/2026/la-fp-una-fue-sede-de-los-workshops-de-iberamia-2026-encuentro-internacional-de-inteligencia-artificial/",
+          "source_name": "FP-UNA",
+          "summary": "The Polytechnic Faculty of the National University of Asunción (FP-UNA) hosted the workshops and tutorials of IBERAMIA 2026, the 19th Ibero-American Conference on Artificial Intelligence, on 17 November at its San Lorenzo campus, with the official opening that evening at the Universidad Comunera. The main plenary and technical sessions ran from 18 to 20 November at the Faculty of Science and Technology on the Catholic University's Santa Librada campus. It is the first time Paraguay has hosted the conference, organised by the UNA and the Catholic University with support from the Universidad Comunera and the Paraguayan AI Society, and accepted papers are published in Springer's Lecture Notes in Artificial Intelligence. The event put Paraguayan researchers in contact with Ibero-American teams across machine learning, knowledge representation, natural language processing and applied AI at a moment when the government is trying to move from AI consumer to developer, through a sovereign data-centre project with Taiwan and an AI bill that the Senate approved in October 2025 but the Chamber of Deputies has yet to pass.",
+          "image_url": "https://www.pol.una.py/wp-content/uploads/IMG_0075-scaled.jpg",
           "is_gov_source": false,
           "is_authoritative": true
         },
         {
-          "title": "Paraguay Business Week opens in Ciudad del Este with 260 stands and USD 600m target (2026-11-12)",
-          "date": "2026-11-12",
-          "source_url": "https://cdn-www.lanacionpy.arcpublishing.com/negocios_edicion_impresa/2026/11/12/se-inicio-la-mayor-feria-integrada-en-el-este/",
-          "source_name": "La Nación",
-          "summary": "The largest integrated trade fair in Paraguay opened in Ciudad del Este, combining the 17th Paraguay-Brazil Expo, the 10th Expo Maquila, the Alto Paraná Forum Invest and Plaza MiPYMEs. It has 260 stands, more than 300 exhibitors and about 2,000 business meetings, with organisers expecting more than USD 600 million in deals and 12,000 visitors. The Paraguay-Brazil chamber of commerce organised the event with support from the Industry Ministry through Rediex. Bilateral trade reached USD 6,700 million between January and October, up 8% year-on-year, but about 320 Brazilian companies with Paraguayan plants, 90 of them in textiles, are watching credit and payment conditions cautiously after the Ueno crisis.",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/A52M3DWJANHNHJDPFCC55WXSZ4.jpg?auth=8cb75542f1a3e8cbb4f4aee40b6ce886b388d237fa6de52cd49af48c2baabe31&width=1200&height=630&smart=true",
-          "is_gov_source": false,
-          "is_authoritative": true
-        },
-        {
-          "title": "Alliana suspends power cuts until 31 December and freezes electricity tariffs for a year (2026-11-13)",
-          "date": "2026-11-13",
-          "source_url": "http://spanish.xinhuanet.com/20261113/a019de9fa8df41e5a248f4c3233ff149/c.html",
-          "source_name": "Xinhua",
-          "summary": "President Alliana suspended electricity cut-offs for non-payment until 31 December for low- and medium-voltage users and allowed debts to be paid in up to 24 interest-free instalments without penalties. He also said the electricity tariff will not rise for at least a year. The measures are aimed at households and small firms hit by the Ueno Bank crisis and the sudden depreciation of the guaraní, and they add to fiscal pressure on ANDE at a time when demand is growing 17.9% and the government is negotiating the Itaipú Annex C tariff with Brazil. Analysts warn that freezing tariffs while costs rise shifts the burden to the utility's balance sheet and may delay needed grid investment.",
-          "image_url": "https://www.lanacion.com.py/resizer/v2/PB4PJQNBYJAGVJERJFYDCMNYZA.jpg?auth=e69ba96ffe8273aab9f3ed0fe61c0ac82ee439ee8457e6e3fdd076611dae7ffe&width=1200&height=630&smart=true",
+          "title": "Government reports 800 Starlink kits in rural schools and another 400 arrive (2026-11-21)",
+          "date": "2026-11-21",
+          "source_url": "http://tw.tokenpost.com/news/blockchain/74786",
+          "source_name": "TokenPost / MITIC",
+          "summary": "The government said 800 Starlink kits had been installed in rural schools by 16 November, half of the 1,600 target, with the latest connection in Santa Lucía, Yataity del Norte, in San Pedro department. MITIC said a further 400 kits arrived on 20 November, which would take the programme to 1,200 of the 1,600 school connections planned. The project is run by MITIC and the state telecoms company COPACO with Conatel and the Ministry of Education, and is intended to give students and teachers in hard-to-reach areas access to education platforms and digital materials; the government estimates more than 50,000 students and teachers will benefit. The Justice Ministry is manufacturing the antenna mounts with inmates. Elon Musk amplified the programme on 21 November with a post saying 'Starlink helps education'. The figures are a rare piece of good news for the government's digital agenda amid the Ueno crisis.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/CSM3GWJXURGYJPHK6XLEC4J7MA.jpg?auth=e67ad4b19436cf40c552a94a912f4ba7a787ab37df800b3ec7a082ff243a0cfc&width=1200&height=630&smart=true",
           "is_gov_source": true,
           "is_authoritative": true
         }
@@ -240,52 +240,50 @@
       "user_notes": "",
       "events": [
         {
-          "title": "Millicom (Tigo) reports USD 175m Paraguay service revenue and a 54.8% EBITDA margin in Q3 (2026-11-05)",
-          "date": "2026-11-05",
-          "source_url": "https://stockanalysis.com/filings/TIGO/3938358/",
-          "source_name": "Millicom / SEC filing",
-          "summary": "Millicom's third-quarter results, published on 5 November, show Paraguay service revenue of USD 175 million, up 3.6% organically year-on-year on postpaid growth, and adjusted EBITDA of USD 101 million, up 11% organically, for a 54.8% margin, one of the highest in the group. At group level service revenue was about USD 2.1 billion (+5.4% organic), adjusted EBITDA a record USD 1.09 billion (+7.7%) at a 48% margin, and equity free cash flow USD 316 million, keeping the full-year guidance near USD 1.1 billion. Leverage fell to 2.53x. Paraguay is grouped with Guatemala, Panama and Ecuador as moderate-growth, high-margin markets. Tigo holds 100 MHz of 2.3 GHz spectrum and must launch commercial 5G by February 2027.",
-          "image_url": "https://www.telesemana.com/wp-content/uploads/2025/04/FWA.jpg",
+          "title": "Tigo partners with the MSME vice-ministry on digital tools and e-commerce for small firms (2026-11-20)",
+          "date": "2026-11-20",
+          "source_url": "https://revistafoco.com.py/2026/11/20/mipymes-suman-aliados-para-vender-por-internet-e-impulsar-el-diseno/",
+          "source_name": "Revista FOCO",
+          "client_tag": "Tigo",
+          "summary": "During Paraguay Business Week, the vice-ministry of MSMEs signed cooperation agreements with Tigo Paraguay and the Paraguayan Chamber of Design and Innovation to give small firms access to digital tools, e-commerce and new markets. Vice-minister Gustavo Giménez said connectivity is a basic condition for online commerce and that a package of digital solutions is being prepared with the Paraguayan E-commerce Chamber. The alliance will use Tigo's connectivity network so that small companies can not only advertise but also close sales and reach foreign markets. For Tigo, the agreement deepens its position in the SME segment at a time when the Ueno crisis is squeezing working capital and pushing merchants online. It also complements Tigo's network investment and its 5G obligations: the operator must light its first 5G base station by February 2027 and at least 100 sites within four years under the licences awarded in August 2026.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/BQSNZNE6TVGTBHOXOPULFTCO6I.jpg?auth=b1715f59f1af3a13b18197c6178567d55d9713a0f69348e59f63c31017267b76&width=1200&height=630&smart=true",
           "is_gov_source": false,
-          "is_authoritative": true,
-          "client_tag": "Tigo"
+          "is_authoritative": true
         },
         {
-          "title": "Telecom Argentina: Personal's Paraguay revenue rises 8.3% in real terms in Q3 (2026-11-12)",
-          "date": "2026-11-12",
-          "source_url": "http://archive.fast-edgar.com/20261112/ACBZ822D8M22B2ZU222R2MZZGNLLZ2V2ZV82/",
-          "source_name": "Telecom Argentina / SEC filing",
-          "summary": "Telecom Argentina, which operates in Paraguay through Núcleo S.A. under the Personal brand, reported third-quarter mobile service revenue in Paraguay of P. 66,324 million, up 8.3% in real terms year-on-year, and P. 191,752 million for the first nine months, up 16.7% in real terms. The group posted a net loss of P. 56,615 million in the quarter but a net profit of P. 862,959 million for the nine months. TV subscribers across Argentina, Uruguay and Paraguay reached 3.6 million, up 4.3%. Núcleo won 5G lots I and J in the 3.7-3.8 GHz band for USD 1 million in July, of which USD 0.7 million has been paid, and must start commercial 5G by February 2027. Personal also plans to launch 5G standalone commercially.",
-          "image_url": "https://dplnews.com/wp-content/uploads/2026/06/Gemini_Generated_Image_2s4av12s4av12s4a-1024x572.png",
+          "title": "Personal's Flow broadcasts the María Becerra concert in Paraguay on channel 25 (2026-11-15)",
+          "date": "2026-11-15",
+          "source_url": "https://eldoce.tv/show/2026/11/12/maria-becerra-llega-a-flow-con-su-quimera-tour-360-cuando-y-donde-ver-el-show-en-vivo/",
+          "source_name": "El Doce / Telecom Argentina",
+          "client_tag": "Personal",
+          "summary": "Flow, the pay-TV and streaming platform of Telecom Argentina's Personal, broadcast María Becerra's Quimera Tour 360° live from the M. Arena in Buenos Aires on Sunday 15 November at 21:00. The show was available to Flow customers in Argentina on channel 605, Uruguay on channel 119 and Paraguay on channel 25, and remains available on demand. The event is a small but useful signal of Personal's cross-border content strategy: the operator uses Argentine-produced content to differentiate its Paraguayan pay-TV and broadband offer while it prepares its 5G launch. Personal, through Núcleo S.A., holds 100 MHz in the 3.7-3.8 GHz band awarded in August 2026 and must activate its first 5G base station by February 2027, with at least 100 sites within four years. Telecom Argentina reported 9M26 revenue of USD 1,778 million, up 18%, and adjusted EBITDA of USD 642 million.",
+          "image_url": "https://eldoce.tv/resizer/v2/R62KMDRUYBHADAI2PEWDFZIMQE.png?auth=ee8bd277bd8a89eb57e624ce8a605f019b75c2a75e2afcd79aa71a714cc8353f&width=1023",
           "is_gov_source": false,
-          "is_authoritative": true,
-          "client_tag": "Personal"
+          "is_authoritative": true
         },
         {
-          "title": "Claro remains the only live 5G network as Tigo and Personal race the February 2027 deadline (2026-11-12)",
-          "date": "2026-11-12",
-          "source_url": "https://www.rdn.com.py/2026/10/02/cuando-llegara-la-conectividad-5g-a-todo-el-pais/",
-          "source_name": "RDN / Conatel",
-          "summary": "Claro, which won 200 MHz in the 3.5 GHz band in the first auction and launched commercially in late 2025, remains the only operator with live 5G in Paraguay, covering 27 cities in 10 departments and more than 3 million people with a USD 35 million five-year plan and more than 100 sites expected by the end of 2026. Tigo and Personal, which won 100 MHz each in the August 2026 second auction, have 180 days from notification to start commercial service, a deadline that falls in February 2027, and must deploy at least 100 radio bases each in four years, 10 of them for state entities within two years. Their projects foresee 250-500 sites and about USD 79-80 million of investment. Neither had launched commercially as of mid-November.",
-          "image_url": "https://www.rdn.com.py/i/jpeg/1200/2026/10/5gplazospy.jpg?v=jpeg92",
+          "title": "Continental and Itaú absorb Ueno deposits and payments as the system's top two banks (2026-11-15)",
+          "date": "2026-11-15",
+          "source_url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/15/ueno-bank-en-resolucion-usd-600-millones-de-activos-potables/",
+          "source_name": "La Nación",
+          "client_tag": "Itaú / Continental",
+          "summary": "BCP data to September confirm Banco Continental as Paraguay's largest deposit-taker with 18.9% of the market, about USD 6.15 billion, followed by Itaú with 13.6%, or about USD 4.45 billion; the top five banks hold 66.2% of the system's USD 32.5 billion in deposits. Both banks were authorised by the BCP to pay the deposit guarantee to Ueno clients and are among the seven institutions paying IPS pensions and the annual bonus. The Supreme Court also redirected judicial-fee payments from Ueno to Itaú, Basa, Continental and Sudameris, leaving about G. 250 million in collected fees pending transfer. Itaú Paraguay recently obtained a Baa3 long-term rating from Moody's with a stable outlook, adding to its BBB- from S&P and making it the only Paraguayan bank with a double investment-grade rating. The reallocation of Ueno deposits and public-sector accounts is a structural gain for the top-tier banks, but it also concentrates systemic risk.",
+          "image_url": "https://www.lanacion.com.py/resizer/v2/4SLKSYSKIJGDDGY5GPYMEXBJY4.jpg?auth=6a5feb44ac59c09280cef7033346a80ab8815f6b8b3fb18ab33e4cc18ee18639&width=900&height=472&smart=true",
           "is_gov_source": false,
-          "is_authoritative": true,
-          "client_tag": "Claro / Tigo / Personal"
+          "is_authoritative": true
         }
       ]
     },
     {
       "title": "VII. Integrated Impact Analysis for Business",
       "tier": 2,
-      "events": [],
-      "impact_analysis": "🔴 Paraguay has moved from a macro story to a solvency-and-governance story. The resolution of Ueno Bank froze about USD 2.8 billion of deposits, including USD 328-380 million of IPS pension money and about USD 60 million of Caja Fiscal funds, and triggered the removal of President Peña, a new government, a new BCP board and the first FX intervention of 2026. The guaraní swung from G. 5,945 on 30 October to G. 6,600 intraday before settling at G. 6,215.89 on the 13 November planilla, a depreciation of roughly 4.5% in two weeks that reverses part of the 11% year-to-date appreciation. The macro fundamentals remain strong: record exports of USD 17.8 billion through October, a USD 668.6 million trade surplus, 1.7% inflation and a 5.0% growth forecast. But confidence is now the binding constraint. For business: (1) FX volatility is the first-order risk, with a realistic range of G. 6,000-6,600 through year-end; (2) bank counterparty risk is elevated, and the deposit guarantee covers only about 27% of Ueno's deposits; (3) the state's temporary administration of Ueno-linked firms may disrupt suppliers, tenants and service contracts; (4) fiscal pressure, with a 2.0%-of-GDP deficit to September and a 3.2% forecast, limits room for tax relief; (5) the February 2027 5G deadline and ANDE's pivot to AI data centres create capex opportunities but also regulatory uncertainty; (6) the new government is reviewing contracts and reshuffling ministries, so public tenders will slip.",
+      "impact_analysis": "🔴 Paraguay has moved from a liquidity shock to a slow-burn confidence and governance crisis. The resolution of Ueno Bank is being managed better than feared — about USD 644 million paid to 1.8 million depositors, USD 600 million of healthy assets identified and a deposit-guarantee fund of roughly USD 1.6 billion — but the second-order effects are now visible. The guaraní has swung from G. 5,945 at end-October to G. 6,216 on 13 November and G. 6,407 on 20 November, a 7.8% depreciation in three weeks that raises import costs, dollar-debt service and pricing uncertainty. The BCP has held the policy rate at 5.50% and kept inflation at 1.7%, but its new president is openly reviewing the monetary framework, which adds medium-term uncertainty even as the 3.5% target is reaffirmed.\n\n🟡 The fiscal and political calendar is the main near-term risk. The 2027 budget of G. 166.3 trillion (about USD 25.75 billion) carries a 3.9% of GDP deficit against a 1.5% fiscal rule, and the Senate will not debate it until 24 November, four days before the constitutional deadline; any amendment sends it back to Deputies, compressing the window to 20 December. Fitch's negative watch on BB+ and Moody's governance warning mean that the planned return to international bond markets in early 2027 will be more expensive. The removal of Fiscal General Rolón and the appointment of an interim prosecutor do not resolve the question of who controls the Ueno investigation, and further institutional turnover is likely.\n\n🟢 The real economy is still growing — IMAEP +3.9% in September, record exports and 16% electricity-demand growth — and the Ueno case remains, so far, idiosyncratic rather than systemic. But business surveys show sales falls of 30-40% among affected merchants, MSMEs are short of working capital, and the government's AFD lines and MIC-Treasury-Asoban working group are only a partial bridge. For companies, the priorities are counterparty diversification away from institutions with Ueno exposure, active FX hedging, tighter credit terms for local distributors, and close monitoring of the 24-28 November budget window and the 31 December Itaipú tariff deadline, which could shift energy costs and fiscal revenue by several hundred million dollars.",
       "user_notes": ""
     },
     {
       "title": "VIII. Targeted Recommendations for Chinese Enterprises",
       "tier": 2,
-      "events": [],
-      "impact_analysis": "🟡 Chinese enterprises should treat the next quarter as a liquidity and contract-risk exercise. (1) Treasury: move idle guaraní balances to top-tier banks or into USD, and map exposure to Ueno-linked Grupo Vázquez companies and to counterparties dependent on IPS or Caja Fiscal payments. (2) Contracts: index prices to the BCP planilla, add FX-adjustment and banking-holiday clauses, and shorten receivables where possible. (3) Supply chain: about 320 Brazilian firms with Paraguayan plants, 90 in textiles, face tighter credit; expect slower payments and more requests for supplier financing. (4) Energy-intensive projects: secure long-term PPAs before the 2027-28 supply crunch; ANDE's 286 MW Kuntur contract and the end-2027 crypto deadline show priority access is going to AI data centres, while tariffs are frozen for a year. (5) Telecom: Claro is live in 27 cities while Tigo and Personal must launch by February 2027; equipment, integration and data-centre opportunities exist, but the technical rules still exclude Chinese 5G vendors, so focus on non-RAN layers and enterprise solutions. (6) Public sector: expect delays and re-tendering at MOPC, MITIC and ANDE as the new government reviews contracts. (7) Political risk: Alliana governs with a fragmented Colorado Party and a mobilised street; continuity on Taiwan and the US is likely, but a Beijing opening cannot be excluded, so avoid making Taiwan-related commitments a condition of commercial deals.",
+      "impact_analysis": "🟡 Banking and treasury: diversify deposits and payment flows across at least two top-tier banks (Continental, Itaú, Sudameris, GNB) and avoid concentrating operating cash in institutions with unresolved Ueno exposure. Reconcile receivables and payables weekly while the deposit-guarantee payouts and asset auctions continue, and require local counterparties to confirm that their accounts and credit lines are unaffected. The BCP's reference rate (G. 6,407.06 on 20 November) should be the contractual benchmark; build a 5-8% FX band into 2027 budgets and consider forward cover for dollar-denominated imports and debt.\n\n🔴 Fiscal and regulatory watch: the 2027 budget debate on 24-28 November and the 20 December deadline are the key windows for tax, spending and procurement changes. The government has cut about USD 100 million of discretionary spending and USD 80 million from Hambre Cero, and business groups are pressing for further discipline; any tax increase would hit formal-sector margins. Chinese firms should map their exposure to public-sector contracts and payment cycles, and avoid pricing assumptions that depend on the 1.5% fiscal rule being met. Fitch's negative watch also raises the cost of locally issued guarantees and performance bonds.\n\n🟢 Energy and digital opportunities: electricity demand is growing 16% a year, Itaipú supplies over 92% of the system, and the government is prioritising AI data centres over crypto-mining, with 15-year contracts at USD 48.91-56.39/MWh and a 6,300 MW queue of pending requests. This is a genuine opening for Chinese equipment, EPC and cooling suppliers, but the Araico/Crusoe and Yguazú Digital contracts are politically contested, the tariff for the new AI category excludes crypto, and the 31 December Itaipú deadline could change the entire cost base. Partner with local developers, secure off-take and grid-connection commitments before committing capital, and assume stricter screening of Chinese technology in telecoms and data centres.\n\n🟡 Security and operations: the kidnapping of two policemen in central Asunción and the seizure of military-style gear and crypto rigs in Alto Paraná show that organised crime is active in the tri-border area. Review route risk, escort protocols, insurance and staff tracking for operations in Canindeyú, Amambay and the border corridor. On telecoms, Tigo and Personal must launch 5G by February 2027 and Claro is already live, so enterprise connectivity and IoT offers will improve through 2027; negotiate multi-year contracts now while operators compete for corporate accounts.",
       "user_notes": ""
     }
   ]
